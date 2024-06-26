@@ -16,6 +16,7 @@ using Microsoft.Extensions.Configuration;
 using Serilog;
 using System.Text;
 using DigitalWorldOnline.Account.Models.Configuration;
+using DigitalWorldOnline.Application.Admin.Commands;
 
 namespace DigitalWorldOnline.Account
 {
@@ -74,16 +75,23 @@ namespace DigitalWorldOnline.Account
                         var account = await _sender.Send(new AccountByUsernameQuery(username));
                         if (account == null)
                         {
-                            _logger.Debug("Saving {Username} login try for incorrect username...", username);
-                            await _sender.Send(
-                                new CreateLoginTryCommand(
-                                    username,
-                                    client.ClientAddress,
-                                    LoginTryResultEnum.IncorrectUsername
-                                )
-                            );
-                            client.Send(new LoginRequestAnswerPacket(LoginFailReasonEnum.UserNotFound));
-                            break;
+                            if (_authenticationServerConfiguration.AllowRegisterOnLogin)
+                            {
+                                account = await _sender.Send(new CreateGameAccountQuery(username, password.HashPassword()));
+                            }
+                            if (account == null)
+                            {
+                                _logger.Debug("Saving {Username} login try for incorrect username...", username);
+                                await _sender.Send(
+                                    new CreateLoginTryCommand(
+                                        username,
+                                        client.ClientAddress,
+                                        LoginTryResultEnum.IncorrectUsername
+                                    )
+                                );
+                                client.Send(new LoginRequestAnswerPacket(LoginFailReasonEnum.UserNotFound));
+                                break;
+                            }
                         }
 
                         client.SetAccountId(account.Id);
