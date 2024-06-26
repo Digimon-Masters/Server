@@ -21,6 +21,7 @@ using Serilog.Events;
 using System.Globalization;
 using System.Reflection;
 using DigitalWorldOnline.Account.Models.Configuration;
+using DigitalWorldOnline.Commons.Utils;
 using Microsoft.EntityFrameworkCore;
 
 namespace DigitalWorldOnline.Account
@@ -54,9 +55,9 @@ namespace DigitalWorldOnline.Account
                 {
                     services.AddDbContext<DatabaseContext>();
                    
-                    var authenticationServerConfiguration = new AuthenticationServerConfigurationModel();
-                    context.Configuration.GetSection("AuthenticationServer").Bind(authenticationServerConfiguration);
-                    services.AddSingleton(authenticationServerConfiguration);
+                    services.AddOptions<AuthenticationServerConfigurationModel>()
+                            .BindConfiguration("AuthenticationServer")
+                            .ValidateOnStart();
                     
                     services.AddScoped<IAdminQueriesRepository, AdminQueriesRepository>();
                     services.AddScoped<IAdminCommandsRepository, AdminCommandsRepository>();
@@ -96,10 +97,10 @@ namespace DigitalWorldOnline.Account
                 })
                 .ConfigureHostConfiguration(hostConfig =>
                 {
-                    hostConfig.SetBasePath(Directory.GetCurrentDirectory());
-                    hostConfig.AddEnvironmentVariables("DSO_");
-                })
-                .Build();
+                    hostConfig.SetBasePath(Directory.GetCurrentDirectory())
+                        .AddEnvironmentVariables(Constants.Configuration.EnvironmentPrefix)
+                        .AddUserSecrets<Program>();
+                }).Build();
 
 
             //Applying migrations. It's enough to do this on the AccountServer, for now.
