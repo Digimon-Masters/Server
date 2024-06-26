@@ -22,7 +22,7 @@ namespace DigitalWorldOnline.Infraestructure
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var configurationDatabaseKey = _configuration[Constants.Configuration.DatabaseKey];
+            var configurationDatabaseKey = _configuration != null ?  _configuration[Constants.Configuration.DatabaseKey] : null;
             //Set a system environment variable with key DMO_ConnectionStrings:Digimon
             var systemEnvironmentKey = Environment.GetEnvironmentVariable($"{Constants.Configuration.EnvironmentPrefix}{Constants.Configuration.DatabaseKey}", EnvironmentVariableTarget.Machine);
             optionsBuilder.UseSqlServer(systemEnvironmentKey ?? configurationDatabaseKey);

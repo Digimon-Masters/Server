@@ -1,4 +1,5 @@
-﻿using DigitalWorldOnline.Commons.Enums.ClientEnums;
+﻿using DigitalWorldOnline.Commons.DTOs.Shop;
+using DigitalWorldOnline.Commons.Enums.ClientEnums;
 
 namespace DigitalWorldOnline.Commons.DTOs.Assets
 {
@@ -141,5 +142,7 @@ namespace DigitalWorldOnline.Commons.DTOs.Assets
         /// Item target enumeration.
         /// </summary>
         public ItemConsumeTargetEnum Target { get; set; }
+        
+        public ICollection<CashShopItemsDTO> CashShopItemsNavigation { get; set; } = new HashSet<CashShopItemsDTO>();
     }
 }
