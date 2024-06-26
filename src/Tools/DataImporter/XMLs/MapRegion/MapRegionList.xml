@@ -1,0 +1,702 @@
+
+<MapRegionList>
+	<MapRegion Id="1" Name="Dats Center">
+		<EntryPoint Id="1" X="32017" Y="28311" Radius="1473" Name="Dats Center Riverfront"/>
+		<EntryPoint Id="2" X="29900" Y="28421" Radius="1626" Name="Dats Center Riverfront"/>
+		<EntryPoint Id="3" X="27413" Y="28341" Radius="1626" Name="Dats Center Riverfront"/>
+		<EntryPoint Id="4" X="24463" Y="14348" Radius="1779" Name="Road to Yokohama Village"/>
+		<EntryPoint Id="5" X="32169" Y="25974" Radius="863" Name="Entrance to D-Terminal Elevator"/>
+		<EntryPoint Id="6" X="27513" Y="25919" Radius="863" Name="D-Terminal Dungeon"/>
+	</MapRegion>
+	<MapRegion Id="2" Name="D-terminal">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12364" Y="10421" Radius="1168" Name="Train to Western Area"/>
+		<EntryPoint Id="2" X="9672" Y="14982" Radius="1098" Name="Train to Mud Fridge Village"/>
+		<EntryPoint Id="3" X="10472" Y="12374" Radius="1168" Name="Train to Floramon Village "/>
+		<EntryPoint Id="4" X="15029" Y="9611" Radius="1321" Name="Train to Gekkomon Village "/>
+		<EntryPoint Id="5" X="17562" Y="10556" Radius="1016" Name="Train to Ice Area"/>
+		<EntryPoint Id="6" X="19523" Y="12392" Radius="1098" Name="Train to Tokyo-Odaiba"/>
+		<EntryPoint Id="7" X="20285" Y="15013" Radius="1168" Name="Train to Steel Area"/>
+		<EntryPoint Id="8" X="19554" Y="17646" Radius="1321" Name="Train to New Digital World"/>
+		<EntryPoint Id="9" X="10420" Y="17643" Radius="1098" Name="Train to Shadow Labyrinth"/>
+		<EntryPoint Id="10" X="14998" Y="20255" Radius="1098" Name="Train to File IslandServer Continent"/>
+		<EntryPoint Id="11" X="12351" Y="19597" Radius="1098" Name="Train to 4 Holy Beasts Dungeon"/>
+	</MapRegion>
+	<MapRegion Id="3" Name="Dats Center">
+		<Fatigue Enabled="0" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="20234" Y="41309" Radius="4138" Name="Command Center"/>
+	</MapRegion>
+	<MapRegion Id="11" Name="D-terminal-Dungeon-B1">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="26069" Y="26786" Radius="1831" Name="Elevator to Dats Center"/>
+		<EntryPoint Id="2" X="27103" Y="41877" Radius="1542" Name="Road to Underground Dungeon Level 2 "/>
+		<EntryPoint Id="3" X="28178" Y="30562" Radius="2408" Name="Seducing IceDevimon"/>
+		<EntryPoint Id="4" X="36186" Y="5716" Radius="2984" Name="Arrival of Gotsumon the Destroyer"/>
+		<EntryPoint Id="5" X="6320" Y="37477" Radius="2984" Name="Arrival of Bearmon the Destroyer"/>
+		<EntryPoint Id="6" X="23784" Y="41807" Radius="1542" Name="Dilemma of IceDevimon"/>
+	</MapRegion>
+	<MapRegion Id="12" Name="D-terminal-Dungeon-B2">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="22931" Y="23880" Radius="2119" Name="Road to Underground Dungeon Level 1"/>
+		<EntryPoint Id="2" X="8328" Y="23255" Radius="2696" Name="Road to Underground Dungeon Level 3"/>
+		<EntryPoint Id="3" X="15819" Y="19838" Radius="4427" Name="Shout of Leomon Survive"/>
+		<EntryPoint Id="4" X="13755" Y="5868" Radius="4427" Name="Trace of Devimon"/>
+		<EntryPoint Id="5" X="37617" Y="12520" Radius="5869" Name="Brainwashed Digimons"/>
+		<EntryPoint Id="6" X="41652" Y="36797" Radius="5292" Name="Black Gear"/>
+		<EntryPoint Id="7" X="14091" Y="43642" Radius="4138" Name="Unexpected trap"/>
+	</MapRegion>
+	<MapRegion Id="13" Name="D-Terminal Underground Summon Square">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="30422" Y="27902" Radius="4715" Name="Monster Card Summon Area"/>
+	</MapRegion>
+	<MapRegion Id="14" Name="Mystic GMs Room">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8666" Y="7786" Radius="4427" Name="onster Card Summon Area"/>
+	</MapRegion>
+	<MapRegion Id="15" Name="The Void">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12603" Y="23437" Radius="2408" Name="Demons Hideout"/>
+		<EntryPoint Id="2" X="12578" Y="38399" Radius="2408" Name="SeaDragons Fortress"/>
+		<EntryPoint Id="3" X="25592" Y="45895" Radius="2408" Name="Puppets Mansion"/>
+		<EntryPoint Id="4" X="38550" Y="38390" Radius="2408" Name="SteelDragons Domain"/>
+		<EntryPoint Id="5" X="38521" Y="23571" Radius="2408" Name="MadClowns Stage"/>
+		<EntryPoint Id="6" X="25548" Y="30928" Radius="3400" Name="Pentagram of Despair"/>
+	</MapRegion>
+	<MapRegion Id="17" Name="Colosseum Stadium">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="15116" Y="15001" Radius="14522" Name="Digimon Arena"/>
+	</MapRegion>
+	<MapRegion Id="20" Name="Duel Sphere">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12000" Y="12000" Radius="9000" Name="Duel Sphere"/>
+	</MapRegion>
+	<MapRegion Id="100" Name="Yokohama Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8985" Y="10039" Radius="2236" Name="Yokohama Park (Road to Wood Bench Park)"/>
+		<EntryPoint Id="2" X="8300" Y="14440" Radius="2236" Name="Yokohama Park (Road to Small Forest Park)"/>
+		<EntryPoint Id="3" X="21864" Y="22050" Radius="1473" Name="Road to Dats Center"/>
+		<EntryPoint Id="4" X="11327" Y="19230" Radius="2999" Name="In front of Hospital (Resurrection Point)"/>
+		<EntryPoint Id="5" X="18348" Y="18859" Radius="2236" Name="Village Market"/>
+		<EntryPoint Id="6" X="16389" Y="17703" Radius="1779" Name="Village Market"/>
+		<EntryPoint Id="7" X="15119" Y="16121" Radius="1473" Name="Village Market "/>
+		<EntryPoint Id="8" X="20190" Y="9618" Radius="863" Name="In front of Marcus Damons House"/>
+		<EntryPoint Id="9" X="24712" Y="14997" Radius="1931" Name="Empty Lot in Village "/>
+		<EntryPoint Id="10" X="20253" Y="14225" Radius="253" Name="Request by Akihiro Kurata"/>
+		<EntryPoint Id="11" X="18609" Y="13230" Radius="1542" Name="Village Center"/>
+		<EntryPoint Id="12" X="12330" Y="12075" Radius="863" Name="Dats Secondary Headquarters"/>
+	</MapRegion>
+	<MapRegion Id="101" Name="Burning Time - Weekends">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12967" Y="12377" Radius="1168" Name="Road to Yokohama Park(Small Forest Trails)"/>
+		<EntryPoint Id="2" X="40971" Y="32341" Radius="1779" Name="Road to Yokohama Village "/>
+		<EntryPoint Id="3" X="38848" Y="32321" Radius="863" Name="I am the number one Tamer The Beginning of Adventure"/>
+		<EntryPoint Id="4" X="21335" Y="16141" Radius="4427" Name="Counterattack by Demi Meramon"/>
+	</MapRegion>
+	<MapRegion Id="102" Name="Burning Time - Weekends">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="13356" Y="27122" Radius="558" Name="Akihiro Kuratas Plot"/>
+		<EntryPoint Id="2" X="35933" Y="35660" Radius="1931" Name="Road to Yokohama Park(Small Forest Park)"/>
+		<EntryPoint Id="3" X="33847" Y="13827" Radius="2999" Name="Road to Yokohama Village  East"/>
+		<EntryPoint Id="4" X="26234" Y="19142" Radius="7272" Name="The Arrival of a New Enemy Bearmon"/>
+		<EntryPoint Id="5" X="33845" Y="36807" Radius="500" Name="The beginning of real adventure Let it burn Digi-Soul"/>
+	</MapRegion>
+	<MapRegion Id="103" Name="Burning Time - Weekends">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="40565" Y="32165" Radius="1321" Name="Road to Yokohama Village "/>
+		<EntryPoint Id="2" X="12540" Y="12210" Radius="1321" Name="Road to Yokohama Park(Wood Bench Trail)"/>
+		<EntryPoint Id="3" X="39141" Y="32396" Radius="863" Name="I am the number one Tamer The Beginning of Adventure"/>
+		<EntryPoint Id="4" X="21151" Y="15969" Radius="5003" Name="Counterattack Kunemon"/>
+	</MapRegion>
+	<MapRegion Id="104" Name="Burning Time - Weekends">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="13379" Y="27031" Radius="558" Name="Neons Request"/>
+		<EntryPoint Id="2" X="35313" Y="35794" Radius="1321" Name="Road to Yokohama Park(Wooden Bench Park)"/>
+		<EntryPoint Id="3" X="33452" Y="14134" Radius="2694" Name="Road to Yokohama Village  East"/>
+		<EntryPoint Id="4" X="33318" Y="35334" Radius="677" Name="The beginning of real adventure Let it burn Digi-Soul"/>
+		<EntryPoint Id="5" X="33551" Y="36714" Radius="677" Name="The beginning of real adventure Let it burn Digi-Soul"/>
+		<EntryPoint Id="6" X="25558" Y="18452" Radius="3850" Name="The Tyranny of Gabumon"/>
+	</MapRegion>
+	<MapRegion Id="105" Name="Yokohama Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="11007" Y="18825" Radius="5003" Name="Yokohama Park"/>
+		<EntryPoint Id="2" X="21155" Y="24660" Radius="6734" Name="A Housing Estate"/>
+		<EntryPoint Id="3" X="34502" Y="29948" Radius="3561" Name="Yokohama elementary school"/>
+		<EntryPoint Id="4" X="22347" Y="35167" Radius="2119" Name="Suspecious Victory"/>
+		<EntryPoint Id="5" X="34859" Y="20309" Radius="4715" Name="Messed up Road"/>
+		<EntryPoint Id="6" X="34284" Y="8091" Radius="4427" Name="Bank Robber"/>
+		<EntryPoint Id="7" X="24600" Y="5774" Radius="5003" Name="Playing with Fire"/>
+		<EntryPoint Id="8" X="13416" Y="7631" Radius="6157" Name="The Ghost of the Ship"/>
+		<EntryPoint Id="9" X="45063" Y="12825" Radius="7311" Name="Suspecious Singer"/>
+	</MapRegion>
+	<MapRegion Id="110" Name="Yokohama East Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="20803" Y="11629" Radius="1542" Name="Road to Oil Refinery-1"/>
+		<EntryPoint Id="2" X="8859" Y="21980" Radius="1254" Name="Road to Yokohama Village"/>
+		<EntryPoint Id="3" X="12110" Y="14808" Radius="1831" Name="Clock Tower in Yokohama Village  East"/>
+		<EntryPoint Id="4" X="17311" Y="20042" Radius="1542" Name="Dats Center Support Vehicle in Yokohama Village  East"/>
+	</MapRegion>
+	<MapRegion Id="111" Name="Oil refinery-1">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="35531" Y="39144" Radius="9256" Name="Central Area of Oil Refinery-1"/>
+		<EntryPoint Id="2" X="21746" Y="26904" Radius="12461" Name="Southwest Area of Oil Refinery-1"/>
+		<EntryPoint Id="3" X="26007" Y="50918" Radius="6814" Name="Northwest Area of Oil Refinery-1"/>
+		<EntryPoint Id="4" X="41162" Y="23895" Radius="9866" Name="Southeast Area of Oil Refinery-1"/>
+		<EntryPoint Id="5" X="51293" Y="26428" Radius="9103" Name="Southeast Area of Oil Refinery-1"/>
+		<EntryPoint Id="6" X="49322" Y="50266" Radius="3457" Name="Northeast Area of Oil Refinery-1"/>
+		<EntryPoint Id="7" X="38569" Y="51923" Radius="8035" Name="Northeast Area of Oil Refinery-1"/>
+		<EntryPoint Id="8" X="55624" Y="41168" Radius="3152" Name="Road to Yokohama Village  East"/>
+		<EntryPoint Id="9" X="15377" Y="49190" Radius="4068" Name="Road to Oil Refinery-2"/>
+	</MapRegion>
+	<MapRegion Id="112" Name="Oil refinery-2">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="13126" Y="31249" Radius="2084" Name="Road to Oil Refinery-1"/>
+		<EntryPoint Id="2" X="34558" Y="41619" Radius="6204" Name="Counterattack by Sinduramon"/>
+		<EntryPoint Id="3" X="34436" Y="41546" Radius="6204" Name="Counterattack by Sinduramon"/>
+		<EntryPoint Id="4" X="15090" Y="56268" Radius="11850" Name="Duel with Meteormon"/>
+		<EntryPoint Id="5" X="37146" Y="62453" Radius="12308" Name="Northeast Area of Oil Refinery-3"/>
+		<EntryPoint Id="6" X="41231" Y="48737" Radius="2999" Name="Road to Oil Refinery-3"/>
+		<EntryPoint Id="7" X="17997" Y="15512" Radius="5136" Name="Riverfront of Oil Refinery-2"/>
+		<EntryPoint Id="8" X="22418" Y="15972" Radius="4525" Name="Riverfront of Oil Refinery-2"/>
+		<EntryPoint Id="9" X="28100" Y="15480" Radius="4983" Name="Riverfront of Oil Refinery-2"/>
+		<EntryPoint Id="10" X="33386" Y="16430" Radius="4373" Name="Riverfront of Oil Refinery-2"/>
+		<EntryPoint Id="11" X="39389" Y="18605" Radius="6051" Name="Riverfront of Oil Refinery-2"/>
+		<EntryPoint Id="12" X="21300" Y="42479" Radius="558" Name="Akihiro Kuratas Past "/>
+	</MapRegion>
+	<MapRegion Id="113" Name="Oil refinery-3">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33419" Y="18025" Radius="17344" Name="Restricted Area - Frequent Appearance of Dangerous Digimon"/>
+		<EntryPoint Id="2" X="12689" Y="75110" Radius="15360" Name="Gas Tank Concentrated Area of Oil Refinery-3"/>
+		<EntryPoint Id="3" X="48517" Y="83160" Radius="13071" Name="Oil Tank Concentrated Area of Oil Refinery-3"/>
+		<EntryPoint Id="4" X="54068" Y="72097" Radius="13071" Name="Oil Tank Concentrated Area of Oil Refinery-3"/>
+		<EntryPoint Id="5" X="24878" Y="51556" Radius="3152" Name="Road to Oil Refinery-2 "/>
+		<EntryPoint Id="6" X="50945" Y="46949" Radius="8493" Name="Oil Refinery Workers House "/>
+	</MapRegion>
+	<MapRegion Id="200" Name="CampSite">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="6373" Y="18747" Radius="2742" Name="Temple"/>
+		<EntryPoint Id="2" X="5884" Y="13139" Radius="2425" Name="Stairs"/>
+		<EntryPoint Id="3" X="5994" Y="4909" Radius="3693" Name="Camp Site"/>
+		<EntryPoint Id="4" X="12246" Y="4473" Radius="2953" Name="In front of Buses"/>
+		<EntryPoint Id="5" X="19679" Y="4037" Radius="3059" Name="The Back of Beyond Camp Site"/>
+		<EntryPoint Id="6" X="19180" Y="15574" Radius="1896" Name="Way to Valley of Light"/>
+	</MapRegion>
+	<MapRegion Id="201" Name="Valley of Light">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="44517" Y="20028" Radius="1791" Name="Valley of Light  "/>
+		<EntryPoint Id="2" X="43216" Y="14600" Radius="840" Name="Observing Spot A"/>
+		<EntryPoint Id="3" X="45802" Y="16554" Radius="1157" Name="Observing Spot B"/>
+		<EntryPoint Id="4" X="40747" Y="12266" Radius="1896" Name="Ginkgo Tree Road"/>
+		<EntryPoint Id="5" X="33922" Y="11720" Radius="2530" Name="Valley of Light Station"/>
+		<EntryPoint Id="6" X="27307" Y="14505" Radius="2213" Name="Stinky Road"/>
+		<EntryPoint Id="7" X="38261" Y="16358" Radius="2319" Name="Place of Memory of 4 years ago"/>
+		<EntryPoint Id="8" X="40542" Y="21751" Radius="2108" Name="Convenience Store"/>
+		<EntryPoint Id="9" X="20421" Y="29136" Radius="10456" Name="2nd Avenue of Scent of Four Sesaons"/>
+		<EntryPoint Id="10" X="28615" Y="18682" Radius="628" Name="Program Aroused Spot"/>
+		<EntryPoint Id="11" X="9479" Y="17408" Radius="4116" Name="Footprint of Mammothmon"/>
+	</MapRegion>
+	<MapRegion Id="202" Name="Shibuya">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="43178" Y="15677" Radius="1896" Name="Shibuya Station- Hachiko Statue"/>
+		<EntryPoint Id="2" X="39456" Y="20997" Radius="4538" Name="Scramble Intersection"/>
+		<EntryPoint Id="3" X="30868" Y="11498" Radius="3587" Name="Southern Shibuya"/>
+		<EntryPoint Id="4" X="19870" Y="8645" Radius="3587" Name="Suburb of Shibuya"/>
+		<EntryPoint Id="5" X="18536" Y="23788" Radius="1051" Name="Digivice Signal Spot"/>
+		<EntryPoint Id="6" X="24085" Y="29406" Radius="2319" Name="Park  "/>
+		<EntryPoint Id="7" X="26276" Y="22122" Radius="2953" Name="Shibuya Shoppingmall"/>
+		<EntryPoint Id="8" X="46814" Y="34445" Radius="5067" Name="Eastern Shibuya"/>
+		<EntryPoint Id="9" X="45520" Y="21158" Radius="1051" Name="Digivice Signal Spot A"/>
+		<EntryPoint Id="10" X="43745" Y="41589" Radius="1051" Name="Digivice Signal Spot B"/>
+		<EntryPoint Id="11" X="37109" Y="46052" Radius="4221" Name="Northern Shibuya"/>
+		<EntryPoint Id="12" X="35651" Y="34943" Radius="2848" Name="Gloomy Intersection"/>
+		<EntryPoint Id="13" X="33298" Y="28628" Radius="1579" Name="Ferocious Dog Appearing Spot"/>
+		<EntryPoint Id="14" X="29994" Y="41095" Radius="1579" Name="Construction Site"/>
+		<EntryPoint Id="15" X="20134" Y="51124" Radius="5806" Name="Battle Myotismon"/>
+	</MapRegion>
+	<MapRegion Id="203" Name="Tokyo Tower">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="14524" Y="9605" Radius="4855" Name="Tokyo Tower"/>
+		<EntryPoint Id="2" X="36974" Y="8063" Radius="4538" Name="Park in front of Tokyo Tower"/>
+		<EntryPoint Id="3" X="27147" Y="8003" Radius="4010" Name="Fire Spot"/>
+		<EntryPoint Id="4" X="8939" Y="17522" Radius="4010" Name="Dream Garden"/>
+		<EntryPoint Id="5" X="14672" Y="17419" Radius="1262" Name="Hope Garden"/>
+		<EntryPoint Id="6" X="30891" Y="22493" Radius="5384" Name="Spot of Bore"/>
+		<EntryPoint Id="7" X="35787" Y="27161" Radius="1051" Name="Sound Track Spot A"/>
+		<EntryPoint Id="8" X="30828" Y="29662" Radius="1051" Name="Sound Track Spot B"/>
+		<EntryPoint Id="9" X="28557" Y="13201" Radius="1051" Name="Sound Track Spot C"/>
+		<EntryPoint Id="10" X="32648" Y="12275" Radius="1051" Name="Sound Track Spot D"/>
+		<EntryPoint Id="11" X="18150" Y="27164" Radius="3376" Name="Blazing Road"/>
+		<EntryPoint Id="12" X="27237" Y="15000" Radius="1262" Name="Tokyo Tower Entrance"/>
+	</MapRegion>
+	<MapRegion Id="204" Name="Tokyo Tower Observatory">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="26000" Y="25000" Radius="6229" Name="Tokyo-Tower Observatory"/>
+	</MapRegion>
+	<MapRegion Id="205" Name="Tokyo Tower Observatory (Dungeon)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="26000" Y="25000" Radius="6229" Name="Tokyo-Tower Observatory"/>
+	</MapRegion>
+	<MapRegion Id="206" Name="Minato City">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="53323" Y="16763" Radius="2742" Name="Minato City"/>
+		<EntryPoint Id="2" X="60259" Y="27050" Radius="4644" Name="Taichis Apartment"/>
+		<EntryPoint Id="3" X="40369" Y="42726" Radius="12252" Name="Odaiba Beach"/>
+		<EntryPoint Id="4" X="42679" Y="22388" Radius="8026" Name="Odaiba Beach Square"/>
+		<EntryPoint Id="5" X="22696" Y="11163" Radius="8343" Name="Strange Forest"/>
+		<EntryPoint Id="6" X="22472" Y="26244" Radius="6440" Name="Dusky Beach"/>
+		<EntryPoint Id="7" X="43962" Y="60574" Radius="5912" Name="North Odaiba Beach"/>
+		<EntryPoint Id="8" X="61274" Y="46142" Radius="8977" Name="Odaiba Rainbow Park"/>
+		<EntryPoint Id="9" X="31382" Y="68093" Radius="8448" Name="Daiba Park Street"/>
+		<EntryPoint Id="10" X="12754" Y="68093" Radius="8977" Name="Daiba Park"/>
+	</MapRegion>
+	<MapRegion Id="207" Name="Big Sight">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="22260" Y="32588" Radius="2742" Name="Big Sight"/>
+		<EntryPoint Id="2" X="22214" Y="24966" Radius="4116" Name="Big Sight Square"/>
+		<EntryPoint Id="3" X="36449" Y="32785" Radius="3270" Name="Big Sight Outskirts Park"/>
+		<EntryPoint Id="4" X="28803" Y="32762" Radius="3904" Name="Dramon Camp"/>
+		<EntryPoint Id="5" X="31416" Y="26669" Radius="2530" Name="Demons Barricade"/>
+		<EntryPoint Id="6" X="14598" Y="32302" Radius="4031" Name="Saw Sculpture"/>
+		<EntryPoint Id="7" X="22149" Y="17714" Radius="2953" Name="Big Sight Hall"/>
+	</MapRegion>
+	<MapRegion Id="208" Name="Odaiba">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="26797" Y="45543" Radius="4644" Name="Odaiba"/>
+		<EntryPoint Id="2" X="17657" Y="45267" Radius="1791" Name="Hideout"/>
+		<EntryPoint Id="3" X="11884" Y="26320" Radius="5384" Name="Parking Lot Area 1"/>
+		<EntryPoint Id="4" X="11273" Y="10445" Radius="7920" Name="Parking Lot Area 2"/>
+		<EntryPoint Id="5" X="41197" Y="6739" Radius="10456" Name="Parking Lot Area 3"/>
+		<EntryPoint Id="6" X="51406" Y="20300" Radius="4327" Name="Path Heading to Big Sight"/>
+		<EntryPoint Id="7" X="44818" Y="29733" Radius="5701" Name="Odaiba Square"/>
+		<EntryPoint Id="8" X="44534" Y="48779" Radius="13098" Name="Fuji TV Main Gate"/>
+		<EntryPoint Id="9" X="26236" Y="19595" Radius="9188" Name="West Promenade"/>
+	</MapRegion>
+	<MapRegion Id="209" Name="Fuji TV Rooftop">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="14928" Y="18603" Radius="9294" Name="Fuji TV Rooftop"/>
+	</MapRegion>
+	<MapRegion Id="210" Name="Fuji TV Rooftop (Dungeon)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="14928" Y="18603" Radius="9294" Name="Fuji TV Rooftop"/>
+	</MapRegion>
+	<MapRegion Id="211" Name="Venomous Vortex (Dungeon)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12251" Y="9189" Radius="9082" Name="Venomous Vortex"/>
+	</MapRegion>
+	<MapRegion Id="1100" Name="Western Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="24653" Y="61153" Radius="4220" Name="Western Village "/>
+		<EntryPoint Id="2" X="22182" Y="56063" Radius="2999" Name="Western Train Station"/>
+		<EntryPoint Id="3" X="33008" Y="94916" Radius="5746" Name="Shrine of Dupetemon Royal Knights"/>
+		<EntryPoint Id="4" X="19188" Y="60240" Radius="2389" Name="Western Village"/>
+		<EntryPoint Id="5" X="14696" Y="61977" Radius="1473" Name="House of Resurrection in Western Area"/>
+		<EntryPoint Id="6" X="30635" Y="80699" Radius="6357" Name="Duel with your Fierce Enemy The Fury of Impmon"/>
+		<EntryPoint Id="7" X="45397" Y="82646" Radius="6734" Name="Passage of Western Village  Outskirts"/>
+	</MapRegion>
+	<MapRegion Id="1101" Name="Wilderness Area">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="5468" Y="20521" Radius="2389" Name="Road to Western Area  EastBattle Area"/>
+		<EntryPoint Id="2" X="40175" Y="6114" Radius="4068" Name="Road to Digimon Farm"/>
+		<EntryPoint Id="3" X="34734" Y="40049" Radius="3610" Name="Road to Wind Valley"/>
+		<EntryPoint Id="4" X="20192" Y="30789" Radius="1831" Name="The Inevitable Duel with Piyomon"/>
+		<EntryPoint Id="5" X="27030" Y="30229" Radius="2984" Name="Wasteland Lake "/>
+		<EntryPoint Id="6" X="24702" Y="35694" Radius="1831" Name="The Inevitable Duel with Piyomon"/>
+		<EntryPoint Id="7" X="31372" Y="34468" Radius="1831" Name="The Inevitable Duel with Piyomon"/>
+		<EntryPoint Id="8" X="34175" Y="30245" Radius="1831" Name="The Inevitable Duel with Piyomon"/>
+		<EntryPoint Id="9" X="15892" Y="37698" Radius="6204" Name="Sabirdramon is Angry"/>
+		<EntryPoint Id="10" X="20445" Y="4710" Radius="4373" Name="A Difficult Enemy Stingmon"/>
+		<EntryPoint Id="11" X="11201" Y="20449" Radius="1254" Name="MudFrigimons Camping Ground"/>
+	</MapRegion>
+	<MapRegion Id="1102" Name="Digimon Farm">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8270" Y="13410" Radius="3152" Name="Road to Wasteland Area 1"/>
+		<EntryPoint Id="2" X="32917" Y="38843" Radius="4373" Name="Road to Wasteland Area 2 "/>
+		<EntryPoint Id="3" X="13787" Y="10038" Radius="3305" Name="Digimon Farm Village "/>
+		<EntryPoint Id="4" X="15702" Y="18991" Radius="1779" Name="Entrance to Digimon Farm Canyon "/>
+		<EntryPoint Id="5" X="32076" Y="12541" Radius="13376" Name="Digimon Farm Grassland Area "/>
+		<EntryPoint Id="6" X="18974" Y="33980" Radius="9256" Name="Digimon Farm Mining Village Area "/>
+	</MapRegion>
+	<MapRegion Id="1103" Name="Wind Valley">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="13419" Y="4304" Radius="3457" Name="Road to Wasteland Area 1"/>
+		<EntryPoint Id="2" X="37355" Y="11845" Radius="2236" Name="Road to Wasteland Area 2"/>
+		<EntryPoint Id="3" X="5533" Y="36980" Radius="5441" Name="Babamon Village"/>
+		<EntryPoint Id="4" X="31837" Y="28292" Radius="7577" Name="Counterattack by Garurumon"/>
+		<EntryPoint Id="5" X="30676" Y="14852" Radius="5136" Name="Cold Devil IceDevimon"/>
+		<EntryPoint Id="6" X="12251" Y="15223" Radius="6814" Name="Fight with Evolved Icemon"/>
+		<EntryPoint Id="7" X="12446" Y="33290" Radius="2213" Name="Garden of Jijimon"/>
+	</MapRegion>
+	<MapRegion Id="1104" Name="Ruined Historic">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8848" Y="16484" Radius="3850" Name="Road to Wind Valley"/>
+		<EntryPoint Id="2" X="16608" Y="9903" Radius="3850" Name="Road to Digimon Farm"/>
+		<EntryPoint Id="3" X="34031" Y="31490" Radius="8465" Name="Occupied historic excavation area"/>
+		<EntryPoint Id="4" X="22038" Y="37159" Radius="4715" Name="Abandoned historic excavation area"/>
+		<EntryPoint Id="5" X="7497" Y="36895" Radius="2084" Name="Resurrection Point in Wasteland 2 "/>
+		<EntryPoint Id="6" X="33848" Y="15239" Radius="3850" Name="Street of Trial"/>
+	</MapRegion>
+	<MapRegion Id="1105" Name="Western Area  Outskirts">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="7747" Y="26776" Radius="6446" Name="Road to Western Area"/>
+		<EntryPoint Id="2" X="48900" Y="36895" Radius="3915" Name="Road to Western Area  East"/>
+		<EntryPoint Id="3" X="45933" Y="8726" Radius="2119" Name="Akihiro Kuratas Temporary Laboratory"/>
+		<EntryPoint Id="4" X="9677" Y="9132" Radius="8753" Name="Leomons Lair"/>
+		<EntryPoint Id="5" X="24569" Y="26960" Radius="5580" Name="Central Road to Outer Area"/>
+		<EntryPoint Id="6" X="14090" Y="44823" Radius="7599" Name="Gloomy Outer Area"/>
+		<EntryPoint Id="7" X="41757" Y="48492" Radius="7888" Name="Sandfalls in Outer Area"/>
+	</MapRegion>
+	<MapRegion Id="1106" Name="Western Area  East">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="9666" Y="26522" Radius="3152" Name="Road to Western Village Outskirts"/>
+		<EntryPoint Id="2" X="49487" Y="36614" Radius="4831" Name="Road to Wilderness Area"/>
+		<EntryPoint Id="3" X="29251" Y="21496" Radius="5869" Name="Ruins of a Surprise Attack"/>
+		<EntryPoint Id="4" X="24149" Y="12716" Radius="3273" Name="Traces of Battle"/>
+		<EntryPoint Id="5" X="17336" Y="45454" Radius="5292" Name="Leomons Invasion Route"/>
+		<EntryPoint Id="6" X="44913" Y="21798" Radius="5869" Name="Leomons Assembly Place"/>
+		<EntryPoint Id="7" X="47673" Y="8070" Radius="2408" Name="Hideout"/>
+		<EntryPoint Id="8" X="11684" Y="12119" Radius="7599" Name="Deputymons Lair"/>
+		<EntryPoint Id="9" X="41651" Y="51046" Radius="5278" Name="Decisive Battle Omegamon"/>
+		<EntryPoint Id="10" X="45421" Y="42722" Radius="3904" Name="Akihiro Kuratas Hideout"/>
+	</MapRegion>
+	<MapRegion Id="1107" Name="Western Area  West">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="9882" Y="11660" Radius="5580" Name="Unknown Ruins"/>
+	</MapRegion>
+	<MapRegion Id="1108" Name="Digimon Maze Entrance">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="34873" Y="35386" Radius="3850" Name="Strange Altar"/>
+		<EntryPoint Id="2" X="13225" Y="19335" Radius="5580" Name="Destroyed Holy Site"/>
+		<EntryPoint Id="3" X="39803" Y="17176" Radius="3273" Name="Digimon Maze Gate"/>
+		<EntryPoint Id="4" X="25485" Y="15781" Radius="5580" Name="Ruins"/>
+		<EntryPoint Id="5" X="49776" Y="52233" Radius="12214" Name="Ruined Castle Wall"/>
+		<EntryPoint Id="6" X="25486" Y="47001" Radius="1831" Name="Starmon Camp"/>
+		<EntryPoint Id="7" X="15619" Y="51160" Radius="1542" Name="Digimon Maze Entrance"/>
+	</MapRegion>
+	<MapRegion Id="1109" Name="Dark tower Wasteland">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="45851" Y="17988" Radius="7888" Name="South Dark Tower"/>
+		<EntryPoint Id="2" X="9010" Y="10104" Radius="7599" Name="Southwest Dark Tower"/>
+		<EntryPoint Id="3" X="57561" Y="48003" Radius="7599" Name="Central Dark Tower"/>
+		<EntryPoint Id="4" X="8809" Y="66192" Radius="7311" Name="Northwest Dark Tower"/>
+		<EntryPoint Id="5" X="68934" Y="64989" Radius="10484" Name="East Dark Tower"/>
+	</MapRegion>
+	<MapRegion Id="1201" Name="Digimon Maze B1">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="14074" Y="36271" Radius="3561" Name="Battle Leomon VS Boltmon"/>
+	</MapRegion>
+	<MapRegion Id="1202" Name="Digimon Maze B2">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="41086" Y="41180" Radius="5292" Name="Digimon maze entrance B2"/>
+	</MapRegion>
+	<MapRegion Id="1203" Name="Digimon Maze F1">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="24084" Y="14526" Radius="7023" Name="Begin the Search"/>
+		<EntryPoint Id="2" X="38724" Y="20389" Radius="5869" Name="Invisible Wall"/>
+		<EntryPoint Id="3" X="9744" Y="16118" Radius="5869" Name="Mini Tower of Mystery"/>
+		<EntryPoint Id="4" X="39528" Y="40749" Radius="5580" Name="A Chance Encounter"/>
+		<EntryPoint Id="5" X="9345" Y="36262" Radius="7023" Name="Find the Exit"/>
+		<EntryPoint Id="6" X="24075" Y="43014" Radius="3273" Name="Anubimons Traces"/>
+		<EntryPoint Id="7" X="23980" Y="27262" Radius="863" Name="Digimon Maze F1"/>
+	</MapRegion>
+	<MapRegion Id="1204" Name="Digimon Maze F2">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="23957" Y="45228" Radius="8176" Name="A Brand New Day"/>
+		<EntryPoint Id="2" X="28542" Y="28491" Radius="5292" Name="Self-Titled Etemon the Most Powerful"/>
+		<EntryPoint Id="3" X="46514" Y="22841" Radius="8465" Name="Lost in the Maze"/>
+		<EntryPoint Id="4" X="51070" Y="50516" Radius="3273" Name="Memories of Anubimon"/>
+		<EntryPoint Id="5" X="5318" Y="28901" Radius="4715" Name="Path of Tranquility"/>
+		<EntryPoint Id="6" X="41016" Y="5093" Radius="4138" Name="Path of Stillness"/>
+		<EntryPoint Id="7" X="64395" Y="39180" Radius="4138" Name="Path of Silence"/>
+	</MapRegion>
+	<MapRegion Id="1205" Name="Digimon Maze F3">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="46948" Y="45235" Radius="5292" Name="One Step at a Time"/>
+		<EntryPoint Id="2" X="46802" Y="23129" Radius="7023" Name="Ruined Mini Tower"/>
+		<EntryPoint Id="3" X="23547" Y="22711" Radius="7023" Name="Digimon Maze of Death"/>
+		<EntryPoint Id="4" X="28902" Y="50008" Radius="1831" Name="Anubimons Final Memories"/>
+		<EntryPoint Id="5" X="64758" Y="34299" Radius="4138" Name="Passage of Beginning"/>
+		<EntryPoint Id="6" X="34964" Y="5300" Radius="4427" Name="Passage of Affliction"/>
+		<EntryPoint Id="7" X="5183" Y="34365" Radius="5003" Name="Passage of the Dead"/>
+	</MapRegion>
+	<MapRegion Id="1206" Name="Digimon Maze F4">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="11986" Y="3722" Radius="1542" Name="The Final Floor"/>
+		<EntryPoint Id="2" X="12017" Y="15255" Radius="1831" Name="Digimon Maze of Trial"/>
+	</MapRegion>
+	<MapRegion Id="1301" Name="Silver Lake">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8251" Y="47980" Radius="5869" Name="Silver Lake"/>
+		<EntryPoint Id="2" X="40082" Y="32984" Radius="1831" Name="Tall Tree"/>
+		<EntryPoint Id="3" X="28483" Y="34812" Radius="4138" Name="Two-Way Wooded Path"/>
+		<EntryPoint Id="4" X="5151" Y="6072" Radius="3850" Name="Unknown Forest"/>
+		<EntryPoint Id="5" X="36641" Y="11271" Radius="5003" Name="Contested Area between Wood and Rocks"/>
+		<EntryPoint Id="6" X="46580" Y="9710" Radius="4138" Name="Path to Silent Forest"/>
+		<EntryPoint Id="7" X="14058" Y="31188" Radius="8465" Name="Three-Way Lake"/>
+	</MapRegion>
+	<MapRegion Id="1302" Name="A Silent Forest">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="22344" Y="19781" Radius="9618" Name="Hope Forest"/>
+		<EntryPoint Id="2" X="20203" Y="42955" Radius="9618" Name="Desolate Trail"/>
+		<EntryPoint Id="3" X="36700" Y="46589" Radius="6157" Name="Dark Forest"/>
+		<EntryPoint Id="4" X="28878" Y="64926" Radius="13368" Name="Black Shadow Forest"/>
+		<EntryPoint Id="5" X="37204" Y="33183" Radius="7023" Name="Cemetery Forest"/>
+		<EntryPoint Id="6" X="62368" Y="62331" Radius="10195" Name="Ogremon Hideout"/>
+		<EntryPoint Id="7" X="57185" Y="24414" Radius="11926" Name="Battle Forest"/>
+	</MapRegion>
+	<MapRegion Id="1303" Name="Lost Historic Site">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="20693" Y="61999" Radius="6157" Name=" Fruit Forest"/>
+		<EntryPoint Id="2" X="23111" Y="39013" Radius="4715" Name="Stinky Forest"/>
+		<EntryPoint Id="3" X="66897" Y="39075" Radius="4138" Name="Explorer camp"/>
+		<EntryPoint Id="4" X="69141" Y="63289" Radius="2119" Name="The Place where Leomon can be seen"/>
+		<EntryPoint Id="5" X="73352" Y="51196" Radius="1254" Name="The way to Water Front"/>
+		<EntryPoint Id="6" X="51138" Y="39229" Radius="2119" Name="The place where stars can be seen"/>
+	</MapRegion>
+	<MapRegion Id="1304" Name="Ancient Ruins of Secret">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="2714" Y="25772" Radius="1410" Name="Secret Ancient Ruins"/>
+		<EntryPoint Id="2" X="34953" Y="5956" Radius="1342" Name="Pounding Jar"/>
+		<EntryPoint Id="3" X="12009" Y="39030" Radius="965" Name="Cracked Legend"/>
+		<EntryPoint Id="4" X="15675" Y="24214" Radius="2119" Name="Digivice Altar"/>
+	</MapRegion>
+	<MapRegion Id="1305" Name="File Island Waterfront">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="53068" Y="27297" Radius="2408" Name="File Island Water Front"/>
+		<EntryPoint Id="2" X="35556" Y="12167" Radius="2119" Name="Strange Payphone"/>
+		<EntryPoint Id="3" X="22451" Y="12519" Radius="3561" Name="Scattered Memory"/>
+		<EntryPoint Id="4" X="27535" Y="35370" Radius="1831" Name="Entrance of  Infinite Mountain"/>
+		<EntryPoint Id="5" X="9579" Y="17850" Radius="5292" Name="Cliff of File Island Water Front"/>
+	</MapRegion>
+	<MapRegion Id="1306" Name="Infinite Mountain">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="15494" Y="24164" Radius="1831" Name="Entrance of Infinite Mountain Dungeon"/>
+	</MapRegion>
+	<MapRegion Id="1307" Name="Infinite Mountain Dungeon">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12603" Y="23437" Radius="2408" Name="Kuwagamons nest"/>
+		<EntryPoint Id="2" X="12578" Y="38399" Radius="2408" Name="Meramons nest"/>
+		<EntryPoint Id="3" X="25592" Y="45895" Radius="2408" Name="MonoChromons trace"/>
+		<EntryPoint Id="4" X="38550" Y="38390" Radius="2408" Name="Spoiled Leomons nest"/>
+		<EntryPoint Id="5" X="38521" Y="23571" Radius="2408" Name="Ogremons nest"/>
+		<EntryPoint Id="6" X="25548" Y="30928" Radius="3400" Name="Devimons magic circle"/>
+	</MapRegion>
+	<MapRegion Id="1308" Name="Infinite Mountain instanceDungeon">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="10129" Y="7437" Radius="9042" Name="Infinite Mountain instanceDungeon"/>
+	</MapRegion>
+	<MapRegion Id="1400" Name="Server Continent Desert">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="74832" Y="29888" Radius="3850" Name="Oasis in Desert"/>
+		<EntryPoint Id="2" X="80417" Y="12499" Radius="3850" Name="Battle  Colosseum"/>
+		<EntryPoint Id="3" X="61332" Y="17214" Radius="3850" Name="Giant Cactus"/>
+		<EntryPoint Id="4" X="26159" Y="32963" Radius="1498" Name="Hill"/>
+		<EntryPoint Id="5" X="11723" Y="24235" Radius="1498" Name="Shelter of Ethemon"/>
+		<EntryPoint Id="6" X="23784" Y="19608" Radius="2496" Name="village"/>
+	</MapRegion>
+	<MapRegion Id="1401" Name="Server Continent Canyon">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="22215" Y="23467" Radius="2984" Name="Base of the Devil of the canyon"/>
+		<EntryPoint Id="2" X="33992" Y="8971" Radius="7311" Name="Place of hope"/>
+		<EntryPoint Id="3" X="3811" Y="25976" Radius="2984" Name="Place of friendship"/>
+		<EntryPoint Id="4" X="11837" Y="35342" Radius="5580" Name="Training place of Piximon"/>
+		<EntryPoint Id="5" X="19441" Y="13778" Radius="3850" Name="Way toward the pyramid"/>
+		<EntryPoint Id="6" X="22464" Y="5288" Radius="2119" Name="Lost area"/>
+		<EntryPoint Id="7" X="33846" Y="31032" Radius="3850" Name="Start of the canyon"/>
+	</MapRegion>
+	<MapRegion Id="1402" Name="Server Continent Pyramid">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="27154" Y="29261" Radius="6157" Name="The Home of the Sphinx"/>
+		<EntryPoint Id="2" X="31597" Y="17837" Radius="2696" Name="The Place for Provoking Etemon"/>
+		<EntryPoint Id="3" X="19386" Y="10417" Radius="2408" Name="The Entrance to the Datamon Maze"/>
+		<EntryPoint Id="4" X="33785" Y="22932" Radius="1254" Name="Link of Real World"/>
+	</MapRegion>
+	<MapRegion Id="1500" Name="Green Zone">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="50348" Y="36288" Radius="3561" Name="the parting of trials"/>
+		<EntryPoint Id="2" X="25362" Y="53221" Radius="4427" Name="hidden flatland"/>
+		<EntryPoint Id="3" X="54395" Y="60901" Radius="8753" Name="Area of Madleomon"/>
+		<EntryPoint Id="4" X="48096" Y="26677" Radius="6157" Name="a large barrier"/>
+		<EntryPoint Id="5" X="61942" Y="37210" Radius="7311" Name="Zone of trials"/>
+	</MapRegion>
+	<MapRegion Id="1600" Name="Scar of Water Crystal">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="18604" Y="14313" Radius="2408" Name="Trace of scar entrance"/>
+		<EntryPoint Id="2" X="12232" Y="29932" Radius="1254" Name="Battle with MarinDevimon"/>
+		<EntryPoint Id="3" X="36234" Y="28867" Radius="1254" Name="Crystal Waterfall"/>
+		<EntryPoint Id="4" X="36347" Y="24933" Radius="965" Name="Xuanwomon in Crystal Waterfall"/>
+	</MapRegion>
+	<MapRegion Id="1601" Name="Uprising Flame">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="15000" Y="12000" Radius="2500" Name="Uprising Flame"/>
+		<EntryPoint Id="2" X="15000" Y="30000" Radius="2500" Name="Room of Challenge"/>
+		<EntryPoint Id="3" X="15000" Y="48000" Radius="2500" Name="Room of Test"/>
+		<EntryPoint Id="4" X="15000" Y="65000" Radius="2500" Name="Nest of Zhuqiaomon"/>
+	</MapRegion>
+	<MapRegion Id="1602" Name="Trace of Black Steel">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="11740" Y="12008" Radius="9618" Name="the Exterior Zone of Black Steel"/>
+		<EntryPoint Id="2" X="31374" Y="12651" Radius="8753" Name="the Interior Zone of Black Steel"/>
+		<EntryPoint Id="3" X="51724" Y="14291" Radius="10484" Name="the Central Zone of Black Steel"/>
+	</MapRegion>
+	<MapRegion Id="1603" Name="Descending Thunder God">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33746" Y="10352" Radius="10000" Name="Descending Thunder God"/>
+		<EntryPoint Id="2" X="9470" Y="9255" Radius="9000" Name="Thunder Gods Land"/>
+		<EntryPoint Id="3" X="10547" Y="33707" Radius="11500" Name="Majiramons Test"/>
+		<EntryPoint Id="4" X="33236" Y="33138" Radius="9800" Name="Shelter of Thunder God"/>
+	</MapRegion>
+	<MapRegion Id="1604" Name="Uprising Flame Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="15000" Y="12000" Radius="2500" Name="Uprising Flame"/>
+		<EntryPoint Id="2" X="15000" Y="30000" Radius="2500" Name="Room of Challenge"/>
+		<EntryPoint Id="3" X="15000" Y="48000" Radius="2500" Name="Room of Test"/>
+		<EntryPoint Id="4" X="15000" Y="65000" Radius="2500" Name="Nest of Zhuqiaomon"/>
+	</MapRegion>
+	<MapRegion Id="1605" Name="Scar of Water Crystal Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="18604" Y="14313" Radius="2408" Name="Trace of scar entrance"/>
+		<EntryPoint Id="2" X="12232" Y="29932" Radius="1254" Name="Battle with MarinDevimon"/>
+		<EntryPoint Id="3" X="36234" Y="28867" Radius="1254" Name="Crystal Waterfall"/>
+		<EntryPoint Id="4" X="36347" Y="24933" Radius="965" Name="Xuanwomon in Crystal Waterfall"/>
+	</MapRegion>
+	<MapRegion Id="1606" Name="Trace of Black Steel Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="11740" Y="12008" Radius="9618" Name="the Exterior Zone of Black Steel"/>
+		<EntryPoint Id="2" X="31374" Y="12651" Radius="8753" Name="the Interior Zone of Black Steel"/>
+		<EntryPoint Id="3" X="51724" Y="14291" Radius="10484" Name="the Central Zone of Black Steel"/>
+	</MapRegion>
+	<MapRegion Id="1607" Name="Descending Thunder God Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33746" Y="10352" Radius="10000" Name="Descending Thunder God"/>
+		<EntryPoint Id="2" X="9470" Y="9255" Radius="9000" Name="Thunder Gods Land"/>
+		<EntryPoint Id="3" X="10547" Y="33707" Radius="11500" Name="Majiramons Test"/>
+		<EntryPoint Id="4" X="33236" Y="33138" Radius="9800" Name="Shelter of Thunder God"/>
+	</MapRegion>
+	<MapRegion Id="1608" Name="Fanglongmon Dungeon Underground">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33236" Y="33138" Radius="9800" Name="Fanglongmon Dungeon Underground"/>
+	</MapRegion>
+	<MapRegion Id="1609" Name="Fanglongmon Dungeon">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33746" Y="10352" Radius="10000" Name="Northern Boundary"/>
+		<EntryPoint Id="2" X="9470" Y="9255" Radius="9000" Name="Southern Boundary"/>
+		<EntryPoint Id="3" X="10547" Y="33707" Radius="11500" Name="Western Boundary"/>
+		<EntryPoint Id="4" X="33236" Y="33138" Radius="9800" Name="Eastern Boundary"/>
+	</MapRegion>
+	<MapRegion Id="1610" Name="Scar of Water Crystal Hard">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="18604" Y="14313" Radius="2408" Name="Trace of scar entrance"/>
+		<EntryPoint Id="2" X="12232" Y="29932" Radius="1254" Name="Battle with MarinDevimon"/>
+		<EntryPoint Id="3" X="36234" Y="28867" Radius="1254" Name="Crystal Waterfall"/>
+		<EntryPoint Id="4" X="36347" Y="24933" Radius="965" Name="Xuanwomon in Crystal Waterfall"/>
+	</MapRegion>
+	<MapRegion Id="1611" Name="Uprising Flame Hard">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="15401" Y="12123" Radius="2500" Name="Uprising Flame"/>
+		<EntryPoint Id="2" X="15371" Y="29994" Radius="2500" Name="Room of Challenge"/>
+		<EntryPoint Id="3" X="15475" Y="47985" Radius="2500" Name="Room of Test"/>
+		<EntryPoint Id="4" X="15309" Y="65977" Radius="3000" Name="Nest of Zhuqiaomon"/>
+	</MapRegion>
+	<MapRegion Id="1612" Name="Trace of Black Steel Hard">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="11740" Y="12008" Radius="9618" Name="the Exterior Zone of Black Steel"/>
+		<EntryPoint Id="2" X="31374" Y="12651" Radius="8753" Name="the Interior Zone of Black Steel"/>
+		<EntryPoint Id="3" X="51724" Y="14291" Radius="8953" Name="the Central Zone of Black Steel"/>
+	</MapRegion>
+	<MapRegion Id="1613" Name="Descending Thunder God Hard">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33746" Y="10352" Radius="10000" Name="Descending Thunder God"/>
+		<EntryPoint Id="2" X="9470" Y="9255" Radius="9000" Name="Thunder Gods Land"/>
+		<EntryPoint Id="3" X="10547" Y="33707" Radius="11500" Name="Majiramons Test"/>
+		<EntryPoint Id="4" X="33236" Y="33138" Radius="9800" Name="Shelter of Thunder God"/>
+	</MapRegion>
+	<MapRegion Id="1614" Name="Fanglongmon Dungeon Underground Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33236" Y="33138" Radius="9800" Name="Fanglongmon Dungeon Underground"/>
+	</MapRegion>
+	<MapRegion Id="1615" Name="Fanglongmon Dungeon Easy">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="33746" Y="10352" Radius="10000" Name="Northern Boundary"/>
+		<EntryPoint Id="2" X="9470" Y="9255" Radius="9000" Name="Southern Boundary"/>
+		<EntryPoint Id="3" X="10547" Y="33707" Radius="11500" Name="Western Boundary"/>
+		<EntryPoint Id="4" X="33236" Y="33138" Radius="9800" Name="Eastern Boundary"/>
+	</MapRegion>
+	<MapRegion Id="1700" Name="Verdandi">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="35847" Y="14515" Radius="13657" Name="Verdandi Terminal"/>
+		<EntryPoint Id="2" X="16458" Y="19552" Radius="4138" Name="Forest Abandoned Mine"/>
+		<EntryPoint Id="3" X="38736" Y="38945" Radius="6446" Name="Forest of Jungle Law"/>
+		<EntryPoint Id="4" X="30064" Y="32143" Radius="4715" Name="Forest Central Area"/>
+		<EntryPoint Id="5" X="22299" Y="44003" Radius="5869" Name="Bridgehead"/>
+		<EntryPoint Id="6" X="12532" Y="34310" Radius="8465" Name="Waterfall and Forest"/>
+		<EntryPoint Id="7" X="43787" Y="31192" Radius="4715" Name="Hidden Forest Between Cliffs"/>
+		<EntryPoint Id="8" X="22066" Y="66694" Radius="9330" Name="Historic Site"/>
+		<EntryPoint Id="9" X="12676" Y="50078" Radius="5580" Name="Waterfalls and Cliffs"/>
+		<EntryPoint Id="10" X="25027" Y="84233" Radius="9618" Name="Desperate Struggle"/>
+		<EntryPoint Id="11" X="50305" Y="59041" Radius="8465" Name="Wilderness Hill"/>
+		<EntryPoint Id="12" X="34535" Y="55766" Radius="7599" Name="Exterior Site Ruins"/>
+		<EntryPoint Id="13" X="55210" Y="78872" Radius="11638" Name="Dumpsite"/>
+		<EntryPoint Id="14" X="78406" Y="60195" Radius="8176" Name="Secret Base Entrance"/>
+		<EntryPoint Id="15" X="80719" Y="42690" Radius="7888" Name="Resistance Secret Base"/>
+		<EntryPoint Id="16" X="71668" Y="15348" Radius="14772" Name="Lake"/>
+	</MapRegion>
+	<MapRegion Id="1701" Name="Royal Base">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="32000" Y="32000" Radius="39500" Name="Royal Base"/>
+	</MapRegion>
+	<MapRegion Id="1702" Name="Center Royal Base">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="24000" Y="24000" Radius="25000" Name="Center Royal Base"/>
+	</MapRegion>
+	<MapRegion Id="1703" Name="Yggdrasills Room">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12000" Y="12000" Radius="9000" Name="Yggdrasills Room"/>
+	</MapRegion>
+	<MapRegion Id="1704" Name="Royal Base (Easy)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="32000" Y="32000" Radius="39500" Name="Royal Base"/>
+	</MapRegion>
+	<MapRegion Id="1705" Name="Center Royal Base (Easy)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="24000" Y="24000" Radius="25000" Name="Center Royal Base"/>
+	</MapRegion>
+	<MapRegion Id="1706" Name="Yggdrasills Room (Easy)">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="12000" Y="12000" Radius="9000" Name="Yggdrasills Room"/>
+	</MapRegion>
+	<MapRegion Id="2100" Name="Snowstorm Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="19214" Y="3878" Radius="9330" Name="Snowstorm Village "/>
+		<EntryPoint Id="2" X="35315" Y="6645" Radius="2408" Name="Digimon Grave"/>
+		<EntryPoint Id="3" X="26308" Y="22684" Radius="2119" Name="Hot Springs Area"/>
+		<EntryPoint Id="4" X="12616" Y="43938" Radius="2408" Name="Vacant Igloo"/>
+	</MapRegion>
+	<MapRegion Id="2101" Name="Frozen Ground">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="39805" Y="12384" Radius="2696" Name="Freezing Area"/>
+	</MapRegion>
+	<MapRegion Id="2102" Name="Snowman Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="29733" Y="38083" Radius="3850" Name="Snowman Village"/>
+		<EntryPoint Id="2" X="37512" Y="29960" Radius="5869" Name="King of Digimon Metal Etemon"/>
+		<EntryPoint Id="3" X="13590" Y="34659" Radius="3273" Name="The Place Where the Aqua Orb Is at Rest"/>
+	</MapRegion>
+	<MapRegion Id="2103" Name="Distorted Data Village">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="23735" Y="44895" Radius="4427" Name="Distorted Data Village"/>
+		<EntryPoint Id="2" X="23012" Y="25315" Radius="677" Name="Emergence of Strange Data"/>
+		<EntryPoint Id="3" X="36179" Y="7664" Radius="3850" Name="Volcanic Eruption Area"/>
+		<EntryPoint Id="4" X="35601" Y="32628" Radius="2408" Name="North Data Lava Area"/>
+		<EntryPoint Id="5" X="25489" Y="18685" Radius="3561" Name="Central Data Lava Area"/>
+	</MapRegion>
+	<MapRegion Id="2104" Name="Infinite Ice Wall">
+		<Fatigue Enabled="1" Interval="15" Increase="5"/>
+		<EntryPoint Id="1" X="8867" Y="10092" Radius="4138" Name="Entrance of Infinite Ice Wall"/>
+		<EntryPoint Id="2" X="73465" Y="30655" Radius="4427" Name="Infinite Ice Castle"/>
+		<EntryPoint Id="3" X="63796" Y="24449" Radius="6734" Name="Road to Infinite Ice Wall"/>
+		<EntryPoint Id="4" X="35404" Y="27691" Radius="2696" Name="Frozen Waterfalls"/>
+		<EntryPoint Id="5" X="36052" Y="15153" Radius="2119" Name="Royal Knights Gallantmon"/>
+		<EntryPoint Id="6" X="47504" Y="20236" Radius="5869" Name="The Arrival of Gizumon"/>
+		<EntryPoint Id="7" X="9593" Y="30187" Radius="5292" Name="Anubimon is Confused"/>
+	</MapRegion>
+</MapRegionList>
+

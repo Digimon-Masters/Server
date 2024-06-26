@@ -1,0 +1,1559 @@
+<FruitList>
+	<Fruit Id="6808" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9512" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9521" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9532" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9709" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9729" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="10254" Section="8901" Name="Miracle Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">0.80</SizeChance>
+					<SizeChance Size="86">3.50</SizeChance>
+					<SizeChance Size="87">4.20</SizeChance>
+					<SizeChance Size="88">5.20</SizeChance>
+					<SizeChance Size="89">7.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">9.10</SizeChance>
+					<SizeChance Size="92">14.40</SizeChance>
+					<SizeChance Size="93">9.40</SizeChance>
+					<SizeChance Size="94">8</SizeChance>
+					<SizeChance Size="95">6.80</SizeChance>
+					<SizeChance Size="96">6.30</SizeChance>
+					<SizeChance Size="97">5.40</SizeChance>
+					<SizeChance Size="98">4.50</SizeChance>
+					<SizeChance Size="99">3.80</SizeChance>
+					<SizeChance Size="100">2.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">0.20</SizeChance>
+					<SizeChance Size="111">2.50</SizeChance>
+					<SizeChance Size="112">3.20</SizeChance>
+					<SizeChance Size="113">5.30</SizeChance>
+					<SizeChance Size="114">6.50</SizeChance>
+					<SizeChance Size="115">8.10</SizeChance>
+					<SizeChance Size="116">12.10</SizeChance>
+					<SizeChance Size="117">14.40</SizeChance>
+					<SizeChance Size="118">13.40</SizeChance>
+					<SizeChance Size="119">8.60</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">5.40</SizeChance>
+					<SizeChance Size="123">4.10</SizeChance>
+					<SizeChance Size="124">3.30</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">19.10</SizeChance>
+					<SizeChance Size="119">22.40</SizeChance>
+					<SizeChance Size="120">13.40</SizeChance>
+					<SizeChance Size="121">11.60</SizeChance>
+					<SizeChance Size="122">6.20</SizeChance>
+					<SizeChance Size="123">5.30</SizeChance>
+					<SizeChance Size="124">4</SizeChance>
+					<SizeChance Size="125">4.10</SizeChance>
+					<SizeChance Size="126">5.30</SizeChance>
+					<SizeChance Size="127">2.60</SizeChance>
+					<SizeChance Size="128">2.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9507" Section="8902" Name="Fruit of the Goddess">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.20</SizeChance>
+					<SizeChance Size="86">4.90</SizeChance>
+					<SizeChance Size="87">6.70</SizeChance>
+					<SizeChance Size="88">9</SizeChance>
+					<SizeChance Size="89">11.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">10.10</SizeChance>
+					<SizeChance Size="92">10.20</SizeChance>
+					<SizeChance Size="93">8.40</SizeChance>
+					<SizeChance Size="94">7</SizeChance>
+					<SizeChance Size="95">6.20</SizeChance>
+					<SizeChance Size="96">5.30</SizeChance>
+					<SizeChance Size="97">3.60</SizeChance>
+					<SizeChance Size="98">3.40</SizeChance>
+					<SizeChance Size="99">2.40</SizeChance>
+					<SizeChance Size="100">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">1.20</SizeChance>
+					<SizeChance Size="111">3.90</SizeChance>
+					<SizeChance Size="112">7.70</SizeChance>
+					<SizeChance Size="113">9</SizeChance>
+					<SizeChance Size="114">11.90</SizeChance>
+					<SizeChance Size="115">11.10</SizeChance>
+					<SizeChance Size="116">10.60</SizeChance>
+					<SizeChance Size="117">10.20</SizeChance>
+					<SizeChance Size="118">8.40</SizeChance>
+					<SizeChance Size="119">7</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">3.60</SizeChance>
+					<SizeChance Size="123">3.40</SizeChance>
+					<SizeChance Size="124">2.40</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">16.60</SizeChance>
+					<SizeChance Size="119">13.30</SizeChance>
+					<SizeChance Size="120">12.60</SizeChance>
+					<SizeChance Size="121">11.20</SizeChance>
+					<SizeChance Size="122">9.40</SizeChance>
+					<SizeChance Size="123">8.20</SizeChance>
+					<SizeChance Size="124">7.20</SizeChance>
+					<SizeChance Size="125">6.30</SizeChance>
+					<SizeChance Size="126">4.60</SizeChance>
+					<SizeChance Size="127">3.90</SizeChance>
+					<SizeChance Size="128">3.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.30</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9730" Section="8902" Name="Fruit of the Goddess">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.20</SizeChance>
+					<SizeChance Size="86">4.90</SizeChance>
+					<SizeChance Size="87">6.70</SizeChance>
+					<SizeChance Size="88">9</SizeChance>
+					<SizeChance Size="89">11.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">10.10</SizeChance>
+					<SizeChance Size="92">10.20</SizeChance>
+					<SizeChance Size="93">8.40</SizeChance>
+					<SizeChance Size="94">7</SizeChance>
+					<SizeChance Size="95">6.20</SizeChance>
+					<SizeChance Size="96">5.30</SizeChance>
+					<SizeChance Size="97">3.60</SizeChance>
+					<SizeChance Size="98">3.40</SizeChance>
+					<SizeChance Size="99">2.40</SizeChance>
+					<SizeChance Size="100">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">1.20</SizeChance>
+					<SizeChance Size="111">3.90</SizeChance>
+					<SizeChance Size="112">7.70</SizeChance>
+					<SizeChance Size="113">9</SizeChance>
+					<SizeChance Size="114">11.90</SizeChance>
+					<SizeChance Size="115">11.10</SizeChance>
+					<SizeChance Size="116">10.60</SizeChance>
+					<SizeChance Size="117">10.20</SizeChance>
+					<SizeChance Size="118">8.40</SizeChance>
+					<SizeChance Size="119">7</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">3.60</SizeChance>
+					<SizeChance Size="123">3.40</SizeChance>
+					<SizeChance Size="124">2.40</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">16.60</SizeChance>
+					<SizeChance Size="119">13.30</SizeChance>
+					<SizeChance Size="120">12.60</SizeChance>
+					<SizeChance Size="121">11.20</SizeChance>
+					<SizeChance Size="122">9.40</SizeChance>
+					<SizeChance Size="123">8.20</SizeChance>
+					<SizeChance Size="124">7.20</SizeChance>
+					<SizeChance Size="125">6.30</SizeChance>
+					<SizeChance Size="126">4.60</SizeChance>
+					<SizeChance Size="127">3.90</SizeChance>
+					<SizeChance Size="128">3.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.30</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9753" Section="8902" Name="Fruit of the Goddess">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.20</SizeChance>
+					<SizeChance Size="86">4.90</SizeChance>
+					<SizeChance Size="87">6.70</SizeChance>
+					<SizeChance Size="88">9</SizeChance>
+					<SizeChance Size="89">11.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">10.10</SizeChance>
+					<SizeChance Size="92">10.20</SizeChance>
+					<SizeChance Size="93">8.40</SizeChance>
+					<SizeChance Size="94">7</SizeChance>
+					<SizeChance Size="95">6.20</SizeChance>
+					<SizeChance Size="96">5.30</SizeChance>
+					<SizeChance Size="97">3.60</SizeChance>
+					<SizeChance Size="98">3.40</SizeChance>
+					<SizeChance Size="99">2.40</SizeChance>
+					<SizeChance Size="100">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">1.20</SizeChance>
+					<SizeChance Size="111">3.90</SizeChance>
+					<SizeChance Size="112">7.70</SizeChance>
+					<SizeChance Size="113">9</SizeChance>
+					<SizeChance Size="114">11.90</SizeChance>
+					<SizeChance Size="115">11.10</SizeChance>
+					<SizeChance Size="116">10.60</SizeChance>
+					<SizeChance Size="117">10.20</SizeChance>
+					<SizeChance Size="118">8.40</SizeChance>
+					<SizeChance Size="119">7</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">3.60</SizeChance>
+					<SizeChance Size="123">3.40</SizeChance>
+					<SizeChance Size="124">2.40</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">16.60</SizeChance>
+					<SizeChance Size="119">13.30</SizeChance>
+					<SizeChance Size="120">12.60</SizeChance>
+					<SizeChance Size="121">11.20</SizeChance>
+					<SizeChance Size="122">9.40</SizeChance>
+					<SizeChance Size="123">8.20</SizeChance>
+					<SizeChance Size="124">7.20</SizeChance>
+					<SizeChance Size="125">6.30</SizeChance>
+					<SizeChance Size="126">4.60</SizeChance>
+					<SizeChance Size="127">3.90</SizeChance>
+					<SizeChance Size="128">3.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.30</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9768" Section="8902" Name="Fruit of the Goddess">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.20</SizeChance>
+					<SizeChance Size="86">4.90</SizeChance>
+					<SizeChance Size="87">6.70</SizeChance>
+					<SizeChance Size="88">9</SizeChance>
+					<SizeChance Size="89">11.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">10.10</SizeChance>
+					<SizeChance Size="92">10.20</SizeChance>
+					<SizeChance Size="93">8.40</SizeChance>
+					<SizeChance Size="94">7</SizeChance>
+					<SizeChance Size="95">6.20</SizeChance>
+					<SizeChance Size="96">5.30</SizeChance>
+					<SizeChance Size="97">3.60</SizeChance>
+					<SizeChance Size="98">3.40</SizeChance>
+					<SizeChance Size="99">2.40</SizeChance>
+					<SizeChance Size="100">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">1.20</SizeChance>
+					<SizeChance Size="111">3.90</SizeChance>
+					<SizeChance Size="112">7.70</SizeChance>
+					<SizeChance Size="113">9</SizeChance>
+					<SizeChance Size="114">11.90</SizeChance>
+					<SizeChance Size="115">11.10</SizeChance>
+					<SizeChance Size="116">10.60</SizeChance>
+					<SizeChance Size="117">10.20</SizeChance>
+					<SizeChance Size="118">8.40</SizeChance>
+					<SizeChance Size="119">7</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">3.60</SizeChance>
+					<SizeChance Size="123">3.40</SizeChance>
+					<SizeChance Size="124">2.40</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">16.60</SizeChance>
+					<SizeChance Size="119">13.30</SizeChance>
+					<SizeChance Size="120">12.60</SizeChance>
+					<SizeChance Size="121">11.20</SizeChance>
+					<SizeChance Size="122">9.40</SizeChance>
+					<SizeChance Size="123">8.20</SizeChance>
+					<SizeChance Size="124">7.20</SizeChance>
+					<SizeChance Size="125">6.30</SizeChance>
+					<SizeChance Size="126">4.60</SizeChance>
+					<SizeChance Size="127">3.90</SizeChance>
+					<SizeChance Size="128">3.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.30</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="30011" Section="8902" Name="Fruit of the Goddess">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.20</SizeChance>
+					<SizeChance Size="86">4.90</SizeChance>
+					<SizeChance Size="87">6.70</SizeChance>
+					<SizeChance Size="88">9</SizeChance>
+					<SizeChance Size="89">11.90</SizeChance>
+					<SizeChance Size="90">8.10</SizeChance>
+					<SizeChance Size="91">10.10</SizeChance>
+					<SizeChance Size="92">10.20</SizeChance>
+					<SizeChance Size="93">8.40</SizeChance>
+					<SizeChance Size="94">7</SizeChance>
+					<SizeChance Size="95">6.20</SizeChance>
+					<SizeChance Size="96">5.30</SizeChance>
+					<SizeChance Size="97">3.60</SizeChance>
+					<SizeChance Size="98">3.40</SizeChance>
+					<SizeChance Size="99">2.40</SizeChance>
+					<SizeChance Size="100">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="110">1.20</SizeChance>
+					<SizeChance Size="111">3.90</SizeChance>
+					<SizeChance Size="112">7.70</SizeChance>
+					<SizeChance Size="113">9</SizeChance>
+					<SizeChance Size="114">11.90</SizeChance>
+					<SizeChance Size="115">11.10</SizeChance>
+					<SizeChance Size="116">10.60</SizeChance>
+					<SizeChance Size="117">10.20</SizeChance>
+					<SizeChance Size="118">8.40</SizeChance>
+					<SizeChance Size="119">7</SizeChance>
+					<SizeChance Size="120">6.20</SizeChance>
+					<SizeChance Size="121">5.30</SizeChance>
+					<SizeChance Size="122">3.60</SizeChance>
+					<SizeChance Size="123">3.40</SizeChance>
+					<SizeChance Size="124">2.40</SizeChance>
+					<SizeChance Size="125">1.60</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="118">16.60</SizeChance>
+					<SizeChance Size="119">13.30</SizeChance>
+					<SizeChance Size="120">12.60</SizeChance>
+					<SizeChance Size="121">11.20</SizeChance>
+					<SizeChance Size="122">9.40</SizeChance>
+					<SizeChance Size="123">8.20</SizeChance>
+					<SizeChance Size="124">7.20</SizeChance>
+					<SizeChance Size="125">6.30</SizeChance>
+					<SizeChance Size="126">4.60</SizeChance>
+					<SizeChance Size="127">3.90</SizeChance>
+					<SizeChance Size="128">3.80</SizeChance>
+					<SizeChance Size="129">2.60</SizeChance>
+					<SizeChance Size="130">0.30</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5868" Section="8911" Name="Fruit of Champion">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.438</SizeChance>
+					<SizeChance Size="86">3.5</SizeChance>
+					<SizeChance Size="87">4.2</SizeChance>
+					<SizeChance Size="88">8</SizeChance>
+					<SizeChance Size="89">12</SizeChance>
+					<SizeChance Size="90">14</SizeChance>
+					<SizeChance Size="91">12</SizeChance>
+					<SizeChance Size="92">11</SizeChance>
+					<SizeChance Size="93">10</SizeChance>
+					<SizeChance Size="94">9</SizeChance>
+					<SizeChance Size="95">8</SizeChance>
+					<SizeChance Size="96">3</SizeChance>
+					<SizeChance Size="97">2</SizeChance>
+					<SizeChance Size="98">1.535</SizeChance>
+					<SizeChance Size="99">0.45</SizeChance>
+					<SizeChance Size="100">0.3</SizeChance>
+					<SizeChance Size="101">0.2</SizeChance>
+					<SizeChance Size="102">0.15</SizeChance>
+					<SizeChance Size="103">0.145</SizeChance>
+					<SizeChance Size="104">0.135</SizeChance>
+					<SizeChance Size="105">0.130</SizeChance>
+					<SizeChance Size="106">0.125</SizeChance>
+					<SizeChance Size="107">0.120</SizeChance>
+					<SizeChance Size="108">0.115</SizeChance>
+					<SizeChance Size="109">0.110</SizeChance>
+					<SizeChance Size="110">0.105</SizeChance>
+					<SizeChance Size="111">0.100</SizeChance>
+					<SizeChance Size="112">0.95</SizeChance>
+					<SizeChance Size="113">0.90</SizeChance>
+					<SizeChance Size="114">0.85</SizeChance>
+					<SizeChance Size="115">0.80</SizeChance>
+					<SizeChance Size="116">0.75</SizeChance>
+					<SizeChance Size="117">0.70</SizeChance>
+					<SizeChance Size="118">0.65</SizeChance>
+					<SizeChance Size="119">0.60</SizeChance>
+					<SizeChance Size="120">0.55</SizeChance>
+					<SizeChance Size="121">0.50</SizeChance>
+					<SizeChance Size="122">0.45</SizeChance>
+					<SizeChance Size="123">0.40</SizeChance>
+					<SizeChance Size="124">0.35</SizeChance>
+					<SizeChance Size="125">0.30</SizeChance>
+					<SizeChance Size="126">0.25</SizeChance>
+					<SizeChance Size="127">0.20</SizeChance>
+					<SizeChance Size="128">0.15</SizeChance>
+					<SizeChance Size="129">0.10</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5871" Section="8911" Name="Fruit of Champion">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.438</SizeChance>
+					<SizeChance Size="86">3.5</SizeChance>
+					<SizeChance Size="87">4.2</SizeChance>
+					<SizeChance Size="88">8</SizeChance>
+					<SizeChance Size="89">12</SizeChance>
+					<SizeChance Size="90">14</SizeChance>
+					<SizeChance Size="91">12</SizeChance>
+					<SizeChance Size="92">11</SizeChance>
+					<SizeChance Size="93">10</SizeChance>
+					<SizeChance Size="94">9</SizeChance>
+					<SizeChance Size="95">8</SizeChance>
+					<SizeChance Size="96">3</SizeChance>
+					<SizeChance Size="97">2</SizeChance>
+					<SizeChance Size="98">1.535</SizeChance>
+					<SizeChance Size="99">0.45</SizeChance>
+					<SizeChance Size="100">0.3</SizeChance>
+					<SizeChance Size="101">0.2</SizeChance>
+					<SizeChance Size="102">0.15</SizeChance>
+					<SizeChance Size="103">0.145</SizeChance>
+					<SizeChance Size="104">0.135</SizeChance>
+					<SizeChance Size="105">0.130</SizeChance>
+					<SizeChance Size="106">0.125</SizeChance>
+					<SizeChance Size="107">0.120</SizeChance>
+					<SizeChance Size="108">0.115</SizeChance>
+					<SizeChance Size="109">0.110</SizeChance>
+					<SizeChance Size="110">0.105</SizeChance>
+					<SizeChance Size="111">0.100</SizeChance>
+					<SizeChance Size="112">0.95</SizeChance>
+					<SizeChance Size="113">0.90</SizeChance>
+					<SizeChance Size="114">0.85</SizeChance>
+					<SizeChance Size="115">0.80</SizeChance>
+					<SizeChance Size="116">0.75</SizeChance>
+					<SizeChance Size="117">0.70</SizeChance>
+					<SizeChance Size="118">0.65</SizeChance>
+					<SizeChance Size="119">0.60</SizeChance>
+					<SizeChance Size="120">0.55</SizeChance>
+					<SizeChance Size="121">0.50</SizeChance>
+					<SizeChance Size="122">0.45</SizeChance>
+					<SizeChance Size="123">0.40</SizeChance>
+					<SizeChance Size="124">0.35</SizeChance>
+					<SizeChance Size="125">0.30</SizeChance>
+					<SizeChance Size="126">0.25</SizeChance>
+					<SizeChance Size="127">0.20</SizeChance>
+					<SizeChance Size="128">0.15</SizeChance>
+					<SizeChance Size="129">0.10</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5869" Section="8912" Name="Fruit of Overload">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="115">1</SizeChance>
+					<SizeChance Size="116">3</SizeChance>
+					<SizeChance Size="117">6</SizeChance>
+					<SizeChance Size="118">8</SizeChance>
+					<SizeChance Size="119">10</SizeChance>
+					<SizeChance Size="120">11</SizeChance>
+					<SizeChance Size="121">15</SizeChance>
+					<SizeChance Size="122">12</SizeChance>
+					<SizeChance Size="123">9</SizeChance>
+					<SizeChance Size="124">8</SizeChance>
+					<SizeChance Size="125">7</SizeChance>
+					<SizeChance Size="126">5</SizeChance>
+					<SizeChance Size="127">3.15</SizeChance>
+					<SizeChance Size="128">1.75</SizeChance>
+					<SizeChance Size="129">0.75</SizeChance>
+					<SizeChance Size="130">0.25</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5872" Section="8912" Name="Fruit of Overload">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="115">1</SizeChance>
+					<SizeChance Size="116">3</SizeChance>
+					<SizeChance Size="117">6</SizeChance>
+					<SizeChance Size="118">8</SizeChance>
+					<SizeChance Size="119">10</SizeChance>
+					<SizeChance Size="120">11</SizeChance>
+					<SizeChance Size="121">15</SizeChance>
+					<SizeChance Size="122">12</SizeChance>
+					<SizeChance Size="123">9</SizeChance>
+					<SizeChance Size="124">8</SizeChance>
+					<SizeChance Size="125">7</SizeChance>
+					<SizeChance Size="126">5</SizeChance>
+					<SizeChance Size="127">3.15</SizeChance>
+					<SizeChance Size="128">1.75</SizeChance>
+					<SizeChance Size="129">0.75</SizeChance>
+					<SizeChance Size="130">0.25</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5870" Section="8913" Name="Fruit of Genesis">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="121">11</SizeChance>
+					<SizeChance Size="122">26</SizeChance>
+					<SizeChance Size="123">20</SizeChance>
+					<SizeChance Size="124">15</SizeChance>
+					<SizeChance Size="125">9.2</SizeChance>
+					<SizeChance Size="126">8.15</SizeChance>
+					<SizeChance Size="127">6.15</SizeChance>
+					<SizeChance Size="128">2.75</SizeChance>
+					<SizeChance Size="129">1.25</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5873" Section="8913" Name="Fruit of Genesis">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="121">11</SizeChance>
+					<SizeChance Size="122">26</SizeChance>
+					<SizeChance Size="123">20</SizeChance>
+					<SizeChance Size="124">15</SizeChance>
+					<SizeChance Size="125">9.2</SizeChance>
+					<SizeChance Size="126">8.15</SizeChance>
+					<SizeChance Size="127">6.15</SizeChance>
+					<SizeChance Size="128">2.75</SizeChance>
+					<SizeChance Size="129">1.25</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6548" Section="8914" Name="Fruit of Hades">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="85">1.438</SizeChance>
+					<SizeChance Size="86">3.5</SizeChance>
+					<SizeChance Size="87">4.2</SizeChance>
+					<SizeChance Size="88">8</SizeChance>
+					<SizeChance Size="89">12</SizeChance>
+					<SizeChance Size="90">14</SizeChance>
+					<SizeChance Size="91">12</SizeChance>
+					<SizeChance Size="92">11</SizeChance>
+					<SizeChance Size="93">10</SizeChance>
+					<SizeChance Size="94">9</SizeChance>
+					<SizeChance Size="95">8</SizeChance>
+					<SizeChance Size="96">3</SizeChance>
+					<SizeChance Size="97">2</SizeChance>
+					<SizeChance Size="98">1.535</SizeChance>
+					<SizeChance Size="99">0.45</SizeChance>
+					<SizeChance Size="100">0.3</SizeChance>
+					<SizeChance Size="101">0.2</SizeChance>
+					<SizeChance Size="102">0.15</SizeChance>
+					<SizeChance Size="103">0.145</SizeChance>
+					<SizeChance Size="104">0.135</SizeChance>
+					<SizeChance Size="105">0.130</SizeChance>
+					<SizeChance Size="106">0.125</SizeChance>
+					<SizeChance Size="107">0.120</SizeChance>
+					<SizeChance Size="108">0.115</SizeChance>
+					<SizeChance Size="109">0.110</SizeChance>
+					<SizeChance Size="110">0.105</SizeChance>
+					<SizeChance Size="111">0.100</SizeChance>
+					<SizeChance Size="112">0.95</SizeChance>
+					<SizeChance Size="113">0.90</SizeChance>
+					<SizeChance Size="114">0.85</SizeChance>
+					<SizeChance Size="115">0.80</SizeChance>
+					<SizeChance Size="116">0.75</SizeChance>
+					<SizeChance Size="117">0.70</SizeChance>
+					<SizeChance Size="118">0.65</SizeChance>
+					<SizeChance Size="119">0.60</SizeChance>
+					<SizeChance Size="120">0.55</SizeChance>
+					<SizeChance Size="121">0.50</SizeChance>
+					<SizeChance Size="122">0.45</SizeChance>
+					<SizeChance Size="123">0.40</SizeChance>
+					<SizeChance Size="124">0.35</SizeChance>
+					<SizeChance Size="125">0.30</SizeChance>
+					<SizeChance Size="126">0.25</SizeChance>
+					<SizeChance Size="127">0.20</SizeChance>
+					<SizeChance Size="128">0.15</SizeChance>
+					<SizeChance Size="129">0.10</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6549" Section="8915" Name="Fruit of Darkness">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="115">1</SizeChance>
+					<SizeChance Size="116">3</SizeChance>
+					<SizeChance Size="117">6</SizeChance>
+					<SizeChance Size="118">8</SizeChance>
+					<SizeChance Size="119">10</SizeChance>
+					<SizeChance Size="120">11</SizeChance>
+					<SizeChance Size="121">15</SizeChance>
+					<SizeChance Size="122">12</SizeChance>
+					<SizeChance Size="123">9</SizeChance>
+					<SizeChance Size="124">8</SizeChance>
+					<SizeChance Size="125">7</SizeChance>
+					<SizeChance Size="126">5</SizeChance>
+					<SizeChance Size="127">3.15</SizeChance>
+					<SizeChance Size="128">1.75</SizeChance>
+					<SizeChance Size="129">0.75</SizeChance>
+					<SizeChance Size="130">0.25</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6550" Section="8916" Name="Fruit of Chaos">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="121">11</SizeChance>
+					<SizeChance Size="122">26</SizeChance>
+					<SizeChance Size="123">20</SizeChance>
+					<SizeChance Size="124">15</SizeChance>
+					<SizeChance Size="125">9.2</SizeChance>
+					<SizeChance Size="126">8.15</SizeChance>
+					<SizeChance Size="127">6.15</SizeChance>
+					<SizeChance Size="128">2.75</SizeChance>
+					<SizeChance Size="129">1.25</SizeChance>
+					<SizeChance Size="130">0.5</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6178" Section="8918" Name="Fruit of Homeostasis">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="128">5</SizeChance>
+					<SizeChance Size="129">8</SizeChance>
+					<SizeChance Size="130">18</SizeChance>
+					<SizeChance Size="131">16</SizeChance>
+					<SizeChance Size="132">14</SizeChance>
+					<SizeChance Size="133">12</SizeChance>
+					<SizeChance Size="134">9</SizeChance>
+					<SizeChance Size="135">8</SizeChance>
+					<SizeChance Size="136">5</SizeChance>
+					<SizeChance Size="137">3.15</SizeChance>
+					<SizeChance Size="138">1.75</SizeChance>
+					<SizeChance Size="139">0.75</SizeChance>
+					<SizeChance Size="140">0.25</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6179" Section="8918" Name="Fruit of Homeostasis">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="128">5</SizeChance>
+					<SizeChance Size="129">8</SizeChance>
+					<SizeChance Size="130">18</SizeChance>
+					<SizeChance Size="131">16</SizeChance>
+					<SizeChance Size="132">14</SizeChance>
+					<SizeChance Size="133">12</SizeChance>
+					<SizeChance Size="134">9</SizeChance>
+					<SizeChance Size="135">8</SizeChance>
+					<SizeChance Size="136">5</SizeChance>
+					<SizeChance Size="137">3.15</SizeChance>
+					<SizeChance Size="138">1.75</SizeChance>
+					<SizeChance Size="139">0.75</SizeChance>
+					<SizeChance Size="140">0.25</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6165" Section="8917" Name="Fruit of Yggdrasil">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="125">1.7</SizeChance>
+					<SizeChance Size="126">3.5</SizeChance>
+					<SizeChance Size="127">4.2</SizeChance>
+					<SizeChance Size="128">8</SizeChance>
+					<SizeChance Size="129">12</SizeChance>
+					<SizeChance Size="130">14</SizeChance>
+					<SizeChance Size="131">12</SizeChance>
+					<SizeChance Size="132">11</SizeChance>
+					<SizeChance Size="133">10</SizeChance>
+					<SizeChance Size="134">9</SizeChance>
+					<SizeChance Size="135">8</SizeChance>
+					<SizeChance Size="136">3</SizeChance>
+					<SizeChance Size="137">2</SizeChance>
+					<SizeChance Size="138">1.53</SizeChance>
+					<SizeChance Size="139">0.45</SizeChance>
+					<SizeChance Size="140">0.20</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6166" Section="8917" Name="Fruit of Yggdrasil">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="125">1.7</SizeChance>
+					<SizeChance Size="126">3.5</SizeChance>
+					<SizeChance Size="127">4.2</SizeChance>
+					<SizeChance Size="128">8</SizeChance>
+					<SizeChance Size="129">12</SizeChance>
+					<SizeChance Size="130">14</SizeChance>
+					<SizeChance Size="131">12</SizeChance>
+					<SizeChance Size="132">11</SizeChance>
+					<SizeChance Size="133">10</SizeChance>
+					<SizeChance Size="134">9</SizeChance>
+					<SizeChance Size="135">8</SizeChance>
+					<SizeChance Size="136">3</SizeChance>
+					<SizeChance Size="137">2</SizeChance>
+					<SizeChance Size="138">1.53</SizeChance>
+					<SizeChance Size="139">0.45</SizeChance>
+					<SizeChance Size="140">0.20</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5807" Section="8904" Name="Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9533" Section="8904" Name="Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="5808" Section="8904" Name="Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9533" Section="8904" Name="Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="9534" Section="8904" Name="Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="125">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6176" Section="8905" Name="Super Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="6177" Section="8905" Name="Super Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+	<Fruit Id="131118" Section="8905" Name="Super Growth Fruit">
+		<IncreaseList>
+			<Increase Grade="3">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="4">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="5">
+				<SizeChanceList>
+					<SizeChance Size="135">100</SizeChance>
+				</SizeChanceList>
+			</Increase>
+			<Increase Grade="6">
+				<SizeChanceList>
+					<SizeChance Size="1">0</SizeChance>
+				</SizeChanceList>
+			</Increase>
+		</IncreaseList>
+	</Fruit>
+</FruitList>

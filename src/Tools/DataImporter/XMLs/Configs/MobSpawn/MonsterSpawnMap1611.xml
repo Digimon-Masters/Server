@@ -1,0 +1,210 @@
+<Map Id="1611" Name="Uprising Flame Hard">
+  <Monster Specie="51215" Name="Birdramon">
+    <Location X="15993" Y="20497" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1680</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>18000</DE>
+      <DS>1400</DS>
+      <EV>2988</EV>
+      <HP>10080000</HP>
+      <HT>18000</HT>
+      <MS>2100</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51082</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>13824</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51216" Name="Garudamon">
+    <Location X="15801" Y="37884" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1950</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>1448</DS>
+      <EV>2988</EV>
+      <HP>12672000</HP>
+      <HT>19500</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51083</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>35392</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51217" Name="Phoenixmon">
+    <Location X="15864" Y="56874" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2300</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>1810</DS>
+      <EV>2988</EV>
+      <HP>15000000</HP>
+      <HT>21000</HT>
+      <MS>2550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>42304</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51218" Name="Zhuqiaomon">
+    <Location X="15566" Y="79498" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3000</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>1623</DS>
+      <EV>2988</EV>
+      <HP>21600000</HP>
+      <HT>22500</HT>
+      <MS>3000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>19904</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51215" Name="Birdramon">
+    <Location X="15993" Y="20497" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1680</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>18000</DE>
+      <DS>1400</DS>
+      <EV>2988</EV>
+      <HP>10080000</HP>
+      <HT>18000</HT>
+      <MS>2100</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51082</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>13824</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51216" Name="Garudamon">
+    <Location X="15801" Y="37884" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1950</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>1448</DS>
+      <EV>2988</EV>
+      <HP>12672000</HP>
+      <HT>19500</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51083</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>35392</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51217" Name="Phoenixmon">
+    <Location X="15864" Y="56874" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2300</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>1810</DS>
+      <EV>2988</EV>
+      <HP>15000000</HP>
+      <HT>21000</HT>
+      <MS>2550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>42304</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51218" Name="Zhuqiaomon">
+    <Location X="15566" Y="79498" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3000</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>1623</DS>
+      <EV>2988</EV>
+      <HP>21600000</HP>
+      <HT>22500</HT>
+      <MS>3000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>19904</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

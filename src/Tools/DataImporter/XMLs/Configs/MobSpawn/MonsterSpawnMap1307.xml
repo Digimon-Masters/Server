@@ -1,0 +1,28 @@
+<Map Id="1307" Name="Infinite Mountain Dungeon">
+  <Monster Specie="45156" Name="Kuwagamon">
+    <Location X="13188" Y="23763" Radius="1791" />
+    <Respawn Time="920" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>320</AT>
+      <CC>15</CC>
+      <CD>3304</CD>
+      <DE>429</DE>
+      <DS>744</DS>
+      <EV>3233</EV>
+      <HP>1187360</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Ruler of SilverLake)</SubName>
+    <Model>45150</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>15344</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+</Map>

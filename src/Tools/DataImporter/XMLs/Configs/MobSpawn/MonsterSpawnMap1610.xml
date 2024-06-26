@@ -1,0 +1,262 @@
+<Map Id="1610" Name="Scar of Water Crystal Hard">
+  <Monster Specie="51108" Name="MegaSeadramon">
+    <Location X="14777" Y="19814" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1680</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>1448</DS>
+      <EV>2988</EV>
+      <HP>10080000</HP>
+      <HT>19800</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>38656</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51109" Name="Marin Devimon">
+    <Location X="18280" Y="38069" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2300</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>1810</DS>
+      <EV>2988</EV>
+      <HP>14400000</HP>
+      <HT>24750</HT>
+      <MS>2550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>64704</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51110" Name="Xuanwumon">
+    <Location X="37481" Y="15851" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3000</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>1623</DS>
+      <EV>2988</EV>
+      <HP>18720000</HP>
+      <HT>29700</HT>
+      <MS>3000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>25216</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51112" Name="MegaSeadramon">
+    <Location X="39176" Y="11354" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="1500" HuntRange="2000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1860</AT>
+      <CC>15</CC>
+      <CD>2000</CD>
+      <DE>100</DE>
+      <DS>2172</DS>
+      <EV>5000</EV>
+      <HP>540000</HP>
+      <HT>54000</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51029</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>300</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51114" Name="Xuanwumon">
+    <Location X="37273" Y="35044" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>6000</CD>
+      <DE>100</DE>
+      <DS>1623</DS>
+      <EV>3386</EV>
+      <HP>1512000</HP>
+      <HT>29700</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>300</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51108" Name="MegaSeadramon">
+    <Location X="14777" Y="19814" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1680</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>1448</DS>
+      <EV>2988</EV>
+      <HP>10080000</HP>
+      <HT>19800</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>38656</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51109" Name="Marin Devimon">
+    <Location X="18280" Y="38069" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2300</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>1810</DS>
+      <EV>2988</EV>
+      <HP>14400000</HP>
+      <HT>24750</HT>
+      <MS>2550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>64704</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51110" Name="Xuanwumon">
+    <Location X="37481" Y="15851" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3000</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>1623</DS>
+      <EV>2988</EV>
+      <HP>18720000</HP>
+      <HT>29700</HT>
+      <MS>3000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>25216</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51112" Name="MegaSeadramon">
+    <Location X="39176" Y="11354" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="1500" HuntRange="2000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1860</AT>
+      <CC>15</CC>
+      <CD>2000</CD>
+      <DE>100</DE>
+      <DS>2172</DS>
+      <EV>5000</EV>
+      <HP>540000</HP>
+      <HT>54000</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51029</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>300</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51114" Name="Xuanwumon">
+    <Location X="37273" Y="35044" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>6000</CD>
+      <DE>100</DE>
+      <DS>1623</DS>
+      <EV>3386</EV>
+      <HP>1512000</HP>
+      <HT>29700</HT>
+      <MS>2250</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>300</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

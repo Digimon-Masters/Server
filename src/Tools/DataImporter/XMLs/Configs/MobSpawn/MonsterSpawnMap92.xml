@@ -1,0 +1,210 @@
+<Map Id="92" Name="D-terminal-Dungeon-B3 - Weekdays">
+	<Monster Specie="99857" Name="Guilmon">
+		<Location X="33168" Y="28281" Radius="945"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>3000</AS>
+			<AT>51</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>325</DS>
+			<EV>0</EV>
+			<HP>17300</HP>
+			<HT>3013</HT>
+			<MS>530</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>31005</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>5028</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99858" Name="Growmon">
+		<Location X="32799" Y="30108" Radius="1262"/>
+		<Respawn Time="1" KillGen="99857" KillCount="100"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>138</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>475</DS>
+			<EV>0</EV>
+			<HP>72600</HP>
+			<HT>6447</HT>
+			<MS>620</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>41074</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>54952</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99857" Name="Guilmon">
+		<Location X="33168" Y="28281" Radius="945"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>3000</AS>
+			<AT>51</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>325</DS>
+			<EV>0</EV>
+			<HP>17300</HP>
+			<HT>3013</HT>
+			<MS>530</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>31005</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>5028</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99857" Name="Guilmon">
+		<Location X="33168" Y="28281" Radius="945"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>3000</AS>
+			<AT>51</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>325</DS>
+			<EV>0</EV>
+			<HP>17300</HP>
+			<HT>3013</HT>
+			<MS>530</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>31005</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>5028</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99857" Name="Guilmon">
+		<Location X="33168" Y="28281" Radius="945"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>3000</AS>
+			<AT>51</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>325</DS>
+			<EV>0</EV>
+			<HP>17300</HP>
+			<HT>3013</HT>
+			<MS>530</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>31005</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>5028</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99858" Name="Growmon">
+		<Location X="32799" Y="30108" Radius="1262"/>
+		<Respawn Time="1" KillGen="99857" KillCount="100"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>138</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>475</DS>
+			<EV>0</EV>
+			<HP>72600</HP>
+			<HT>6447</HT>
+			<MS>620</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>41074</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>54952</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99858" Name="Growmon">
+		<Location X="32799" Y="30108" Radius="1262"/>
+		<Respawn Time="1" KillGen="99857" KillCount="100"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>138</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>475</DS>
+			<EV>0</EV>
+			<HP>72600</HP>
+			<HT>6447</HT>
+			<MS>620</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>41074</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>54952</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99858" Name="Growmon">
+		<Location X="32799" Y="30108" Radius="1262"/>
+		<Respawn Time="1" KillGen="99857" KillCount="100"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>138</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>475</DS>
+			<EV>0</EV>
+			<HP>72600</HP>
+			<HT>6447</HT>
+			<MS>620</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>41074</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>54952</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

@@ -1,0 +1,2264 @@
+<Map Id="208" Name="Odaiba">
+ <Monster Specie="62169" Name="Omegamon ZwartD">
+    <Location X="12027" Y="40826" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="105" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1526</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>48793</DE>
+      <DS>625</DS>
+      <EV>6490</EV>
+      <HP>771400</HP>
+      <HT>15365</HT>
+      <MS>852</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="62170" Name="Omegamon Alter-B">
+    <Location X="7958" Y="40861" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1605</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>58513</DE>
+      <DS>650</DS>
+      <EV>6908</EV>
+      <HP>812000</HP>
+      <HT>16380</HT>
+      <MS>876</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71109</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75097" Name="WereGarurumon(Black)">
+    <Location X="11736" Y="28021" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>61100</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Tonka)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75098" Name="WereGarurumon(Black)">
+    <Location X="11465" Y="23672" Radius="1685" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1651</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>72200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75099" Name="WereGarurumon(Black)">
+    <Location X="16033" Y="25483" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1887</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>4254</DE>
+      <DS>680</DS>
+      <EV>4102</EV>
+      <HP>94400</HP>
+      <HT>16128</HT>
+      <MS>814</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>19484</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75100" Name="WaruMonzaemon">
+    <Location X="11908" Y="11877" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1310</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>67900</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75101" Name="WaruMonzaemon">
+    <Location X="11311" Y="14274" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1376</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>80200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75102" Name="WaruMonzaemon">
+    <Location X="9721" Y="17241" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>21702</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>104900</HP>
+      <HT>16128</HT>
+      <MS>814</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>19484</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75103" Name="WereGarurumon(Black)">
+    <Location X="12079" Y="12710" Radius="417" />
+    <Respawn Time="10800" KillGen="75102" KillCount="20" />
+    <Status Level="118" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>2081</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>16521</DE>
+      <DS>690</DS>
+      <EV>4211</EV>
+      <HP>395600</HP>
+      <HT>18060</HT>
+      <MS>900</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Despicable Wolf)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>5232</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75104" Name="Giromon">
+    <Location X="11970" Y="8254" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1058</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>82200</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despicable Wolf)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75105" Name="Giromon">
+    <Location X="15363" Y="7606" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1111</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>97200</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75106" Name="Giromon">
+    <Location X="20717" Y="8080" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>40143</DE>
+      <DS>685</DS>
+      <EV>3027</EV>
+      <HP>127100</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75107" Name="Knightmon">
+    <Location X="34300" Y="11064" Radius="1791" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1323</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>68500</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75108" Name="Knightmon">
+    <Location X="44142" Y="7863" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1389</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>81000</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75109" Name="Knightmon">
+    <Location X="39350" Y="12524" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>22530</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>105900</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75110" Name="Knightmon">
+    <Location X="39481" Y="9891" Radius="311" />
+    <Respawn Time="10800" KillGen="75109" KillCount="20" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1750</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>38084</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>444500</HP>
+      <HT>18270</HT>
+      <MS>900</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Cavalry Lord)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>57708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75111" Name="Cerberusmon">
+    <Location X="47570" Y="8634" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>61700</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Cavalry Lord)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75112" Name="Cerberusmon">
+    <Location X="52664" Y="15901" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1667</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>72900</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75113" Name="Cerberusmon">
+    <Location X="50189" Y="14128" Radius="840" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1905</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>4917</DE>
+      <DS>685</DS>
+      <EV>4162</EV>
+      <HP>95300</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75130" Name="SealsDramon">
+    <Location X="48858" Y="29360" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>62900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Devil)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75131" Name="SealsDramon">
+    <Location X="50619" Y="30149" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1696</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>74300</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75132" Name="SealsDramon">
+    <Location X="48265" Y="32691" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1939</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>6307</DE>
+      <DS>695</DS>
+      <EV>4259</EV>
+      <HP>97200</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75133" Name="Yaksamon">
+    <Location X="41559" Y="29684" Radius="945" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1346</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>69900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75134" Name="Yaksamon">
+    <Location X="42514" Y="30860" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1414</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>82600</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75135" Name="Yaksamon">
+    <Location X="43426" Y="32514" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>24268</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>108000</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75136" Name="Okuwamon">
+    <Location X="38157" Y="47129" Radius="100" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="2400" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>2181</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>17360</DE>
+      <DS>695</DS>
+      <EV>5034</EV>
+      <HP>8572500</HP>
+      <HT>18792</HT>
+      <MS>1125</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Captain)</SubName>
+    <Model>25003</Model>
+    <Scale>-107201770</Scale>
+    <Class>6</Class>
+    <EXP>19872</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75137" Name="Groundramon">
+    <Location X="36356" Y="47018" Radius="100" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="2400" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1818</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>38084</DE>
+      <DS>695</DS>
+      <EV>4576</EV>
+      <HP>9525000</HP>
+      <HT>18792</HT>
+      <MS>1125</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Captain)</SubName>
+    <Model>25004</Model>
+    <Scale>-107201770</Scale>
+    <Class>6</Class>
+    <EXP>19872</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="62169" Name="Omegamon ZwartD">
+    <Location X="12027" Y="40826" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="105" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1526</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>48793</DE>
+      <DS>625</DS>
+      <EV>6490</EV>
+      <HP>771400</HP>
+      <HT>15365</HT>
+      <MS>852</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="62170" Name="Omegamon Alter-B">
+    <Location X="7958" Y="40861" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1605</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>58513</DE>
+      <DS>650</DS>
+      <EV>6908</EV>
+      <HP>812000</HP>
+      <HT>16380</HT>
+      <MS>876</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71109</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75097" Name="WereGarurumon(Black)">
+    <Location X="11736" Y="28021" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>61100</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Tonka)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75097" Name="WereGarurumon(Black)">
+    <Location X="11736" Y="28021" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>61100</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Tonka)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75097" Name="WereGarurumon(Black)">
+    <Location X="11736" Y="28021" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>61100</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Tonka)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75098" Name="WereGarurumon(Black)">
+    <Location X="11465" Y="23672" Radius="1685" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1651</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>72200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75098" Name="WereGarurumon(Black)">
+    <Location X="11465" Y="23672" Radius="1685" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1651</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>53685</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>72200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75099" Name="WereGarurumon(Black)">
+    <Location X="16033" Y="25483" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1887</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>4254</DE>
+      <DS>680</DS>
+      <EV>4102</EV>
+      <HP>94400</HP>
+      <HT>16128</HT>
+      <MS>814</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>19484</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75100" Name="WaruMonzaemon">
+    <Location X="11908" Y="11877" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1310</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>67900</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75100" Name="WaruMonzaemon">
+    <Location X="11908" Y="11877" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1310</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>67900</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75100" Name="WaruMonzaemon">
+    <Location X="11908" Y="11877" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1310</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>67900</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75100" Name="WaruMonzaemon">
+    <Location X="11908" Y="11877" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1310</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>67900</HP>
+      <HT>15120</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>20052</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75101" Name="WaruMonzaemon">
+    <Location X="11311" Y="14274" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1376</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>80200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75101" Name="WaruMonzaemon">
+    <Location X="11311" Y="14274" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1376</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>80200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75101" Name="WaruMonzaemon">
+    <Location X="11311" Y="14274" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1376</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>80200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75101" Name="WaruMonzaemon">
+    <Location X="11311" Y="14274" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1376</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>1570</DE>
+      <DS>680</DS>
+      <EV>3390</EV>
+      <HP>80200</HP>
+      <HT>15624</HT>
+      <MS>740</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>41708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75102" Name="WaruMonzaemon">
+    <Location X="9721" Y="17241" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>21702</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>104900</HP>
+      <HT>16128</HT>
+      <MS>814</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>19484</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75102" Name="WaruMonzaemon">
+    <Location X="9721" Y="17241" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="116" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>21702</DE>
+      <DS>680</DS>
+      <EV>3729</EV>
+      <HP>104900</HP>
+      <HT>16128</HT>
+      <MS>814</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>19484</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75103" Name="WereGarurumon(Black)">
+    <Location X="12079" Y="12710" Radius="417" />
+    <Respawn Time="10800" KillGen="75102" KillCount="20" />
+    <Status Level="118" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>2081</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>16521</DE>
+      <DS>690</DS>
+      <EV>4211</EV>
+      <HP>395600</HP>
+      <HT>18060</HT>
+      <MS>900</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Despicable Wolf)</SubName>
+    <Model>51149</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>5232</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75104" Name="Giromon">
+    <Location X="11970" Y="8254" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1058</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>82200</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despicable Wolf)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75104" Name="Giromon">
+    <Location X="11970" Y="8254" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1058</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>82200</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despicable Wolf)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75104" Name="Giromon">
+    <Location X="11970" Y="8254" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1058</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>82200</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despicable Wolf)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75104" Name="Giromon">
+    <Location X="11970" Y="8254" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1058</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>82200</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despicable Wolf)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75105" Name="Giromon">
+    <Location X="15363" Y="7606" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1111</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>97200</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75105" Name="Giromon">
+    <Location X="15363" Y="7606" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1111</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>97200</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75105" Name="Giromon">
+    <Location X="15363" Y="7606" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1111</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>97200</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75105" Name="Giromon">
+    <Location X="15363" Y="7606" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1111</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15756</DE>
+      <DS>685</DS>
+      <EV>2752</EV>
+      <HP>97200</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75106" Name="Giromon">
+    <Location X="20717" Y="8080" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>40143</DE>
+      <DS>685</DS>
+      <EV>3027</EV>
+      <HP>127100</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75106" Name="Giromon">
+    <Location X="20717" Y="8080" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>40143</DE>
+      <DS>685</DS>
+      <EV>3027</EV>
+      <HP>127100</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75106" Name="Giromon">
+    <Location X="20717" Y="8080" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>40143</DE>
+      <DS>685</DS>
+      <EV>3027</EV>
+      <HP>127100</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51154</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75107" Name="Knightmon">
+    <Location X="34300" Y="11064" Radius="1791" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1323</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>68500</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75107" Name="Knightmon">
+    <Location X="34300" Y="11064" Radius="1791" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1323</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>68500</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75107" Name="Knightmon">
+    <Location X="34300" Y="11064" Radius="1791" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1323</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>68500</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75108" Name="Knightmon">
+    <Location X="44142" Y="7863" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1389</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>81000</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75108" Name="Knightmon">
+    <Location X="44142" Y="7863" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1389</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>81000</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75108" Name="Knightmon">
+    <Location X="44142" Y="7863" Radius="1896" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1389</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>2207</DE>
+      <DS>685</DS>
+      <EV>3440</EV>
+      <HP>81000</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75109" Name="Knightmon">
+    <Location X="39350" Y="12524" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>22530</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>105900</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75110" Name="Knightmon">
+    <Location X="39481" Y="9891" Radius="311" />
+    <Respawn Time="10800" KillGen="75109" KillCount="20" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1750</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>38084</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>444500</HP>
+      <HT>18270</HT>
+      <MS>900</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Cavalry Lord)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>57708</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75111" Name="Cerberusmon">
+    <Location X="47570" Y="8634" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>61700</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Cavalry Lord)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75111" Name="Cerberusmon">
+    <Location X="47570" Y="8634" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>61700</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Cavalry Lord)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75111" Name="Cerberusmon">
+    <Location X="47570" Y="8634" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1588</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>61700</HP>
+      <HT>15300</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Cavalry Lord)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>43016</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75112" Name="Cerberusmon">
+    <Location X="52664" Y="15901" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1667</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>72900</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75112" Name="Cerberusmon">
+    <Location X="52664" Y="15901" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1667</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>72900</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75112" Name="Cerberusmon">
+    <Location X="52664" Y="15901" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1667</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>54194</DE>
+      <DS>685</DS>
+      <EV>3784</EV>
+      <HP>72900</HP>
+      <HT>15810</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>8036</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75113" Name="Cerberusmon">
+    <Location X="50189" Y="14128" Radius="840" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1905</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>4917</DE>
+      <DS>685</DS>
+      <EV>4162</EV>
+      <HP>95300</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75113" Name="Cerberusmon">
+    <Location X="50189" Y="14128" Radius="840" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="117" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1905</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>4917</DE>
+      <DS>685</DS>
+      <EV>4162</EV>
+      <HP>95300</HP>
+      <HT>16320</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51034</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>3512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75130" Name="SealsDramon">
+    <Location X="48858" Y="29360" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>62900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Devil)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75130" Name="SealsDramon">
+    <Location X="48858" Y="29360" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>62900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Devil)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75131" Name="SealsDramon">
+    <Location X="50619" Y="30149" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1696</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>74300</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75131" Name="SealsDramon">
+    <Location X="50619" Y="30149" Radius="734" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1696</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>55264</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>74300</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75132" Name="SealsDramon">
+    <Location X="48265" Y="32691" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1939</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>6307</DE>
+      <DS>695</DS>
+      <EV>4259</EV>
+      <HP>97200</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75132" Name="SealsDramon">
+    <Location X="48265" Y="32691" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1939</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>6307</DE>
+      <DS>695</DS>
+      <EV>4259</EV>
+      <HP>97200</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75133" Name="Yaksamon">
+    <Location X="41559" Y="29684" Radius="945" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1346</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>69900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75133" Name="Yaksamon">
+    <Location X="41559" Y="29684" Radius="945" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1346</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>69900</HP>
+      <HT>15660</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>37736</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75134" Name="Yaksamon">
+    <Location X="42514" Y="30860" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1414</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>82600</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75134" Name="Yaksamon">
+    <Location X="42514" Y="30860" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1414</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>3544</DE>
+      <DS>695</DS>
+      <EV>3520</EV>
+      <HP>82600</HP>
+      <HT>16182</HT>
+      <MS>750</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34956</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75135" Name="Yaksamon">
+    <Location X="43426" Y="32514" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>24268</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>108000</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75135" Name="Yaksamon">
+    <Location X="43426" Y="32514" Radius="417" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1616</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>24268</DE>
+      <DS>695</DS>
+      <EV>3872</EV>
+      <HP>108000</HP>
+      <HT>16704</HT>
+      <MS>825</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>75011</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>29396</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75136" Name="Okuwamon">
+    <Location X="38157" Y="47129" Radius="100" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="2400" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>2181</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>17360</DE>
+      <DS>695</DS>
+      <EV>5034</EV>
+      <HP>8572500</HP>
+      <HT>18792</HT>
+      <MS>1125</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Captain)</SubName>
+    <Model>25003</Model>
+    <Scale>-107201770</Scale>
+    <Class>6</Class>
+    <EXP>19872</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="75137" Name="Groundramon">
+    <Location X="36356" Y="47018" Radius="100" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="119" Sight="2400" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1818</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>38084</DE>
+      <DS>695</DS>
+      <EV>4576</EV>
+      <HP>9525000</HP>
+      <HT>18792</HT>
+      <MS>1125</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Captain)</SubName>
+    <Model>25004</Model>
+    <Scale>-107201770</Scale>
+    <Class>6</Class>
+    <EXP>19872</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+</Map>

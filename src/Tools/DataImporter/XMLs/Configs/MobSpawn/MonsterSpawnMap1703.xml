@@ -1,0 +1,54 @@
+<Map Id="1703" Name="Yggdrasills Room">
+  <Monster Specie="51152" Name="Death-X-mon">
+    <Location X="12563" Y="12911" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>4400</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>3000</DE>
+      <DS>5000</DS>
+      <EV>6000</EV>
+      <HP>24000000</HP>
+      <HT>32000</HT>
+      <MS>1700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51108</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>31744</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51152" Name="Death-X-mon">
+    <Location X="12563" Y="12911" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>4400</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>3000</DE>
+      <DS>5000</DS>
+      <EV>6000</EV>
+      <HP>24000000</HP>
+      <HT>32000</HT>
+      <MS>1700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51108</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>31744</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

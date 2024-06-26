@@ -1,0 +1,4058 @@
+<Map Id="1202" Name="Digimon Maze B2">
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="27421" Y="6829" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41172" Name="Meramon">
+    <Location X="31306" Y="8852" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="42909" Y="18445" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41653" Name="Roachmon">
+    <Location X="41011" Y="18408" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="18429" Y="43055" Radius="2148" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41864" Name="Gladimon">
+    <Location X="20379" Y="40073" Radius="2219" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="7191" Y="31582" Radius="1753" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="8837" Y="27377" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="37872" Y="8836" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61495" Name="Boltmon">
+    <Location X="30072" Y="20810" Radius="1262" />
+    <Respawn Time="10" KillGen="51542" KillCount="30" />
+    <Status Level="78" Sight="800" HuntRange="5000">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>415</AT>
+      <CC>15</CC>
+      <CD>1758</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>2570</EV>
+      <HP>31750</HP>
+      <HT>1371</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Chaser)</SubName>
+    <Model>61151</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>5</Class>
+    <EXP>29252</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+  <Monster Specie="61496" Name="Boltmon">
+    <Location X="20938" Y="30098" Radius="1368" />
+    <Respawn Time="10" KillGen="61495" KillCount="1" />
+    <Status Level="78" Sight="800" HuntRange="5000">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>415</AT>
+      <CC>15</CC>
+      <CD>1758</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>2570</EV>
+      <HP>31750</HP>
+      <HT>1371</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Chaser)</SubName>
+    <Model>61151</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>5</Class>
+    <EXP>29252</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="28784" Y="6850" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="31161" Y="6688" Radius="1948" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="31337" Y="10977" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="29674" Y="10957" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41171" Name="Meramon">
+    <Location X="27885" Y="10995" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>232</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>75</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8630</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Star Chaser)</SubName>
+    <Model>41170</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41172" Name="Meramon">
+    <Location X="30061" Y="7607" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41172" Name="Meramon">
+    <Location X="30073" Y="9942" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41172" Name="Meramon">
+    <Location X="27476" Y="8794" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41172" Name="Meramon">
+    <Location X="27982" Y="7641" Radius="1948" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+   <Monster Specie="41172" Name="Meramon">
+    <Location X="27996" Y="9965" Radius="1948" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>98</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10360</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41170</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="39261" Y="18353" Radius="1848" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="39298" Y="22367" Radius="1748" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="42664" Y="22461" Radius="1748" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="41160" Y="21418" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41652" Name="Roachmon">
+    <Location X="41208" Y="19613" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>100</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8330</HP>
+      <HT>1820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Wanted Criminal)</SubName>
+    <Model>41165</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41653" Name="Roachmon">
+    <Location X="39194" Y="21085" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41653" Name="Roachmon">
+    <Location X="39324" Y="19862" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41653" Name="Roachmon">
+    <Location X="40187" Y="20491" Radius="1948" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41653" Name="Roachmon">
+    <Location X="42991" Y="21099" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="41653" Name="Roachmon">
+    <Location X="42904" Y="19787" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="41653" Name="Roachmon">
+    <Location X="41233" Y="22594" Radius="1648" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>66</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>23130</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="18438" Y="39203" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="21919" Y="39102" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="21997" Y="42993" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="21439" Y="41222" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41863" Name="Gladimon">
+    <Location X="19531" Y="41134" Radius="2048" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="78" Sight="600" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>348</AT>
+      <CC>15</CC>
+      <CD>879</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1836</EV>
+      <HP>8570</HP>
+      <HT>1820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>53160</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41864" Name="Gladimon">
+    <Location X="20273" Y="42154" Radius="2319" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41864" Name="Gladimon">
+    <Location X="18465" Y="42002" Radius="1619" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41864" Name="Gladimon">
+    <Location X="18607" Y="40193" Radius="1819" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="41864" Name="Gladimon">
+    <Location X="22429" Y="42032" Radius="1819" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="41864" Name="Gladimon">
+    <Location X="22394" Y="39918" Radius="1819" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="41865" Name="Gladimon">
+    <Location X="29586" Y="39546" Radius="3019" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>383</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>10290</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Event DSO)</SubName>
+    <Model>41022</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="7131" Y="29904" Radius="1653" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="7142" Y="28049" Radius="1653" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="10272" Y="27926" Radius="1653" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="10383" Y="29351" Radius="2053" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51245" Name="WaruMonzaemon">
+    <Location X="10490" Y="31323" Radius="1653" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>357</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>80</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>9740</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Lord of Vice)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>5024</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="7750" Y="28858" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="9511" Y="28724" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="7698" Y="30622" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="9705" Y="30547" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51256" Name="WaruMonzaemon">
+    <Location X="8840" Y="32006" Radius="1642" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>393</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>104</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>11690</HP>
+      <HT>1850</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51124</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>4316</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="38825" Y="6203" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="40671" Y="5681" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+   <Monster Specie="51542" Name="Giromon">
+    <Location X="42369" Y="5944" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster> 
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="43945" Y="7135" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="44335" Y="9071" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="43747" Y="10749" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="42336" Y="11692" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="40583" Y="11835" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="39140" Y="11042" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="8825" Y="1213" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="6919" Y="11648" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="5970" Y="10237" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="5897" Y="8688" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="6266" Y="7237" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="7412" Y="6169" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="8713" Y="5687" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="10314" Y="5772" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11325" Y="6949" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11768" Y="8424" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11774" Y="10074" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="10819" Y="11184" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="8924" Y="37781" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="10366" Y="38218" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11365" Y="39349" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11758" Y="40726" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11890" Y="42242" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="11110" Y="43674" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="9636" Y="44172" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="8015" Y="44134" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="6896" Y="43202" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="5915" Y="41856" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="5826" Y="40563" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="6744" Y="38838" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+       <Monster Specie="51542" Name="Giromon">
+    <Location X="8680" Y="12076" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+ <Monster Specie="51542" Name="Giromon">
+    <Location X="16987" Y="24963" Radius="1251" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster> 
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="16936" Y="26420" Radius="1251" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="16912" Y="28140" Radius="1251" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="16941" Y="30046" Radius="1251" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="16947" Y="31861" Radius="1251" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="17693" Y="33114" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="19445" Y="33083" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="21610" Y="33070" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="23286" Y="33058" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="25201" Y="33055" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="26658" Y="33028" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="28191" Y="33044" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="29634" Y="33007" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="31549" Y="33004" Radius="1451" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33270" Y="32242" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33168" Y="30362" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33072" Y="28630" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33053" Y="27108" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33040" Y="25592" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33018" Y="24107" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33021" Y="22461" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33021" Y="20945" Radius="1051" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="33008" Y="19429" Radius="1351" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="32982" Y="17085" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="16929" Y="23581" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="16867" Y="21992" Radius="1219" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="16888" Y="20395" Radius="1219" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="16898" Y="19015" Radius="1219" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="16903" Y="17334" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="18632" Y="16863" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="20301" Y="16857" Radius="1399" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="21808" Y="16928" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="23299" Y="16949" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="24610" Y="16898" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="26055" Y="16864" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="27488" Y="16847" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="28850" Y="16880" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="30625" Y="16913" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="31721" Y="16811" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="33363" Y="16781" Radius="1399" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="30809" Y="23958" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="30978" Y="26082" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="28363" Y="26055" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="28210" Y="24035" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="29636" Y="24950" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="25849" Y="24916" Radius="1499" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="26205" Y="19013" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="24171" Y="19058" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="23981" Y="21453" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="25976" Y="21577" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+      <Monster Specie="51542" Name="Giromon">
+    <Location X="24807" Y="19013" Radius="1399" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="25009" Y="23705" Radius="1399" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="22298" Y="23961" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="22308" Y="26065" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="18791" Y="26199" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="18742" Y="23893" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51542" Name="Giromon">
+    <Location X="20452" Y="24986" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="23631" Y="24842" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="24968" Y="26218" Radius="1399" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="23896" Y="27523" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="26115" Y="27465" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="25090" Y="28684" Radius="1599" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="23907" Y="29676" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="26128" Y="29669" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="24944" Y="30670" Radius="1599" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="23849" Y="31820" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+    <Monster Specie="51542" Name="Giromon">
+    <Location X="26024" Y="31788" Radius="1299" />
+    <Respawn Time="2" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>469</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>1842</EV>
+      <HP>12110</HP>
+      <HT>1836</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51154</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>49552</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61495" Name="Boltmon">
+    <Location X="30072" Y="20810" Radius="1262" />
+    <Respawn Time="10" KillGen="51542" KillCount="30" />
+    <Status Level="78" Sight="800" HuntRange="5000">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>415</AT>
+      <CC>15</CC>
+      <CD>1758</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>2570</EV>
+      <HP>31750</HP>
+      <HT>1371</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Chaser)</SubName>
+    <Model>61151</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>5</Class>
+    <EXP>29252</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+  <Monster Specie="61496" Name="Boltmon">
+    <Location X="20938" Y="30098" Radius="1368" />
+    <Respawn Time="10" KillGen="61495" KillCount="1" />
+    <Status Level="78" Sight="800" HuntRange="5000">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>415</AT>
+      <CC>15</CC>
+      <CD>1758</CD>
+      <DE>150</DE>
+      <DS>540</DS>
+      <EV>2570</EV>
+      <HP>31750</HP>
+      <HT>1371</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Chaser)</SubName>
+    <Model>61151</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>5</Class>
+    <EXP>29252</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+</Map>

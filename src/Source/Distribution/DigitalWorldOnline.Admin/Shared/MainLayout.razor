@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.WebUtilities;
+@inherits LayoutComponentBase
+@inject NavigationManager navMan
+
+<MudThemeProvider Theme="_currentTheme"></MudThemeProvider>
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+@if(navMan.Uri.Contains("/downloads"))
+{
+    <MudLayout>
+        <MudAppBar Elevation="3">
+            <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+            <MudSpacer />
+            <MudIconButton Icon="@Icons.Filled.ExitToApp" Title="Logout" Color="Color.Inherit" Href="logout" />
+        </MudAppBar>
+        <MudDrawer @bind-Open="_drawerOpen" Elevation="3">
+            <MudDrawerHeader>
+                <img src="/Images/dso_header.png" width="200px" style="padding-left: 20px;" />
+            </MudDrawerHeader>
+            <NavMenu />
+        </MudDrawer>
+        <MudMainContent>
+            <MudContainer MaxWidth="MaxWidth.False" Style="margin-top:40px;">
+                @Body
+            </MudContainer>
+        </MudMainContent>
+    </MudLayout>
+}
+else
+{
+    <AuthorizeView>
+        <Authorized>
+            <MudLayout>
+                <MudAppBar Elevation="3">
+                    <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+                    <MudSpacer />
+                    <MudIconButton Icon="@Icons.Filled.ExitToApp" Title="Logout" Color="Color.Inherit" Href="logout" />
+                </MudAppBar>
+                <MudDrawer @bind-Open="_drawerOpen" Elevation="3">
+                    <MudDrawerHeader>
+                        <img src="/Images/dso_header.png" width="200px" style="padding-left: 20px;" />
+                    </MudDrawerHeader>
+                    <NavMenu />
+                </MudDrawer>
+                <MudMainContent>
+                    <MudContainer MaxWidth="MaxWidth.False" Style="margin-top:40px;">
+                        @Body
+                    </MudContainer>
+                </MudMainContent>
+            </MudLayout>
+        </Authorized>
+        <NotAuthorized>
+            <TrackRedirect />
+        </NotAuthorized>
+    </AuthorizeView>
+}
+
+@code 
+{
+    bool _drawerOpen = true;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await base.OnAfterRenderAsync(firstRender);
+    }
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+
+    private MudTheme _currentTheme = new MudTheme()
+    {
+        Palette = new Palette()
+        {
+            AppbarBackground = "#fbc802",
+            Primary = "#155883",
+            DrawerIcon = "#134d74"
+        }
+    };
+}

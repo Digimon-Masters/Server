@@ -1,0 +1,158 @@
+<Map Id="1403" Name="Datamon Maze (Normal)">
+  <Monster Specie="45348" Name="Etemon">
+    <Location X="16155" Y="16213" Radius="100" />
+    <Respawn Time="6000" KillGen="0" KillCount="0" />
+    <Status Level="95" Sight="2000" HuntRange="1500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>520</AT>
+      <CC>15</CC>
+      <CD>2505</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>2943</EV>
+      <HP>748800</HP>
+      <HT>5190</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51039</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>23852</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45350" Name="Nanomon">
+    <Location X="14421" Y="16262" Radius="100" />
+    <Respawn Time="6000" KillGen="0" KillCount="0" />
+    <Status Level="95" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>520</AT>
+      <CC>15</CC>
+      <CD>2505</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>2943</EV>
+      <HP>748800</HP>
+      <HT>5190</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51065</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>23852</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45352" Name="Gazimon">
+    <Location X="9286" Y="7865" Radius="100" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="1000" HuntRange="1500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>51840</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>36996</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45348" Name="Etemon">
+    <Location X="16155" Y="16213" Radius="100" />
+    <Respawn Time="6000" KillGen="0" KillCount="0" />
+    <Status Level="95" Sight="2000" HuntRange="1500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>520</AT>
+      <CC>15</CC>
+      <CD>2505</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>2943</EV>
+      <HP>748800</HP>
+      <HT>5190</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51039</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>23852</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45350" Name="Nanomon">
+    <Location X="14421" Y="16262" Radius="100" />
+    <Respawn Time="6000" KillGen="0" KillCount="0" />
+    <Status Level="95" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>520</AT>
+      <CC>15</CC>
+      <CD>2505</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>2943</EV>
+      <HP>748800</HP>
+      <HT>5190</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51065</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>23852</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45352" Name="Gazimon">
+    <Location X="9286" Y="7865" Radius="100" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="1000" HuntRange="1500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>51840</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>36996</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+</Map>

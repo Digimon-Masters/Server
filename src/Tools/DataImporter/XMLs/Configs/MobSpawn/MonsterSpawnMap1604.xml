@@ -1,0 +1,210 @@
+<Map Id="1604" Name="Uprising Flame Easy">
+  <Monster Specie="51054" Name="Birdramon">
+    <Location X="15644" Y="20474" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>7500</DE>
+      <DS>1500</DS>
+      <EV>2214</EV>
+      <HP>2520000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51082</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>36224</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51057" Name="Garudamon">
+    <Location X="15709" Y="38188" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>10000</DE>
+      <DS>2000</DS>
+      <EV>2214</EV>
+      <HP>2880000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51083</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28896</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51058" Name="Phoenixmon">
+    <Location X="15785" Y="56479" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>12500</DE>
+      <DS>2500</DS>
+      <EV>2214</EV>
+      <HP>3000000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>21568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51059" Name="Zhuqiaomon">
+    <Location X="15618" Y="79867" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>15000</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>3600000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>14240</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51054" Name="Birdramon">
+    <Location X="15644" Y="20474" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>7500</DE>
+      <DS>1500</DS>
+      <EV>2214</EV>
+      <HP>2520000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51082</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>36224</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51057" Name="Garudamon">
+    <Location X="15709" Y="38188" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>10000</DE>
+      <DS>2000</DS>
+      <EV>2214</EV>
+      <HP>2880000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51083</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28896</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51058" Name="Phoenixmon">
+    <Location X="15785" Y="56479" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>12500</DE>
+      <DS>2500</DS>
+      <EV>2214</EV>
+      <HP>3000000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>21568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51059" Name="Zhuqiaomon">
+    <Location X="15618" Y="79867" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>15000</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>3600000</HP>
+      <HT>15000</HT>
+      <MS>1800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>14240</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

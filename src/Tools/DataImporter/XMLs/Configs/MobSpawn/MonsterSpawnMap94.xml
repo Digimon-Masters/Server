@@ -1,0 +1,210 @@
+<Map Id="94" Name="D-terminal-Dungeon-B2 - Weekends">
+	<Monster Specie="99861" Name="Dobermon">
+		<Location X="46586" Y="37910" Radius="500"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>43</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>365</DS>
+			<EV>0</EV>
+			<HP>11500</HP>
+			<HT>2041</HT>
+			<MS>550</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41033</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>51600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99862" Name="Cerberusmon">
+		<Location X="46114" Y="37719" Radius="1262"/>
+		<Respawn Time="1" KillGen="99861" KillCount="100"/>
+		<Status Level="100" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>107</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>515</DS>
+			<EV>0</EV>
+			<HP>44300</HP>
+			<HT>4030</HT>
+			<MS>640</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51034</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>44096</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99861" Name="Dobermon">
+		<Location X="46586" Y="37910" Radius="500"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>43</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>365</DS>
+			<EV>0</EV>
+			<HP>11500</HP>
+			<HT>2041</HT>
+			<MS>550</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41033</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>51600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99861" Name="Dobermon">
+		<Location X="46586" Y="37910" Radius="500"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>43</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>365</DS>
+			<EV>0</EV>
+			<HP>11500</HP>
+			<HT>2041</HT>
+			<MS>550</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41033</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>51600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99861" Name="Dobermon">
+		<Location X="46586" Y="37910" Radius="500"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>43</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>365</DS>
+			<EV>0</EV>
+			<HP>11500</HP>
+			<HT>2041</HT>
+			<MS>550</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41033</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>51600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99862" Name="Cerberusmon">
+		<Location X="46114" Y="37719" Radius="1262"/>
+		<Respawn Time="1" KillGen="99861" KillCount="100"/>
+		<Status Level="100" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>107</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>515</DS>
+			<EV>0</EV>
+			<HP>44300</HP>
+			<HT>4030</HT>
+			<MS>640</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51034</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>44096</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99862" Name="Cerberusmon">
+		<Location X="46114" Y="37719" Radius="1262"/>
+		<Respawn Time="1" KillGen="99861" KillCount="100"/>
+		<Status Level="100" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>107</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>515</DS>
+			<EV>0</EV>
+			<HP>44300</HP>
+			<HT>4030</HT>
+			<MS>640</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51034</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>44096</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99862" Name="Cerberusmon">
+		<Location X="46114" Y="37719" Radius="1262"/>
+		<Respawn Time="1" KillGen="99861" KillCount="100"/>
+		<Status Level="100" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>107</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>515</DS>
+			<EV>0</EV>
+			<HP>44300</HP>
+			<HT>4030</HT>
+			<MS>640</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51034</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>44096</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

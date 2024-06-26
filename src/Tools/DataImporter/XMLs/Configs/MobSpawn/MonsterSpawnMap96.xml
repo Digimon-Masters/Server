@@ -1,0 +1,132 @@
+<Map Id="96" Name="Burning Time - Weekdays">
+  <Monster Specie="99841" Name="Seadramon">
+    <Location X="37129" Y="33827" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>27</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>315</DS>
+      <EV>0</EV>
+      <HP>7350</HP>
+      <HT>1290</HT>
+      <MS>520</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Want to be loved)</SubName>
+    <Model>41027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>6240</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99842" Name="MetalSeadramon">
+    <Location X="26846" Y="35237" Radius="1900" />
+    <Respawn Time="10" KillGen="99841" KillCount="100" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>73</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>465</DS>
+      <EV>0</EV>
+      <HP>30350</HP>
+      <HT>2700</HT>
+      <MS>610</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Sad)</SubName>
+    <Model>61029</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>60512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99841" Name="Seadramon">
+    <Location X="37129" Y="33827" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>27</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>315</DS>
+      <EV>0</EV>
+      <HP>7350</HP>
+      <HT>1290</HT>
+      <MS>520</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Want to be loved)</SubName>
+    <Model>41027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>6240</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99841" Name="Seadramon">
+    <Location X="37129" Y="33827" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>27</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>315</DS>
+      <EV>0</EV>
+      <HP>7350</HP>
+      <HT>1290</HT>
+      <MS>520</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Want to be loved)</SubName>
+    <Model>41027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>6240</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99842" Name="MetalSeadramon">
+    <Location X="26612" Y="34717" Radius="1900" />
+    <Respawn Time="10" KillGen="99841" KillCount="100" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>73</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>465</DS>
+      <EV>0</EV>
+      <HP>30350</HP>
+      <HT>2700</HT>
+      <MS>610</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Sad)</SubName>
+    <Model>61029</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>60512</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+</Map>

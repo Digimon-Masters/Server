@@ -1,0 +1,964 @@
+<Map Id="203" Name="Tokyo Tower">
+  <Monster Specie="75043" Name="DemiMeramon">
+    <Location X="30529" Y="8266" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>True Warrior)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75044" Name="DemiMeramon">
+    <Location X="30795" Y="9849" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75045" Name="DemiMeramon">
+    <Location X="31370" Y="8332" Radius="200" />
+    <Respawn Time="10800" KillGen="75044" KillCount="25" />
+    <Status Level="108" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>27290</DE>
+      <DS>640</DS>
+      <EV>3366</EV>
+      <HP>397600</HP>
+      <HT>15960</HT>
+      <MS>864</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>46560</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75046" Name="Candlemon">
+    <Location X="37679" Y="14339" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75047" Name="Candlemon">
+    <Location X="38212" Y="16691" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75048" Name="Candlemon">
+    <Location X="38208" Y="15161" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1452</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>14913</DE>
+      <DS>640</DS>
+      <EV>3366</EV>
+      <HP>96600</HP>
+      <HT>14592</HT>
+      <MS>792</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>46560</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75049" Name="Boarmon">
+    <Location X="35124" Y="21461" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1222</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>63100</HP>
+      <HT>13860</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>24076</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75050" Name="Boarmon">
+    <Location X="33269" Y="22769" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1283</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>74600</HP>
+      <HT>14322</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>52668</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75051" Name="Boarmon">
+    <Location X="34178" Y="24054" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1467</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15730</DE>
+      <DS>645</DS>
+      <EV>3410</EV>
+      <HP>97600</HP>
+      <HT>14784</HT>
+      <MS>792</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>44416</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75052" Name="Meramon">
+    <Location X="20968" Y="24484" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1235</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>63800</HP>
+      <HT>14040</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38740</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75053" Name="Meramon">
+    <Location X="18405" Y="21080" Radius="1579" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1297</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>75400</HP>
+      <HT>14508</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9896</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75054" Name="Meramon">
+    <Location X="19628" Y="21323" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1482</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>16618</DE>
+      <DS>650</DS>
+      <EV>3454</EV>
+      <HP>98600</HP>
+      <HT>14976</HT>
+      <MS>803</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>17644</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75055" Name="Meramon">
+    <Location X="19448" Y="19455" Radius="200" />
+    <Respawn Time="10800" KillGen="75054" KillCount="25" />
+    <Status Level="110" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1605</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>29257</DE>
+      <DS>650</DS>
+      <EV>3454</EV>
+      <HP>406000</HP>
+      <HT>16380</HT>
+      <MS>876</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Gigantic)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>50684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75043" Name="DemiMeramon">
+    <Location X="30529" Y="8266" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>True Warrior)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75043" Name="DemiMeramon">
+    <Location X="30529" Y="8266" Radius="1157" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>True Warrior)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75044" Name="DemiMeramon">
+    <Location X="30795" Y="9849" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75044" Name="DemiMeramon">
+    <Location X="30795" Y="9849" Radius="1051" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75045" Name="DemiMeramon">
+    <Location X="31370" Y="8332" Radius="200" />
+    <Respawn Time="10800" KillGen="75044" KillCount="25" />
+    <Status Level="108" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1572</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>27290</DE>
+      <DS>640</DS>
+      <EV>3366</EV>
+      <HP>397600</HP>
+      <HT>15960</HT>
+      <MS>864</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>21134</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>46560</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75046" Name="Candlemon">
+    <Location X="37679" Y="14339" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75046" Name="Candlemon">
+    <Location X="37679" Y="14339" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75046" Name="Candlemon">
+    <Location X="37679" Y="14339" Radius="1368" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1210</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>62500</HP>
+      <HT>13680</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>20684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75047" Name="Candlemon">
+    <Location X="38212" Y="16691" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75047" Name="Candlemon">
+    <Location X="38212" Y="16691" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1270</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>61884</DE>
+      <DS>640</DS>
+      <EV>3060</EV>
+      <HP>73800</HP>
+      <HT>14136</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>29276</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75048" Name="Candlemon">
+    <Location X="38208" Y="15161" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1452</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>14913</DE>
+      <DS>640</DS>
+      <EV>3366</EV>
+      <HP>96600</HP>
+      <HT>14592</HT>
+      <MS>792</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>46560</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75048" Name="Candlemon">
+    <Location X="38208" Y="15161" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="108" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1452</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>14913</DE>
+      <DS>640</DS>
+      <EV>3366</EV>
+      <HP>96600</HP>
+      <HT>14592</HT>
+      <MS>792</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>31022</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>46560</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75049" Name="Boarmon">
+    <Location X="35124" Y="21461" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1222</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>63100</HP>
+      <HT>13860</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>24076</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75049" Name="Boarmon">
+    <Location X="35124" Y="21461" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1222</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>63100</HP>
+      <HT>13860</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>24076</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75050" Name="Boarmon">
+    <Location X="33269" Y="22769" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1283</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>74600</HP>
+      <HT>14322</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>52668</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75050" Name="Boarmon">
+    <Location X="33269" Y="22769" Radius="1262" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1283</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>62512</DE>
+      <DS>645</DS>
+      <EV>3100</EV>
+      <HP>74600</HP>
+      <HT>14322</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>52668</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75051" Name="Boarmon">
+    <Location X="34178" Y="24054" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="109" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1467</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>15730</DE>
+      <DS>645</DS>
+      <EV>3410</EV>
+      <HP>97600</HP>
+      <HT>14784</HT>
+      <MS>792</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>44416</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75052" Name="Meramon">
+    <Location X="20968" Y="24484" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1235</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>63800</HP>
+      <HT>14040</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38740</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75052" Name="Meramon">
+    <Location X="20968" Y="24484" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1235</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>63800</HP>
+      <HT>14040</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38740</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75052" Name="Meramon">
+    <Location X="20968" Y="24484" Radius="2108" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1235</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>63800</HP>
+      <HT>14040</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38740</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75053" Name="Meramon">
+    <Location X="18405" Y="21080" Radius="1579" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1297</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>75400</HP>
+      <HT>14508</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9896</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75053" Name="Meramon">
+    <Location X="18405" Y="21080" Radius="1579" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1297</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>63195</DE>
+      <DS>650</DS>
+      <EV>3140</EV>
+      <HP>75400</HP>
+      <HT>14508</HT>
+      <MS>730</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Army Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9896</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75054" Name="Meramon">
+    <Location X="19628" Y="21323" Radius="523" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1482</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>16618</DE>
+      <DS>650</DS>
+      <EV>3454</EV>
+      <HP>98600</HP>
+      <HT>14976</HT>
+      <MS>803</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>17644</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="75055" Name="Meramon">
+    <Location X="19448" Y="19455" Radius="200" />
+    <Respawn Time="10800" KillGen="75054" KillCount="25" />
+    <Status Level="110" Sight="600" HuntRange="3000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>1605</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>29257</DE>
+      <DS>650</DS>
+      <EV>3454</EV>
+      <HP>406000</HP>
+      <HT>16380</HT>
+      <MS>876</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Gigantic)</SubName>
+    <Model>41170</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>50684</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

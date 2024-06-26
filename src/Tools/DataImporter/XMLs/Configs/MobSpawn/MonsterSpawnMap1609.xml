@@ -1,0 +1,5436 @@
+<Map Id="1609" Name="Fanglongmon Dungeon">
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51154" Name="Xuanwumon">
+    <Location X="36249" Y="15728" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5016</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1425</DE>
+      <DS>980</DS>
+      <EV>4500</EV>
+      <HP>17084400</HP>
+      <HT>28480</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the north)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51157" Name="Vikaralamon">
+    <Location X="38619" Y="17114" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51158" Name="MegaSeadramon">
+    <Location X="34996" Y="15560" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51159" Name="Marin Devimon">
+    <Location X="37097" Y="17876" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>480000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the north)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51160" Name="Zhuqiaomon">
+    <Location X="14127" Y="16234" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the south)</SubName>
+    <Model>51085</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51164" Name="Gulfmon">
+    <Location X="17695" Y="15652" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>62075</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51165" Name="Ornismon">
+    <Location X="15246" Y="18312" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>71031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51166" Name="Phoenixmon">
+    <Location X="12862" Y="16186" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51084</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51167" Name="Baihumon">
+    <Location X="14660" Y="37399" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>4296</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>945</DE>
+      <DS>880</DS>
+      <EV>5000</EV>
+      <HP>11319600</HP>
+      <HT>26880</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the west)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51168" Name="Red Stone Monument">
+    <Location X="11069" Y="38221" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51169" Name="Red Stone Monument">
+    <Location X="14691" Y="33970" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51170" Name="Red Stone Monument">
+    <Location X="17169" Y="40394" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>2214</EV>
+      <HP>1200000</HP>
+      <HT>2750</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51171" Name="Sinduramon">
+    <Location X="18800" Y="37296" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51172" Name="SaberLeomon">
+    <Location X="13250" Y="36091" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51173" Name="Gryphonmon">
+    <Location X="15062" Y="39819" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>240000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51174" Name="Qinglongmon">
+    <Location X="37551" Y="38667" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>5304</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1655</DE>
+      <DS>3000</DS>
+      <EV>5500</EV>
+      <HP>26720000</HP>
+      <HT>29120</HT>
+      <MS>2200</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>16960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51176" Name="Antylamon">
+    <Location X="38808" Y="34773" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51177" Name="Mihiramon">
+    <Location X="34892" Y="38740" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51178" Name="Majiramon">
+    <Location X="39016" Y="36476" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="7000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1500</AT>
+      <CC>15</CC>
+      <CD>825</CD>
+      <DE>750</DE>
+      <DS>3000</DS>
+      <EV>1839</EV>
+      <HP>600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

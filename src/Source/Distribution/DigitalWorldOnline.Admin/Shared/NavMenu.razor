@@ -1,0 +1,33 @@
+﻿<MudNavMenu>
+    <MudNavLink Href="/" Match="NavLinkMatch.All" Icon="@Icons.Filled.Home">Home</MudNavLink>
+    <MudNavLink Href="/players" Match="NavLinkMatch.All" Icon="@Icons.Filled.PersonPinCircle">Players</MudNavLink>
+    <MudNavLink Href="/downloads" Match="NavLinkMatch.All" Icon="@Icons.Filled.CloudDownload">Downloads</MudNavLink>
+
+    <AuthorizeView Roles="Administrator">
+        <MudNavLink Href="/players" Match="NavLinkMatch.All" Icon="@Icons.Filled.SupervisorAccount">Players</MudNavLink>
+        <MudNavLink Href="/chats" Match="NavLinkMatch.All" Icon="@Icons.Filled.ChatBubble">Chat</MudNavLink>
+        <MudNavLink Href="/maps" Match="NavLinkMatch.All" Icon="@Icons.Filled.Map">Maps</MudNavLink>
+        <MudNavLink Href="/scans" Match="NavLinkMatch.All" Icon="@Icons.Filled.WifiFind">Scan</MudNavLink>
+        <MudNavLink Href="/containers" Match="NavLinkMatch.All" Icon="@Icons.Filled.Outbox">Container</MudNavLink>
+        <MudNavLink Href="/hatchs" Match="NavLinkMatch.All" Icon="@Icons.Filled.Egg">Hatch</MudNavLink>
+        <MudNavLink Href="/clones" Match="NavLinkMatch.All" Icon="@Icons.Filled.CatchingPokemon">Clone</MudNavLink>
+        <MudNavLink Href="/summons" Match="NavLinkMatch.All" Icon="@Icons.Filled.SimCardDownload">Summon</MudNavLink>
+        <MudNavLink Href="/events" Match="NavLinkMatch.All" Icon="@Icons.Filled.Alarm">Events</MudNavLink>
+        <MudNavLink Href="/servers" Match="NavLinkMatch.All" Icon="@Icons.Filled.Storage">Servers</MudNavLink>
+        <MudNavLink Href="/accounts" Match="NavLinkMatch.All" Icon="@Icons.Filled.AssignmentTurnedIn">Accounts</MudNavLink>
+        <MudNavLink Href="/users" Match="NavLinkMatch.All" Icon="@Icons.Filled.ManageAccounts">Users</MudNavLink>
+        <MudNavLink Href="/settings" Match="NavLinkMatch.All" Icon="@Icons.Filled.Settings">Settings</MudNavLink>
+    </AuthorizeView>
+
+    <AuthorizeView Roles="GameMaster">
+        <MudNavLink Href="/players" Match="NavLinkMatch.All" Icon="@Icons.Filled.SupervisorAccount">Players</MudNavLink>
+        <MudNavLink Href="/chats" Match="NavLinkMatch.All" Icon="@Icons.Filled.ChatBubble">Chat</MudNavLink>
+        <MudNavLink Href="/maps" Match="NavLinkMatch.All" Icon="@Icons.Filled.Map">Maps</MudNavLink>
+        <MudNavLink Href="/scans" Match="NavLinkMatch.All" Icon="@Icons.Filled.WifiFind">Scan</MudNavLink>
+        <MudNavLink Href="/containers" Match="NavLinkMatch.All" Icon="@Icons.Filled.Outbox">Container</MudNavLink>
+        <MudNavLink Href="/hatchs" Match="NavLinkMatch.All" Icon="@Icons.Filled.Egg">Hatch</MudNavLink>
+        <MudNavLink Href="/clones" Match="NavLinkMatch.All" Icon="@Icons.Filled.CatchingPokemon">Clone</MudNavLink>
+        <MudNavLink Href="/summons" Match="NavLinkMatch.All" Icon="@Icons.Filled.SimCardDownload">Summon</MudNavLink>
+        <MudNavLink Href="/events" Match="NavLinkMatch.All" Icon="@Icons.Filled.Alarm">Events</MudNavLink>
+    </AuthorizeView>
+</MudNavMenu>

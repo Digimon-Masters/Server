@@ -1,0 +1,15 @@
+{
+    "server": "DSO",
+    "id": 99,
+    "client": {
+        "use-utf8" : false,
+        "game" : "DigimonMasters"
+    },
+    "includes": [ "Pack03" ],
+    "game": {
+        "hf-version": 16,
+        "pf-version": 16,
+        "pf-ext": ".pf",
+        "hf-ext": ".hf"
+    }
+}

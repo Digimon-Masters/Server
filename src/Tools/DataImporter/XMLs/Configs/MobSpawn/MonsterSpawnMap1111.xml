@@ -1,0 +1,28 @@
+<Map Id="1111" Name="Kaisers Laboratory(Hero)">
+	<Monster Specie="45290" Name="Chimairamon">
+		<Location X="8636" Y="10269" Radius="100"/>
+		<Respawn Time="1200" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="6000" HuntRange="8000">
+			<AR>650</AR>
+			<AS>5000</AS>
+			<AT>250</AT>
+			<CC>15</CC>
+			<CD>6000</CD>
+			<DE>300</DE>
+			<DS>541</DS>
+			<EV>1200</EV>
+			<HP>880000</HP>
+			<HT>9000</HT>
+			<MS>1500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Wing Part)</SubName>
+		<Model>51044</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>64640</EXP>
+		<EXPMin>36</EXPMin>
+		<EXPMax>108</EXPMax>
+	</Monster>
+</Map>

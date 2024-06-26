@@ -1,0 +1,55 @@
+{
+    "table": "DMO MAPNPC",
+    "desc": "Digimon Masters Online MapNpc table",
+	"endianess": "little",
+	"default-encoding": "UTF-16",
+	"default-string-method": "Size",
+	"author": "Arves100",
+	"version": "487",
+	"comment": "MISDMO CsFileTable ref main/Libraries/CsFileTable@6c9e4aee50797ff0ddaf5dce078c9dd1690ff90a.(C) 2022 Arves100/Made In Server Developers.",
+	"main": "MapNpcTable",
+	"fileregex": "MapNpc.bin",
+	"api": 1,
+	"dynamic-size": 4,
+
+    "types": [
+        {
+            "name": "MapNpc",
+            "type": "struct",
+            "fields": [
+                {
+                    "name": "NpcId",
+                    "type": "uint32"
+                },
+                {
+                    "name": "MapId",
+                    "type": "uint32"
+                },
+                {
+                    "name": "X",
+                    "type": "int32"
+                },
+                {
+                    "name": "Y",
+                    "type": "int32"
+                },
+                {
+                    "name": "Rotation",
+                    "type": "float32"
+                }
+            ]
+        },
+        {
+            "name": "MapNpcTable",
+            "type": "struct",
+            "fields": [
+                {
+                    "name": "Npcs",
+                    "type": "MapNpc",
+                    "array": true,
+                    "dynamic": true
+                }
+            ]
+        }
+    ]
+}

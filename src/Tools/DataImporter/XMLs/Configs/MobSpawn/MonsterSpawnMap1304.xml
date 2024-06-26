@@ -1,0 +1,1276 @@
+<Map Id="1304" Name="Ancient Ruins of Secret">
+  <Monster Specie="21376" Name="Tanemon">
+    <Location X="34481" Y="22348" Radius="10245" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="44" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2800</AS>
+      <AT>50</AT>
+      <CC>15</CC>
+      <CD>941</CD>
+      <DE>35</DE>
+      <DS>212</DS>
+      <EV>1880</EV>
+      <HP>120</HP>
+      <HT>1872</HT>
+      <MS>480</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Seed of Luck)</SubName>
+    <Model>21137</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>14204</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="31031" Name="Dracmon">
+    <Location X="34635" Y="6469" Radius="647" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="300" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>550</AT>
+      <CC>15</CC>
+      <CD>552</CD>
+      <DE>40</DE>
+      <DS>397</DS>
+      <EV>1476</EV>
+      <HP>72000</HP>
+      <HT>1100</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31039</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>22248</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="45152" Name="Kentarumon">
+    <Location X="39148" Y="39594" Radius="206" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>336</AT>
+      <CC>15</CC>
+      <CD>3381</CD>
+      <DE>112</DE>
+      <DS>541</DS>
+      <EV>3274</EV>
+      <HP>1176000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despotism of Highest Hill)</SubName>
+    <Model>45152</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>21416</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45165" Name="Leomon">
+    <Location X="16192" Y="23703" Radius="1000" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="1000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>3381</CD>
+      <DE>122</DE>
+      <DS>541</DS>
+      <EV>3274</EV>
+      <HP>1320000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Ancient Site Destroyer)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>38656</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="50276" Name="Volcamon">
+    <Location X="10893" Y="41637" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>51027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50277" Name="Volcamon">
+    <Location X="9519" Y="39223" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>550</AT>
+      <CC>15</CC>
+      <CD>2682</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>2960</EV>
+      <HP>153600</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Digital)</SubName>
+    <Model>51027</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>7</Class>
+    <EXP>40016</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50282" Name="Mystimon">
+    <Location X="8858" Y="18350" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>1850</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>22424</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50283" Name="Mystimon">
+    <Location X="22180" Y="39333" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>1850</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>22424</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50284" Name="Mystimon">
+    <Location X="14984" Y="37708" Radius="840" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>1609</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>2405</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>22424</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="50285" Name="Mystimon">
+    <Location X="17267" Y="37788" Radius="840" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>1609</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>2405</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>22424</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="50645" Name="Garudamon">
+    <Location X="17099" Y="12933" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1850</EV>
+      <HP>115200</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Brave Fellowship)</SubName>
+    <Model>51064</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51746" Name="Knightmon">
+    <Location X="10040" Y="20924" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51747" Name="Knightmon">
+    <Location X="7969" Y="20796" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51748" Name="Knightmon">
+    <Location X="13424" Y="7440" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51749" Name="Knightmon">
+    <Location X="12100" Y="6236" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51750" Name="Knightmon">
+    <Location X="18645" Y="8079" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51751" Name="Knightmon">
+    <Location X="22654" Y="5133" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51752" Name="Knightmon">
+    <Location X="27713" Y="7181" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51753" Name="Knightmon">
+    <Location X="27502" Y="5689" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51754" Name="Knightmon">
+    <Location X="24001" Y="40968" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51755" Name="Knightmon">
+    <Location X="24359" Y="38090" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61051" Name="Parasimon">
+    <Location X="4706" Y="10212" Radius="628" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Jogress Quest)</SubName>
+    <Model>61053</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61052" Name="Parasimon">
+    <Location X="4195" Y="8479" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>2682</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>2960</EV>
+      <HP>144000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Breath of Decay)</SubName>
+    <Model>61053</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>40016</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="21376" Name="Tanemon">
+    <Location X="34481" Y="22348" Radius="10245" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="44" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2800</AS>
+      <AT>50</AT>
+      <CC>15</CC>
+      <CD>941</CD>
+      <DE>35</DE>
+      <DS>212</DS>
+      <EV>1880</EV>
+      <HP>120</HP>
+      <HT>1872</HT>
+      <MS>480</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Seed of Luck)</SubName>
+    <Model>21137</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>14204</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="31031" Name="Dracmon">
+    <Location X="34635" Y="6469" Radius="647" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="300" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>550</AT>
+      <CC>15</CC>
+      <CD>552</CD>
+      <DE>40</DE>
+      <DS>397</DS>
+      <EV>1476</EV>
+      <HP>72000</HP>
+      <HT>1100</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31039</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>22248</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="45152" Name="Kentarumon">
+    <Location X="39148" Y="39594" Radius="206" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>336</AT>
+      <CC>15</CC>
+      <CD>3381</CD>
+      <DE>112</DE>
+      <DS>541</DS>
+      <EV>3274</EV>
+      <HP>1176000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Despotism of Highest Hill)</SubName>
+    <Model>45152</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>21416</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45165" Name="Leomon">
+    <Location X="16192" Y="23703" Radius="1000" />
+    <Respawn Time="7200" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="1000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>3381</CD>
+      <DE>122</DE>
+      <DS>541</DS>
+      <EV>3274</EV>
+      <HP>1320000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Ancient Site Destroyer)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>38656</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="50276" Name="Volcamon">
+    <Location X="10893" Y="41637" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>51027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50276" Name="Volcamon">
+    <Location X="10893" Y="41637" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>51027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50276" Name="Volcamon">
+    <Location X="10893" Y="41637" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>51027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50276" Name="Volcamon">
+    <Location X="10893" Y="41637" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>51027</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50277" Name="Volcamon">
+    <Location X="9519" Y="39223" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>550</AT>
+      <CC>15</CC>
+      <CD>2682</CD>
+      <DE>90</DE>
+      <DS>540</DS>
+      <EV>2960</EV>
+      <HP>153600</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Digital)</SubName>
+    <Model>51027</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>7</Class>
+    <EXP>40016</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50282" Name="Mystimon">
+    <Location X="8858" Y="18350" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>1850</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>22424</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50283" Name="Mystimon">
+    <Location X="22180" Y="39333" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>1850</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>22424</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50284" Name="Mystimon">
+    <Location X="14984" Y="37708" Radius="840" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>1609</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>2405</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>22424</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="50285" Name="Mystimon">
+    <Location X="17267" Y="37788" Radius="840" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="800" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>280</AT>
+      <CC>15</CC>
+      <CD>1609</CD>
+      <DE>105</DE>
+      <DS>390</DS>
+      <EV>2405</EV>
+      <HP>120960</HP>
+      <HT>9000</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Guardian of Ruin)</SubName>
+    <Model>51028</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>22424</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="50645" Name="Garudamon">
+    <Location X="17099" Y="12933" Radius="945" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>350</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1850</EV>
+      <HP>115200</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Brave Fellowship)</SubName>
+    <Model>51064</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51746" Name="Knightmon">
+    <Location X="10040" Y="20924" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51747" Name="Knightmon">
+    <Location X="7969" Y="20796" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51748" Name="Knightmon">
+    <Location X="13424" Y="7440" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51749" Name="Knightmon">
+    <Location X="12100" Y="6236" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51750" Name="Knightmon">
+    <Location X="18645" Y="8079" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51751" Name="Knightmon">
+    <Location X="22654" Y="5133" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51752" Name="Knightmon">
+    <Location X="27713" Y="7181" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51753" Name="Knightmon">
+    <Location X="27502" Y="5689" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51754" Name="Knightmon">
+    <Location X="24001" Y="40968" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51755" Name="Knightmon">
+    <Location X="24359" Y="38090" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>80640</HP>
+      <HT>9000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Followers)</SubName>
+    <Model>51026</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>58640</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61051" Name="Parasimon">
+    <Location X="4706" Y="10212" Radius="628" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>894</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>1850</EV>
+      <HP>96000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Jogress Quest)</SubName>
+    <Model>61053</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>40016</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61052" Name="Parasimon">
+    <Location X="4195" Y="8479" Radius="100" />
+    <Respawn Time="3600" KillGen="0" KillCount="0" />
+    <Status Level="80" Sight="900" HuntRange="2200">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>2682</CD>
+      <DE>105</DE>
+      <DS>540</DS>
+      <EV>2960</EV>
+      <HP>144000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Breath of Decay)</SubName>
+    <Model>61053</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>40016</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+</Map>

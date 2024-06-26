@@ -1,0 +1,730 @@
+<Map Id="1500" Name="Green Zone">
+  <Monster Specie="41900" Name="Starmons">
+    <Location X="32695" Y="45239" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1116</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2077</EV>
+      <HP>134880</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(an idle boast)</SubName>
+    <Model>45159</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>2</Class>
+    <EXP>40280</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41910" Name="Pickmon">
+    <Location X="31813" Y="44819" Radius="206" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>986</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>1954</EV>
+      <HP>14880</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(lacked in the discipline)</SubName>
+    <Model>35142</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>2</Class>
+    <EXP>63460</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41920" Name="SunFlowmon">
+    <Location X="35886" Y="49331" Radius="523" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="82" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>310</AT>
+      <CC>15</CC>
+      <CD>1090</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2053</EV>
+      <HP>52560</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Surprised)</SubName>
+    <Model>41005</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>2</Class>
+    <EXP>44916</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41930" Name="CommanDramon">
+    <Location X="44057" Y="47876" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="82" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>340</AT>
+      <CC>15</CC>
+      <CD>1090</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2053</EV>
+      <HP>52560</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Bagramons Army)</SubName>
+    <Model>31035</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>2</Class>
+    <EXP>44916</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41935" Name="Phantomon">
+    <Location X="44115" Y="31847" Radius="628" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="77" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1046</CD>
+      <DE>20</DE>
+      <DS>271</DS>
+      <EV>2011</EV>
+      <HP>51000</HP>
+      <HT>2167</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(disturbing the Zone)</SubName>
+    <Model>51042</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>8952</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41936" Name="SuperStarmon">
+    <Location X="42057" Y="49723" Radius="206" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>951</CD>
+      <DE>42</DE>
+      <DS>667</DS>
+      <EV>1910</EV>
+      <HP>50230</HP>
+      <HT>1970</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(another Star)</SubName>
+    <Model>51089</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>35644</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41937" Name="Starmon">
+    <Location X="50096" Y="35981" Radius="628" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1116</CD>
+      <DE>110</DE>
+      <DS>620</DS>
+      <EV>2077</EV>
+      <HP>50240</HP>
+      <HT>2311</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(want to be a Star)</SubName>
+    <Model>41088</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>40280</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41938" Name="MechaNorimon">
+    <Location X="23998" Y="51954" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1888</CD>
+      <DE>558</DE>
+      <DS>540</DS>
+      <EV>2663</EV>
+      <HP>119990</HP>
+      <HT>3912</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(disturber)</SubName>
+    <Model>41036</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>5</Class>
+    <EXP>64704</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+  <Monster Specie="41940" Name="Mad Leomon Armed Mode ">
+    <Location X="62583" Y="37624" Radius="2108" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>500</AT>
+      <CC>15</CC>
+      <CD>2415</CD>
+      <DE>110</DE>
+      <DS>541</DS>
+      <EV>2889</EV>
+      <HP>1496220</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Illusion Digimon)</SubName>
+    <Model>45157</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>10708</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="41941" Name="Mad Leomon Armed Mode ">
+    <Location X="51997" Y="58757" Radius="1791" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>312</AT>
+      <CC>15</CC>
+      <CD>2415</CD>
+      <DE>550</DE>
+      <DS>744</DS>
+      <EV>2889</EV>
+      <HP>4673400</HP>
+      <HT>9000</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(a rabid Owner)</SubName>
+    <Model>45157</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>6</Class>
+    <EXP>10708</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="51620" Name="Mammothmon">
+    <Location X="50718" Y="29445" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51621" Name="Mammothmon">
+    <Location X="51122" Y="30946" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51622" Name="Mammothmon">
+    <Location X="46988" Y="31054" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51623" Name="Mammothmon">
+    <Location X="47065" Y="32121" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41900" Name="Starmons">
+    <Location X="32695" Y="45239" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1116</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2077</EV>
+      <HP>134880</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(an idle boast)</SubName>
+    <Model>45159</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>2</Class>
+    <EXP>40280</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41910" Name="Pickmon">
+    <Location X="31813" Y="44819" Radius="206" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>986</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>1954</EV>
+      <HP>14880</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(lacked in the discipline)</SubName>
+    <Model>35142</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>2</Class>
+    <EXP>63460</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41920" Name="SunFlowmon">
+    <Location X="35886" Y="49331" Radius="523" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="82" Sight="2000" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>310</AT>
+      <CC>15</CC>
+      <CD>1090</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2053</EV>
+      <HP>52560</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Surprised)</SubName>
+    <Model>41005</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>2</Class>
+    <EXP>44916</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41930" Name="CommanDramon">
+    <Location X="44057" Y="47876" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="82" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>340</AT>
+      <CC>15</CC>
+      <CD>1090</CD>
+      <DE>20</DE>
+      <DS>744</DS>
+      <EV>2053</EV>
+      <HP>52560</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Bagramons Army)</SubName>
+    <Model>31035</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>2</Class>
+    <EXP>44916</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41935" Name="Phantomon">
+    <Location X="44115" Y="31847" Radius="628" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="77" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1046</CD>
+      <DE>20</DE>
+      <DS>271</DS>
+      <EV>2011</EV>
+      <HP>51000</HP>
+      <HT>2167</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(disturbing the Zone)</SubName>
+    <Model>51042</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>8952</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41936" Name="SuperStarmon">
+    <Location X="42057" Y="49723" Radius="206" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>951</CD>
+      <DE>42</DE>
+      <DS>667</DS>
+      <EV>1910</EV>
+      <HP>50230</HP>
+      <HT>1970</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(another Star)</SubName>
+    <Model>51089</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>35644</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="41937" Name="Starmon">
+    <Location X="50096" Y="35981" Radius="628" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1116</CD>
+      <DE>110</DE>
+      <DS>620</DS>
+      <EV>2077</EV>
+      <HP>50240</HP>
+      <HT>2311</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(want to be a Star)</SubName>
+    <Model>41088</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>40280</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="41938" Name="MechaNorimon">
+    <Location X="23998" Y="51954" Radius="1157" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="4500">
+      <AR>250</AR>
+      <AS>3300</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1888</CD>
+      <DE>558</DE>
+      <DS>540</DS>
+      <EV>2663</EV>
+      <HP>119990</HP>
+      <HT>3912</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(disturber)</SubName>
+    <Model>41036</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>5</Class>
+    <EXP>64704</EXP>
+    <EXPMin>30</EXPMin>
+    <EXPMax>90</EXPMax>
+  </Monster>
+  <Monster Specie="41940" Name="Mad Leomon Armed Mode ">
+    <Location X="62583" Y="37624" Radius="2108" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>500</AT>
+      <CC>15</CC>
+      <CD>2415</CD>
+      <DE>110</DE>
+      <DS>541</DS>
+      <EV>2889</EV>
+      <HP>1496220</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Illusion Digimon)</SubName>
+    <Model>45157</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>6</Class>
+    <EXP>10708</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="41941" Name="Mad Leomon Armed Mode ">
+    <Location X="51997" Y="58757" Radius="1791" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>312</AT>
+      <CC>15</CC>
+      <CD>2415</CD>
+      <DE>550</DE>
+      <DS>744</DS>
+      <EV>2889</EV>
+      <HP>4673400</HP>
+      <HT>9000</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(a rabid Owner)</SubName>
+    <Model>45157</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>6</Class>
+    <EXP>10708</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="51620" Name="Mammothmon">
+    <Location X="50718" Y="29445" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51621" Name="Mammothmon">
+    <Location X="51122" Y="30946" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51622" Name="Mammothmon">
+    <Location X="46988" Y="31054" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="51623" Name="Mammothmon">
+    <Location X="47065" Y="32121" Radius="100" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="800" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>370</AT>
+      <CC>15</CC>
+      <CD>1159</CD>
+      <DE>465</DE>
+      <DS>744</DS>
+      <EV>2119</EV>
+      <HP>57600</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Madleomons Minion)</SubName>
+    <Model>51128</Model>
+    <Scale>-107726056</Scale>
+    <Class>2</Class>
+    <EXP>45636</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+</Map>

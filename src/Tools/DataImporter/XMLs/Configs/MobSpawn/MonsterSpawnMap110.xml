@@ -1,0 +1,54 @@
+<Map Id="110" Name="Yokohama East Village">
+  <Monster Specie="21344" Name="DemiMeramon">
+    <Location X="12248" Y="15781" Radius="4750" />
+    <Respawn Time="86400" KillGen="0" KillCount="0" />
+    <Status Level="15" Sight="300" HuntRange="3500">
+      <AR>125</AR>
+      <AS>1280</AS>
+      <AT>55</AT>
+      <CC>15</CC>
+      <CD>545</CD>
+      <DE>5</DE>
+      <DS>364</DS>
+      <EV>1522</EV>
+      <HP>1320</HP>
+      <HT>1032</HT>
+      <MS>480</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Arsonist)</SubName>
+    <Model>21134</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>3</Class>
+    <EXP>9028</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="21344" Name="DemiMeramon">
+    <Location X="11607" Y="15454" Radius="4750" />
+    <Respawn Time="86400" KillGen="0" KillCount="0" />
+    <Status Level="15" Sight="300" HuntRange="3500">
+      <AR>125</AR>
+      <AS>1280</AS>
+      <AT>55</AT>
+      <CC>15</CC>
+      <CD>545</CD>
+      <DE>5</DE>
+      <DS>364</DS>
+      <EV>1522</EV>
+      <HP>1320</HP>
+      <HT>1032</HT>
+      <MS>480</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Arsonist)</SubName>
+    <Model>21134</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>3</Class>
+    <EXP>9028</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+</Map>

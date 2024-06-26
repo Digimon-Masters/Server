@@ -1,0 +1,6362 @@
+<BuffInfoList>
+	<BuffInfo Id="10101" Name="GM Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1150000</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40101" Name="Increase AT">
+		<DigimonSkillCode>800211</DigimonSkillCode>
+		<SkillCode>2500201</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>401</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40102" Name="Increase DE">
+		<DigimonSkillCode>800512</DigimonSkillCode>
+		<SkillCode>2500202</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>402</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40103" Name="Increase HP maximum">
+		<DigimonSkillCode>800811</DigimonSkillCode>
+		<SkillCode>2500203</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>403</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40104" Name="Increase DS maximum">
+		<DigimonSkillCode>800812</DigimonSkillCode>
+		<SkillCode>2500204</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>404</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40105" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500205</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>405</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40106" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500206</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>406</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40107" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500207</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>407</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40108" Name="Increase Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500208</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>408</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40109" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500209</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>409</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40110" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500210</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>410</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40111" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500211</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>411</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40112" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500212</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>412</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40113" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500213</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>413</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40114" Name="">
+		<DigimonSkillCode>800512</DigimonSkillCode>
+		<SkillCode>2500214</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>414</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40115" Name="">
+		<DigimonSkillCode>800513</DigimonSkillCode>
+		<SkillCode>2500246</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>415</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40116" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500215</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>416</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40117" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500216</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>417</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40118" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500217</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>418</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40119" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500218</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>419</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40120" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500219</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>420</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40121" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500220</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>421</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40122" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500221</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>422</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40123" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500222</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>423</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40124" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500223</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>424</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40125" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500224</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>425</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40126" Name="Flame">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>426</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40127" Name="Flash">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500211</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>427</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40128" Name="Fury">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500111</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>428</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40129" Name="Rage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500311</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>429</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40130" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500230</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>430</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40131" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500231</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>922</ConditionLevel>
+		<Type>2</Type>
+		<Class>431</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40132" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500232</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>410</ConditionLevel>
+		<Type>2</Type>
+		<Class>432</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40133" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500233</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>922</ConditionLevel>
+		<Type>2</Type>
+		<Class>431</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40134" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500234</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>434</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40135" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500235</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>435</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40136" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500236</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>436</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40137" Name="Increase CAT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500280</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>603</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40140" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500241</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>437</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40141" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500242</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>4</Type>
+		<Class>438</Class>
+		<LifeType>1</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40142" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500243</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>922</ConditionLevel>
+		<Type>2</Type>
+		<Class>439</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40143" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500244</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>440</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40144" Name="Hope of File island">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500225</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>441</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40145" Name="Bless of File Island">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500226</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>442</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40146" Name="Berserker">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500247</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>443</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40147" Name="Attribute EXP Booster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500227</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>20</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40148" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>444</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40150" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500250</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>445</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40151" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500251</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>446</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40152" Name="Increase AT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599994</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>401</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40153" Name="Increase DE">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599995</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>402</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40154" Name="Increase HP maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599996</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>403</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40155" Name="Increase DS maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599997</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>404</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40156" Name="Increase Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599998</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>408</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40157" Name="Increase CAT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599999</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>603</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40158" Name="Increase EV">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599978</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>418</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40159" Name="Increase HT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2599979</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>419</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40160" Name="Protection">
+		<DigimonSkillCode>8000311</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>441</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40161" Name="Plan A">
+		<DigimonSkillCode>8000211</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>450</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40162" Name="Growth">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>451</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40163" Name="Flash">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500411</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>463</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40164" Name="Rage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500421</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>464</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40165" Name="Stun">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500511</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>465</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40166" Name="Invincible">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500711</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>466</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40167" Name="Lapidification">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7500811</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>467</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40168" Name="Evasion">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7501011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>468</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40169" Name="Shield">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7501111</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>469</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40170" Name="Critical Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7501211</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>470</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40171" Name="Reflection">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7501311</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>471</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40172" Name="Stun">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7501411</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>472</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40173" Name="HP DS Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40174" Name="HP Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500268</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40175" Name="Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500229</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40176" Name="HP Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40177" Name="HP DS Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40178" Name="Skill Damage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500249</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40179" Name="Fire Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900000</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40180" Name="AP Skill Damage Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500273</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40181" Name="Wind Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40182" Name="Ice Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900002</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40183" Name="Wood Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900003</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40184" Name="Earth Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900004</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40185" Name="HP Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500274</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40186" Name="Hyper Spirit Evolution (Fire)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900005</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40187" Name="Light Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900006</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40188" Name="Thunder Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900007</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40189" Name="Water Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900008</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40190" Name="Darkness Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900009</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40191" Name="Steel Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900010</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40192" Name="Hyper Spirit Evolution (Light)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40193" Name="HP Thunder Attribute skill damage increased">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900012</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40194" Name="HP Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240101</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40195" Name="HP DS Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000034</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40198" Name="HP DS AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000032</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40199" Name="HP DS AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000033</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40200" Name="Increase AT SP HP">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900013</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40201" Name="HP DS Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240021</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40202" Name="Increase AT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500274</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>473</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40203" Name="Increase DP">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500275</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>474</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40204" Name="Increase HP maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500276</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>475</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40205" Name="Increase DS maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500277</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>476</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40206" Name="Increase AT">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500282</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>477</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40207" Name="Increase DP">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500283</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>478</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40208" Name="Increase HP maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500284</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>479</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40209" Name="Increase DS maximum">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500285</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>480</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40210" Name="Evasion">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500286</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>481</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40211" Name="Valor of Marcus(Va)">
+		<DigimonSkillCode>8000121</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>301</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40212" Name="Valor of Marcus(Da)">
+		<DigimonSkillCode>8000131</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>301</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40213" Name="Insight">
+		<DigimonSkillCode>8000211</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>601</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40214" Name="Strategy of Thomas(Da)">
+		<DigimonSkillCode>8000221</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>302</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40215" Name="Strategy of Thomas(Vi)">
+		<DigimonSkillCode>8000231</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>302</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40216" Name="Protection">
+		<DigimonSkillCode>8000311</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>602</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40217" Name="Devotion of Yoshi(Da)">
+		<DigimonSkillCode>8000321</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>303</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40218" Name="Devotion of Yoshi(Va)">
+		<DigimonSkillCode>8000331</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>303</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40219" Name="Shock">
+		<DigimonSkillCode>8000411</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>603</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40220" Name="Rage of Keenan(Va)">
+		<DigimonSkillCode>8000421</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>304</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40221" Name="Rage of Keenan(No)">
+		<DigimonSkillCode>8000431</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>304</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40222" Name="Berserker">
+		<DigimonSkillCode>8000511</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>604</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40223" Name="Brave of Tai(Va)">
+		<DigimonSkillCode>8000521</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>305</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40224" Name="Brave of Tai(Vi)">
+		<DigimonSkillCode>8000531</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>305</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40225" Name="Pray">
+		<DigimonSkillCode>8000611</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>605</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40226" Name="Purity of Mimi(Da)">
+		<DigimonSkillCode>8000621</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>306</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40227" Name="Purity of Mimi(No)">
+		<DigimonSkillCode>8000631</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>306</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40228" Name="Vigor">
+		<DigimonSkillCode>8000711</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>606</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40229" Name="Friendship of Matt(Vi)">
+		<DigimonSkillCode>8000721</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>307</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40230" Name="Friendship of Matt(Da)">
+		<DigimonSkillCode>8000731</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>307</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40231" Name="Cheer">
+		<DigimonSkillCode>8000811</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>607</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40232" Name="Hope of TK(Vi)">
+		<DigimonSkillCode>8000821</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>308</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40233" Name="Hope of TK(No)">
+		<DigimonSkillCode>8000831</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>308</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40234" Name="Encouragement">
+		<DigimonSkillCode>8000911</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>608</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40235" Name="Light of Kari(Vi)">
+		<DigimonSkillCode>8000921</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>309</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40236" Name="Light of Kari(Va)">
+		<DigimonSkillCode>8000931</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>309</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40237" Name="Impregnableness">
+		<DigimonSkillCode>8001011</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>609</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40238" Name="Love of Sora(Va)">
+		<DigimonSkillCode>8001021</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>310</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40239" Name="Love of Sora(Un)">
+		<DigimonSkillCode>8001031</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>310</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40251" Name="Infinite Boost Attack 15">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000069</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>550</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40252" Name="Infinite Boost Defense 30">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000070</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>551</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40253" Name="Infinite Boost Max HP 20">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000071</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>552</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40254" Name="Infinite Boost Max DS 50">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000072</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>553</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40255" Name="Infinite Boost Skill Damage 30">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000073</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>554</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40256" Name="Infinite Boost Critical Damage 30">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000074</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>555</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40260" Name="New Years Blessing Buff (HP)">
+		<DigimonSkillCode>8100000</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>311</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40261" Name="New Years Blessing Buff (AT)">
+		<DigimonSkillCode>8100001</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>311</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40262" Name="Impregnableness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500287</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>482</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40263" Name="Pray">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500288</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>483</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40264" Name="Protection">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500289</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>484</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40265" Name="Protection">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500290</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>485</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40266" Name="Encouragement">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500291</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>486</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40272" Name="Enhanced Analysis">
+		<DigimonSkillCode>8001211</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>620</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40273" Name="Enhanced Evade">
+		<DigimonSkillCode>8001212</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>621</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40274" Name="Analysis">
+		<DigimonSkillCode>8001411</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>620</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40275" Name="Izzys Knowledge(Vi)">
+		<DigimonSkillCode>8001421</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>312</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40276" Name="Izzys Knowledge(Un)">
+		<DigimonSkillCode>8001431</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>312</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40277" Name="Evade">
+		<DigimonSkillCode>8001511</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>621</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40278" Name="Joes Sincerity(Vi)">
+		<DigimonSkillCode>8001521</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>313</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40279" Name="Joes Sincerity(Un)">
+		<DigimonSkillCode>8001531</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>313</Class>
+		<LifeType>2</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40280" Name="Enhanced Vigor">
+		<DigimonSkillCode>8000714</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>606</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40300" Name="HP DS AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000032</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40301" Name="HP DS AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000033</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40302" Name="HP SCD AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000036</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40303" Name="HP SCD AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000037</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40304" Name="HP SCD AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000037</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40305" Name="HP DP AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000038</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40306" Name="Treasure Master">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000051</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40307" Name="Treasure Expert">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000052</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40308" Name="Treasure Hunter">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000053</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40311" Name="7 Years in DMO">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000059</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40317" Name="Rose Thorns">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40318" Name="Breath of Wyvern">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40319" Name="Claws of the Dragon Emperor">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40320" Name="Decision of Fate">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40321" Name="Red Horse Rampage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40322" Name="The Chivalry is Fading">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000061</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40323" Name="Savage Frontier">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000062</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40324" Name="Brutal Predator">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000062</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40325" Name="Generation of Evil">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000062</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40326" Name="Fall of the Royal Family">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000063</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40327" Name="Jumping Master">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000064</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40328" Name="Dream of Youngest Brother">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000065</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40329" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000087</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40330" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000088</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40331" Name="">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000089</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40332" Name="Legendary Holy Knight">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000090</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40333" Name="Fire Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900014</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40334" Name="Wind Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900015</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40335" Name="Ice Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40336" Name="Wood Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40337" Name="Land Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900018</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40338" Name="Light Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900019</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40339" Name="Thunder Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900020</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40340" Name="Water Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900021</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40341" Name="Darkness Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900022</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40342" Name="Steel Attribute Skill Damage Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1900023</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40343" Name="For GM Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000091</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40344" Name="GM Offensive Set Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000093</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>622</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40345" Name="GM Defensive Set Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2000094</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>623</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40346" Name="Strange Growth Potion">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2100116</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>624</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40348" Name="Super Speed">
+		<DigimonSkillCode>800513</DigimonSkillCode>
+		<SkillCode>2599977</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>415</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40349" Name="GMs Speed Buff">
+		<DigimonSkillCode>800513</DigimonSkillCode>
+		<SkillCode>2000095</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>625</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40500" Name="Last Effort Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40501" Name="Last Effort Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000002</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40502" Name="Last Effort High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000003</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40503" Name="The Ruler of Fire Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000004</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40504" Name="The Ruler of Fire Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000005</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40505" Name="The Ruler of Fire High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000006</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40506" Name="The Ruler of Water Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000007</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40507" Name="The Ruler of Water Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000008</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40508" Name="The Ruler of Water High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000009</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40509" Name="The Ruler of Ice Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000010</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40510" Name="The Ruler of Ice Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40511" Name="The Ruler of Ice High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000012</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40512" Name="The Ruler of Light Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000013</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40513" Name="The Ruler of Light Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000014</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40514" Name="The Ruler of Light High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000015</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40515" Name="The Ruler of Darkness Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40516" Name="The Ruler of Darkness Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40517" Name="The Ruler of Darkness High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000018</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40518" Name="The Ruler of Thunder Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000019</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40519" Name="The Ruler of Thunder Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000020</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40520" Name="The Ruler of Thunder High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000021</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40521" Name="The Ruler of Iron Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000022</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40522" Name="The Ruler of Iron Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000023</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40523" Name="The Ruler of Iron High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000024</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40524" Name="The Ruler of Wind Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000025</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40525" Name="The Ruler of Wind Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000026</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40526" Name="The Ruler of Wind High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000027</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40527" Name="The Ruler of Wood Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000028</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40528" Name="The Ruler of Wood Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000029</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40529" Name="The Ruler of Wood High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000030</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40530" Name="The Ruler of Earth Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000031</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40531" Name="The Ruler of Earth Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000032</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40532" Name="The Ruler of Earth High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000033</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40533" Name="The Vaccine Master Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000034</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40534" Name="The Vaccine Master Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000035</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40535" Name="The Vaccine Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000036</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40536" Name="The Virus Master Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000037</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40537" Name="The Virus Master Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000038</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40538" Name="The Virus Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000039</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40539" Name="The Data Master Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000040</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40540" Name="The Data Master Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000041</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40541" Name="The Data Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000042</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40700" Name="Iron Will Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000301</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40701" Name="Iron Will Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000302</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40702" Name="Iron Will High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000303</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40703" Name="The Guardian of Fire Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000304</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40704" Name="The Guardian of Fire Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000305</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40705" Name="The Guardian of Fire High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000306</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40706" Name="The Guardian of Water Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000307</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40707" Name="The Guardian of Water Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000308</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40708" Name="The Guardian of Water High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000309</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40709" Name="The Guardian of Ice Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000310</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40710" Name="The Guardian of ice Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000311</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40711" Name="The Guardian of Ice High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000312</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40712" Name="The Guardian of Light Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000313</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40713" Name="The Guardian of Light Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000314</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40714" Name="The Guardian of Light High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000315</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40715" Name="The Guardian of Darkness Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000316</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40716" Name="The Guardian of Darkness Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000317</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40717" Name="The Guardian of Darkness High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000318</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40718" Name="The Guardian of Thunder Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000319</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40719" Name="The Guardian of Thunder Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000320</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40720" Name="The Guardian of Thunder High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000321</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40721" Name="The Guardian of Iron Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000322</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40722" Name="The Guardian of Iron Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000323</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40723" Name="The Guardian of Iron High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000324</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40724" Name="The Guardian of Wind Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000325</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40725" Name="The Guardian of Wind Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000326</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40726" Name="The Guardian of Wind High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000327</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40727" Name="The Guardian of Wood Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000328</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40728" Name="The Guardian of Wood Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000329</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40729" Name="The Guardian of Wood High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000330</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40730" Name="The Guardian of Earth Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000331</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40731" Name="The Guardian of Earth Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000332</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40732" Name="The Guardian of Earth High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000333</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40733" Name="The Vaccine Defender Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000334</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40734" Name="The Vaccine Defender Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000335</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40735" Name="The Vaccine Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000336</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40736" Name="The Virus Defender Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000337</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40737" Name="The Virus Defender Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000338</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40738" Name="The Virus Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000339</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40739" Name="The Data Defender Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000340</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40740" Name="The Data Defender Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000341</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40741" Name="The Data Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000342</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40742" Name="Provocation Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000343</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40743" Name="Provocation Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000344</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40744" Name="Provocation High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000345</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40900" Name="The Hand of Healing Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000601</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40901" Name="The Hand of Healing Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000602</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40902" Name="The Hand of Healing High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000603</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40903" Name="Regenerative Ability Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000604</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40904" Name="Regenerative Ability Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000605</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40905" Name="Regenerative Ability High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000606</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40906" Name="The Tree of Life Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000607</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40907" Name="The Tree of Life Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000608</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40908" Name="The Tree of Life High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000609</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40909" Name="Speeding Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000610</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40910" Name="Speeding Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000611</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40911" Name="Speeding High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000612</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40912" Name="Quick Movements Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000613</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40913" Name="Quick Movements Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000614</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40914" Name="Quick Movements High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000615</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40915" Name="Narrow Escape Low">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000616</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40916" Name="Narrow Escape Mid">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000617</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="40917" Name="Narrow Escape High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9000618</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41500" Name="Last Effort Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41501" Name="Last Effort Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100002</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41502" Name="Last Effort Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100003</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41503" Name="The Ruler of Fire Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100004</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41504" Name="The Ruler of Fire Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100005</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41505" Name="The Ruler of Fire Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100006</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41506" Name="The Ruler of Water Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100007</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41507" Name="The Ruler of Water Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100008</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41508" Name="The Ruler of Water Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100009</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41509" Name="The Ruler of Ice Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100010</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41510" Name="The Ruler of Ice Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41511" Name="The Ruler of Ice Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100012</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41512" Name="The Ruler of Light Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100013</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41513" Name="The Ruler of Light Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100014</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41514" Name="The Ruler of Light Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100015</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41515" Name="The Ruler of Darkness Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41516" Name="The Ruler of Darkness Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41517" Name="The Ruler of Darkness Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100018</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41518" Name="The Ruler of Thunder Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100019</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41519" Name="The Ruler of Thunder Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100020</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41520" Name="The Ruler of Thunder Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100021</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41521" Name="The Ruler of Iron Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100022</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41522" Name="The Ruler of Iron Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100023</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41523" Name="The Ruler of Iron Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100024</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41524" Name="The Ruler of Wind Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100025</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41525" Name="The Ruler of Wind Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100026</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41526" Name="The Ruler of Wind Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100027</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41527" Name="The Ruler of Wood Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100028</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41528" Name="The Ruler of Wood Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100029</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41529" Name="The Ruler of Wood Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100030</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41530" Name="The Ruler of Earth Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100031</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41531" Name="The Ruler of Earth Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100032</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41532" Name="The Ruler of Earth Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100033</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41533" Name="The Vaccine Master Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100034</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41534" Name="The Vaccine Master Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100035</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41535" Name="The Vaccine Master Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100036</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41536" Name="The Virus Master Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100037</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41537" Name="The Virus Master Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100038</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41538" Name="The Virus Master Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100039</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41539" Name="The Data Master Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100040</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41540" Name="The Data Master Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100041</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41541" Name="The Data Master Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100042</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41700" Name="Iron Will Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100301</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41701" Name="Iron Will Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100302</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41702" Name="Iron Will Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100303</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41703" Name="The Guardian of Fire Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100304</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41704" Name="The Guardian of Fire Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100305</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41705" Name="The Guardian of Fire Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100306</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41706" Name="The Guardian of Water Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100307</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41707" Name="The Guardian of Water Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100308</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41708" Name="The Guardian of Water Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100309</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41709" Name="The Guardian of Ice Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100310</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41710" Name="The Guardian of ice Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100311</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41711" Name="The Guardian of Ice Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100312</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41712" Name="The Guardian of Light Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100313</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41713" Name="The Guardian of Light Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100314</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41714" Name="The Guardian of Light Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100315</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41715" Name="The Guardian of Darkness Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100316</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41716" Name="The Guardian of Darkness Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100317</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41717" Name="The Guardian of Darkness Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100318</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41718" Name="The Guardian of Thunder Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100319</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41719" Name="The Guardian of Thunder Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100320</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41720" Name="The Guardian of Thunder Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100321</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41721" Name="The Guardian of Iron Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100322</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41722" Name="The Guardian of Iron Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100323</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41723" Name="The Guardian of Iron Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100324</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41724" Name="The Guardian of Wind Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100325</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41725" Name="The Guardian of Wind Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100326</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41726" Name="The Guardian of Wind Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100327</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41727" Name="The Guardian of Wood Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100328</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41728" Name="The Guardian of Wood Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100329</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41729" Name="The Guardian of Wood Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100330</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41730" Name="The Guardian of Earth Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100331</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41731" Name="The Guardian of Earth Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100332</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41732" Name="The Guardian of Earth Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100333</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41733" Name="The Vaccine Defender Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100334</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41734" Name="The Vaccine Defender Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100335</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41735" Name="The Vaccine Defender Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100336</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41736" Name="The Virus Defender Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100337</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41737" Name="The Virus Defender Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100338</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41738" Name="The Virus Defender Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100339</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41739" Name="The Data Defender Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100340</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41740" Name="The Data Defender Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100341</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41741" Name="The Data Defender Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100342</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41742" Name="Provocation Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100343</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41743" Name="Provocation Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100344</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41744" Name="Provocation Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100345</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41900" Name="The Hand of Healing Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100601</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41901" Name="The Hand of Healing Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100602</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41902" Name="The Hand of Healing Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100603</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41903" Name="Regenerative Ability Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100604</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41904" Name="Regenerative Ability Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100605</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41905" Name="Regenerative Ability Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100606</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41906" Name="The Tree of Life Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100607</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41907" Name="The Tree of Life Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100608</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41908" Name="The Tree of Life Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100609</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41909" Name="Speeding Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100610</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41910" Name="Speeding Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100611</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41911" Name="Speeding Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100612</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41912" Name="Quick Movements Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100613</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41913" Name="Quick Movements Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100614</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41914" Name="Quick Movements Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100615</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41915" Name="Narrow Escape Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100616</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41916" Name="Narrow Escape Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100617</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="41917" Name="Narrow Escape Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9100618</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42502" Name="Last Effort High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>500</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42505" Name="The Ruler of Fire High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010004</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42508" Name="The Ruler of Water High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010007</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>502</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42511" Name="The Ruler of Ice High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010010</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>503</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42514" Name="The Ruler of Light High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010013</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>504</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42517" Name="The Ruler of Darkness High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>505</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42520" Name="The Ruler of Thunder High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010019</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>506</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42523" Name="The Ruler of Iron High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010022</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>507</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42526" Name="The Ruler of Wind High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010025</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>508</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42529" Name="The Ruler of Wood High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010028</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>509</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42532" Name="The Ruler of Earth High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010031</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>510</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42535" Name="The Vaccine Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010034</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>511</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42538" Name="The Virus Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010037</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>512</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42541" Name="The Data Master High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010040</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>513</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42702" Name="Iron Will High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010301</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>514</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42705" Name="The Guardian of Fire High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010304</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>515</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42708" Name="The Guardian of Water High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010307</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>516</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42711" Name="The Guardian of Ice High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010310</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>517</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42714" Name="The Guardian of Light High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010313</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>518</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42717" Name="The Guardian of Darkness High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010316</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>519</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42720" Name="The Guardian of Thunder High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010319</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>520</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42723" Name="The Guardian of Iron High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010322</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>521</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42726" Name="The Guardian of Wind High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010325</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>522</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42729" Name="The Guardian of Wood High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010328</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>523</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42732" Name="The Guardian of Earth High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010331</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>524</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42735" Name="The Vaccine Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010334</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>525</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42738" Name="The Virus Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010337</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>526</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42741" Name="The Data Defender High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010340</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>527</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42744" Name="Provocation High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010343</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>528</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42902" Name="The Hand of Healing High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010601</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>529</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42905" Name="Regenerative Ability High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010604</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>530</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42908" Name="The Tree of Life High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010607</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>531</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42911" Name="Speeding High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010610</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>532</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42914" Name="Quick Movements High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010613</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>533</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="42917" Name="Narrow Escape High">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>9010616</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>534</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50101" Name="Dark Tower Area">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>100</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50102" Name="ExpBooster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500102</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>1</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50103" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500103</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>2</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50104" Name="Friendliness Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>3</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50105" Name="Overflow">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>4</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50106" Name="Exp upA">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>5</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50107" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>5</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50108" Name="Scaleup">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2100110</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>110</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50109" Name="Hot pepper">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500109</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>6</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50110" Name="Melon Snowflakes">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500110</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>6</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50111" Name="Macro Preventor">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>200</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50112" Name="Macro Preventor (Shield)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>201</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50113" Name="Thanksgiving">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500113</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>12</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50114" Name="Amplification Booster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500114</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>10</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50115" Name="Exp upA">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>210</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50116" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>211</Class>
+		<LifeType>2</LifeType>
+		<TimeType>3</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50117" Name="Exp upA">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>220</Class>
+		<LifeType>2</LifeType>
+		<TimeType>3</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50118" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500118</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>7</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50119" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500119</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>221</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50120" Name="Satiety">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500112</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>6</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50121" Name="Masters Membership Speed">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700022</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>617</Class>
+		<LifeType>2</LifeType>
+		<TimeType>5</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50122" Name="Masters Membership EXP">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700023</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>618</Class>
+		<LifeType>2</LifeType>
+		<TimeType>5</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50123" Name="Masters Membership FS">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700024</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>619</Class>
+		<LifeType>2</LifeType>
+		<TimeType>5</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50200" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500111</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>8</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50201" Name="Exp upB">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500115</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>9</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50202" Name="HP decrease">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500258</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>501</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50204" Name="Amplification Booster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500116</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>10</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50206" Name="Speed Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500266</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>415</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50207" Name="Speed Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500267</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>415</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50208" Name="Amplification Booster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500117</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>601</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50209" Name="Impregnableness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7109731</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>610</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50211" Name="Time to start for my dream">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240101</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50212" Name="Masters Match Rookie">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240102</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50213" Name="Earn ones keep">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240103</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50214" Name="King of Real World">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240104</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50215" Name="Living Legend">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240105</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50216" Name="Happy Solo">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240106</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50217" Name="HP AT Increase">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>1240107</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50218" Name="Thanksgiving Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500293</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>108</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50219" Name="Thanksgiving Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500294</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>109</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="50220" Name="Thanksgiving Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500295</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>110</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="51000" Name="Premium EXP">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500130</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>50</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="51001" Name="Amplification Booster">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500115</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>3</Type>
+		<Class>10</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="51002" Name="Volition of Andventurer">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2500281</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="51050" Name="Speed Up">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>0</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>55</Class>
+		<LifeType>2</LifeType>
+		<TimeType>3</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="59998" Name="1st-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000198</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="59999" Name="2nd-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000199</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60000" Name="Return (Fire)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000200</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>703</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60001" Name="1st-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000201</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60002" Name="2nd-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000202</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60003" Name="3rd-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000203</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60004" Name="4th-degree burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000204</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>701</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60005" Name="Degeneration">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000205</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>702</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60006" Name="Return (Fire)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000206</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>703</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60007" Name="Silence">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000207</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>704</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60008" Name="Berserk Rage (Strengthen)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000208</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>705</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60009" Name="Berserk Rage (Reflection)">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000209</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>705</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60010" Name="Metallic Poison Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000210</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60011" Name="Metallic Poison Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000211</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60012" Name="Metallic Poison Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000212</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60013" Name="Metallic Poison Lv4">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000213</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60014" Name="Grace of Tombstone Att Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000214</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60015" Name="Grace of Tombstone Att Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000215</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60016" Name="Grace of Tombstone Att Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000216</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60017" Name="Grace of Tombstone Skill Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000217</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60018" Name="Grace of Tombstone Skill Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000218</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60019" Name="Grace of Tombstone Skill Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000219</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60020" Name="Grace of Tombstone Def Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000220</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60021" Name="Grace of Tombstone Def Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000221</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60022" Name="Grace of Tombstone Def Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000222</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60023" Name="Iron Resistance">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000223</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>710</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60024" Name="Yuki Buff">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000224</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>711</Class>
+		<LifeType>1</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60026" Name="Metallic Poison Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000225</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60027" Name="Metallic Poison Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000226</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60028" Name="Grace of Tombstone Att Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000227</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60029" Name="Grace of Tombstone Att Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000228</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60030" Name="Grace of Tombstone Skill Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000229</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60031" Name="Grace of Tombstone Skill Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000230</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60032" Name="Grace of Tombstone Def Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000231</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60033" Name="StoneResistance">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000232</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>710</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60034" Name="Vaccine  50">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000233</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>713</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60035" Name="Silence  Slow">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000234</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>714</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60036" Name="Burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000235</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>715</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60037" Name="Slow">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000236</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>716</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60038" Name="Burn">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000238</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>715</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60039" Name="Annihilation Countdown">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000252</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>730</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60040" Name="Protection">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000253</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>731</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60041" Name="Enhancement">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000254</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>732</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60042" Name="Despise the Weak">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000255</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>733</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60043" Name="Freezing">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000256</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>716</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60044" Name="Core Emergency Operation">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000257</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>732</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60045" Name="X-Program Ignition">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000257</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>732</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60046" Name="Power of Breath">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000257</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>732</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60047" Name="X-Program Activation Level 1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000258</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>733</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60048" Name="X-Program Activation Level 2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000259</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>733</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60049" Name="X-Program Activation Level 3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000260</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>733</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60050" Name="Healing">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000261</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>730</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="60051" Name="X-Program Activation">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000259</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>733</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61000" Name="Vaccine 15">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000274</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>740</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61001" Name="Virus 15">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000275</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>741</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61002" Name="Bleeding Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000276</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>742</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61003" Name="Bleeding Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000277</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>742</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61004" Name="Bleeding Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000278</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>742</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61005" Name="Bleeding Lv4">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000279</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>742</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61006" Name="Frostbite Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000280</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>743</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61007" Name="Frostbite Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000281</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>743</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61008" Name="Frostbite Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000282</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>743</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61009" Name="Frostbite Lv4">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000283</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>743</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61010" Name="Freeze">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000284</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>744</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61011" Name="Silence">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000207</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>745</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61012" Name="Deadly Poison">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000285</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>746</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61013" Name="Nightmare Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000286</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>747</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61014" Name="Nightmare Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000287</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>747</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61015" Name="Nightmare Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000288</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>747</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61016" Name="Nightmare Lv4">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000289</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>747</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61017" Name="Petrify Lv1">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000290</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>748</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61018" Name="Petrify Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000291</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>748</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61019" Name="Petrify Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000292</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>748</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61020" Name="Petrify Lv4">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000293</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>748</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61021" Name="Purgatory">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000299</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>749</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61022" Name="Fatal Venom Lv2">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000300</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>746</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61023" Name="Fatal Venom Lv3">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000301</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>746</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61024" Name="Rage of Earth">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000302</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>750</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61025" Name="Blessing of Earth">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000231</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61026" Name="Leadership">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000303</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>751</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61027" Name="Dignity of Superior">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000304</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>752</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61028" Name="Savior of Real World">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000305</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="61029" Name="Ambition of Dark Lord">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000306</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>752</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63000" Name="Tidal Wave of Darkness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700003</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63001" Name="Extreme Evolution">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700004</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>717</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63002" Name="Warrior of Nightmare">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000239</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63003" Name="Guardian of Heaven">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000240</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63004" Name="Defender of Ocean">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000241</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63005" Name="Wild Howling">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000242</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63006" Name="Ruler of Steel">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000243</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>906</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63007" Name="Descendant of Dragon">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000244</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>907</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63008" Name="Justice Bringer">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000245</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>908</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63009" Name="Forest Overseer">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000246</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>909</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63010" Name="Source of Darkness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000247</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>910</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63011" Name="Chaotic Being">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000248</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>911</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63012" Name="Warrior of Nightmare">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700005</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>718</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63013" Name="Guardian of Heaven">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700006</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>719</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63014" Name="Defender of Ocean">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700007</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>720</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63015" Name="Wild Howling">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700008</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>721</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63016" Name="Ruler of Steel">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700009</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>722</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63017" Name="Descendant of Dragon">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700010</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>723</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63018" Name="Justice Bringer">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>724</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63019" Name="Forest Overseer">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700012</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>725</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63020" Name="Source of Darkness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700013</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>726</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63021" Name="Chaotic Being">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700014</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>727</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="63022" Name="Peak of X-evolution">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700033</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>728</Class>
+		<LifeType>2</LifeType>
+		<TimeType>2</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64000" Name="X-Program">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700000</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64001" Name="X-Protector">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>901</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64002" Name="Survival">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700002</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>901</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64003" Name="X-Protector">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64004" Name="Apocalypse">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000249</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64005" Name="Return of Nothingness">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000250</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>713</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64006" Name="Peace in Verdandi Terminal">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000251</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64007" Name="Constant HP Loss">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700015</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64008" Name="Weaken">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700016</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64009" Name="Cursed">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700017</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64010" Name="Endurance">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700018</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64011" Name="Slow">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700019</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64012" Name="Disruption">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700020</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64013" Name="Life Absorption">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700021</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>902</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64014" Name="X-Protector">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>901</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64015" Name="MarinDevimons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000262</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>903</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64016" Name="MegaSeadramons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000263</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>904</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64017" Name="Vikaralamons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000264</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>905</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64018" Name="Gulfmons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000265</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>903</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64019" Name="Ornismons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000266</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>904</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64020" Name="Phoenixmons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000267</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>905</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64021" Name="Gryphonmons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000268</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>903</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64022" Name="SaberLeomons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000269</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>904</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64023" Name="Sinduramons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000270</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>905</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64024" Name="Antylamons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000271</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>903</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64025" Name="Mihiramons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000272</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>904</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64026" Name="Majiramons Aura">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000273</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>905</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64027" Name="Safe Zone">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>2700001</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>900</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64028" Name="The New Sprouts">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000294</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64029" Name="Miraculous Light">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000295</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64030" Name="Tactician of Power and Intelligence">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000297</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64031" Name="Plant Poison">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000225</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>706</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64032" Name="MugenDramon Offense Program">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000214</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>707</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64033" Name="MugenDramon Skill Program">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000217</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>708</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64034" Name="MugenDramon Defense Program">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000220</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>709</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64035" Name="Execution Sword">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000298</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64036" Name="Burning Heart">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000307</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64037" Name="Specialist of Love">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>4000308</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>999</Class>
+		<LifeType>2</LifeType>
+		<TimeType>1</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64038" Name="Rampage">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7110931</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>1</Type>
+		<Class>429</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64039" Name="twisted space-time">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7111011</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>427</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+	<BuffInfo Id="64040" Name="Cracked space-time">
+		<DigimonSkillCode>0</DigimonSkillCode>
+		<SkillCode>7111031</SkillCode>
+		<MinLevel>1</MinLevel>
+		<ConditionLevel>154</ConditionLevel>
+		<Type>2</Type>
+		<Class>472</Class>
+		<LifeType>1</LifeType>
+		<TimeType>4</TimeType>
+	</BuffInfo>
+</BuffInfoList>

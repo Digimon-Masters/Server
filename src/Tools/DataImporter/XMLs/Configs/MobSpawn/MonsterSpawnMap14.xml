@@ -1,0 +1,106 @@
+<Map Id="14" Name="Mystic GMs Room">
+	<Monster Specie="99698" Name="Turuiemon">
+		<Location X="7534" Y="9600" Radius="500"/>
+		<Respawn Time="43200" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="4500">
+			<AR>77</AR>
+			<AS>4100</AS>
+			<AT>70</AT>
+			<CC>15</CC>
+			<CD>323</CD>
+			<DE>150</DE>
+			<DS>77</DS>
+			<EV>1218</EV>
+			<HP>5000</HP>
+			<HT>1850</HT>
+			<MS>777</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Henchman)</SubName>
+		<Model>41041</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>1</Class>
+		<EXP>41248</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="99699" Name="Antylamon">
+		<Location X="10792" Y="6183" Radius="500"/>
+		<Respawn Time="1" KillGen="99698" KillCount="40"/>
+		<Status Level="95" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>300</DE>
+			<DS>650</DS>
+			<EV>1732</EV>
+			<HP>100000</HP>
+			<HT>13400</HT>
+			<MS>1140</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Boss)</SubName>
+		<Model>51032</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>38528</EXP>
+		<EXPMin>36</EXPMin>
+		<EXPMax>144</EXPMax>
+	</Monster>
+	<Monster Specie="99698" Name="Turuiemon">
+		<Location X="7534" Y="9600" Radius="500"/>
+		<Respawn Time="43200" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="4500">
+			<AR>77</AR>
+			<AS>4100</AS>
+			<AT>70</AT>
+			<CC>15</CC>
+			<CD>323</CD>
+			<DE>150</DE>
+			<DS>77</DS>
+			<EV>1218</EV>
+			<HP>5000</HP>
+			<HT>1850</HT>
+			<MS>777</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Henchman)</SubName>
+		<Model>41041</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>1</Class>
+		<EXP>41248</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="99699" Name="Antylamon">
+		<Location X="10792" Y="6183" Radius="500"/>
+		<Respawn Time="1" KillGen="99698" KillCount="40"/>
+		<Status Level="95" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>300</DE>
+			<DS>650</DS>
+			<EV>1732</EV>
+			<HP>100000</HP>
+			<HT>13400</HT>
+			<MS>1140</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Boss)</SubName>
+		<Model>51032</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>38528</EXP>
+		<EXPMin>36</EXPMin>
+		<EXPMax>144</EXPMax>
+	</Monster>
+</Map>

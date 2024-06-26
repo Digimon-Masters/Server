@@ -1,0 +1,1380 @@
+<Map Id="207" Name="Big Sight">
+	<Monster Specie="17000" Name="Fruit Tree">
+		<Location X="26375" Y="21158" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="1" Sight="10" HuntRange="0">
+			<AR>100</AR>
+			<AS>10</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>10</CD>
+			<DE>2</DE>
+			<DS>10</DS>
+			<EV>10</EV>
+			<HP>10</HP>
+			<HT>10</HT>
+			<MS>0</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Destroyer)</SubName>
+		<Model>17000</Model>
+		<Scale>-107201770</Scale>
+		<Class>1</Class>
+		<EXP>1</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="17002" Name="Box">
+		<Location X="25968" Y="27374" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="1" Sight="10" HuntRange="0">
+			<AR>100</AR>
+			<AS>10</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>10</CD>
+			<DE>2</DE>
+			<DS>10</DS>
+			<EV>10</EV>
+			<HP>10</HP>
+			<HT>10</HT>
+			<MS>0</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Destroyer)</SubName>
+		<Model>17002</Model>
+		<Scale>-107201770</Scale>
+		<Class>2</Class>
+		<EXP>1</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="62168" Name="Omegamon Zwart">
+		<Location X="11770" Y="34844" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1198</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>65441</DE>
+			<DS>595</DS>
+			<EV>5984</EV>
+			<HP>547400</HP>
+			<HT>14175</HT>
+			<MS>828</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Jogress Quest)</SubName>
+		<Model>71073</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>1</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Specie="75114" Name="CommanDramon">
+		<Location X="31276" Y="31249" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>31035</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75115" Name="CommanDramon">
+		<Location X="30090" Y="30364" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1541</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>65300</HP>
+			<HT>15996</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Army Captain)</SubName>
+		<Model>31035</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>41200</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75116" Name="TankDramon">
+		<Location X="25902" Y="31273" Radius="734"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1067</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>16521</DE>
+			<DS>690</DS>
+			<EV>2784</EV>
+			<HP>82900</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Army Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75117" Name="TankDramon">
+		<Location X="27627" Y="32403" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1120</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>16521</DE>
+			<DS>690</DS>
+			<EV>2784</EV>
+			<HP>98000</HP>
+			<HT>15996</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Army Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>41200</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75118" Name="TankDramon">
+		<Location X="28369" Y="31553" Radius="417"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1280</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>41138</DE>
+			<DS>690</DS>
+			<EV>3062</EV>
+			<HP>128100</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75119" Name="NeoDevimon">
+		<Location X="33428" Y="27627" Radius="840"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75120" Name="NeoDevimon">
+		<Location X="32648" Y="28330" Radius="523"/>
+		<Respawn Time="10800" KillGen="75119" KillCount="10"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Absence)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75121" Name="NeoDevimon">
+		<Location X="32338" Y="27314" Radius="523"/>
+		<Respawn Time="10800" KillGen="75120" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Delusion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75122" Name="NeoDevimon">
+		<Location X="31897" Y="28593" Radius="523"/>
+		<Respawn Time="10800" KillGen="75121" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Vanity)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75123" Name="NeoDevimon">
+		<Location X="30322" Y="28018" Radius="523"/>
+		<Respawn Time="10800" KillGen="75122" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Foolishness)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75124" Name="NeoDevimon">
+		<Location X="30701" Y="26706" Radius="523"/>
+		<Respawn Time="10800" KillGen="75123" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Oblivion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75125" Name="NeoDevimon">
+		<Location X="31074" Y="27062" Radius="100"/>
+		<Respawn Time="10800" KillGen="75124" KillCount="5"/>
+		<Status Level="119" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1750</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>38084</DE>
+			<DS>695</DS>
+			<EV>3872</EV>
+			<HP>444500</HP>
+			<HT>18270</HT>
+			<MS>900</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Devil)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>47672</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75126" Name="Bakemon">
+		<Location X="24219" Y="27680" Radius="1157"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41172</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75127" Name="Soulmon">
+		<Location X="26100" Y="26089" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41040</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75128" Name="Darktyranomon">
+		<Location X="16669" Y="31519" Radius="100"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="119" Sight="2400" HuntRange="4000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1818</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>38084</DE>
+			<DS>695</DS>
+			<EV>4576</EV>
+			<HP>9525000</HP>
+			<HT>18792</HT>
+			<MS>1125</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Devil)</SubName>
+		<Model>25001</Model>
+		<Scale>-107201770</Scale>
+		<Class>6</Class>
+		<EXP>19872</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75129" Name="Myotismon">
+		<Location X="22776" Y="18322" Radius="100"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="600" HuntRange="4000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>2202</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>18128</DE>
+			<DS>700</DS>
+			<EV>5091</EV>
+			<HP>8653500</HP>
+			<HT>19008</HT>
+			<MS>1140</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Devil)</SubName>
+		<Model>25002</Model>
+		<Scale>-107201770</Scale>
+		<Class>6</Class>
+		<EXP>52192</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="17000" Name="Fruit Tree">
+		<Location X="26375" Y="21158" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="1" Sight="10" HuntRange="0">
+			<AR>100</AR>
+			<AS>10</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>10</CD>
+			<DE>2</DE>
+			<DS>10</DS>
+			<EV>10</EV>
+			<HP>10</HP>
+			<HT>10</HT>
+			<MS>0</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Destroyer)</SubName>
+		<Model>17000</Model>
+		<Scale>-107201770</Scale>
+		<Class>1</Class>
+		<EXP>1</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="17002" Name="Box">
+		<Location X="25968" Y="27374" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="1" Sight="10" HuntRange="0">
+			<AR>100</AR>
+			<AS>10</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>10</CD>
+			<DE>2</DE>
+			<DS>10</DS>
+			<EV>10</EV>
+			<HP>10</HP>
+			<HT>10</HT>
+			<MS>0</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Destroyer)</SubName>
+		<Model>17002</Model>
+		<Scale>-107201770</Scale>
+		<Class>2</Class>
+		<EXP>1</EXP>
+		<EXPMin>0</EXPMin>
+		<EXPMax>0</EXPMax>
+	</Monster>
+	<Monster Specie="62168" Name="Omegamon Zwart">
+		<Location X="11770" Y="34844" Radius="100"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1198</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>65441</DE>
+			<DS>595</DS>
+			<EV>5984</EV>
+			<HP>547400</HP>
+			<HT>14175</HT>
+			<MS>828</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Jogress Quest)</SubName>
+		<Model>71073</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>1</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Specie="75114" Name="CommanDramon">
+		<Location X="31276" Y="31249" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>31035</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75114" Name="CommanDramon">
+		<Location X="31276" Y="31249" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>31035</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75115" Name="CommanDramon">
+		<Location X="30090" Y="30364" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1541</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>65300</HP>
+			<HT>15996</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Army Captain)</SubName>
+		<Model>31035</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>41200</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75116" Name="TankDramon">
+		<Location X="25902" Y="31273" Radius="734"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1067</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>16521</DE>
+			<DS>690</DS>
+			<EV>2784</EV>
+			<HP>82900</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Army Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75117" Name="TankDramon">
+		<Location X="27627" Y="32403" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1120</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>16521</DE>
+			<DS>690</DS>
+			<EV>2784</EV>
+			<HP>98000</HP>
+			<HT>15996</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Army Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>41200</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75117" Name="TankDramon">
+		<Location X="27627" Y="32403" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1120</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>16521</DE>
+			<DS>690</DS>
+			<EV>2784</EV>
+			<HP>98000</HP>
+			<HT>15996</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Army Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>41200</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75118" Name="TankDramon">
+		<Location X="28369" Y="31553" Radius="417"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1280</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>41138</DE>
+			<DS>690</DS>
+			<EV>3062</EV>
+			<HP>128100</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51052</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75119" Name="NeoDevimon">
+		<Location X="33428" Y="27627" Radius="840"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75119" Name="NeoDevimon">
+		<Location X="33428" Y="27627" Radius="840"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Captain)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75120" Name="NeoDevimon">
+		<Location X="32648" Y="28330" Radius="523"/>
+		<Respawn Time="10800" KillGen="75119" KillCount="10"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Absence)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75120" Name="NeoDevimon">
+		<Location X="32648" Y="28330" Radius="523"/>
+		<Respawn Time="10800" KillGen="75119" KillCount="10"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Absence)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75120" Name="NeoDevimon">
+		<Location X="32648" Y="28330" Radius="523"/>
+		<Respawn Time="10800" KillGen="75119" KillCount="10"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Absence)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75121" Name="NeoDevimon">
+		<Location X="32338" Y="27314" Radius="523"/>
+		<Respawn Time="10800" KillGen="75120" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Delusion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75121" Name="NeoDevimon">
+		<Location X="32338" Y="27314" Radius="523"/>
+		<Respawn Time="10800" KillGen="75120" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Delusion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75121" Name="NeoDevimon">
+		<Location X="32338" Y="27314" Radius="523"/>
+		<Respawn Time="10800" KillGen="75120" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Delusion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75122" Name="NeoDevimon">
+		<Location X="31897" Y="28593" Radius="523"/>
+		<Respawn Time="10800" KillGen="75121" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Vanity)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75122" Name="NeoDevimon">
+		<Location X="31897" Y="28593" Radius="523"/>
+		<Respawn Time="10800" KillGen="75121" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Vanity)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75122" Name="NeoDevimon">
+		<Location X="31897" Y="28593" Radius="523"/>
+		<Respawn Time="10800" KillGen="75121" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Vanity)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75123" Name="NeoDevimon">
+		<Location X="30322" Y="28018" Radius="523"/>
+		<Respawn Time="10800" KillGen="75122" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Foolishness)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75123" Name="NeoDevimon">
+		<Location X="30322" Y="28018" Radius="523"/>
+		<Respawn Time="10800" KillGen="75122" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Foolishness)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75123" Name="NeoDevimon">
+		<Location X="30322" Y="28018" Radius="523"/>
+		<Respawn Time="10800" KillGen="75122" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Foolishness)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75124" Name="NeoDevimon">
+		<Location X="30701" Y="26706" Radius="523"/>
+		<Respawn Time="10800" KillGen="75123" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Oblivion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75124" Name="NeoDevimon">
+		<Location X="30701" Y="26706" Radius="523"/>
+		<Respawn Time="10800" KillGen="75123" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Oblivion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75124" Name="NeoDevimon">
+		<Location X="30701" Y="26706" Radius="523"/>
+		<Respawn Time="10800" KillGen="75123" KillCount="5"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1601</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>23359</DE>
+			<DS>690</DS>
+			<EV>3828</EV>
+			<HP>106800</HP>
+			<HT>16512</HT>
+			<MS>825</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Oblivion)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>3</Class>
+		<EXP>54676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75125" Name="NeoDevimon">
+		<Location X="31074" Y="27062" Radius="100"/>
+		<Respawn Time="10800" KillGen="75124" KillCount="5"/>
+		<Status Level="119" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1750</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>38084</DE>
+			<DS>695</DS>
+			<EV>3872</EV>
+			<HP>444500</HP>
+			<HT>18270</HT>
+			<MS>900</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Devil)</SubName>
+		<Model>52151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>47672</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75126" Name="Bakemon">
+		<Location X="24219" Y="27680" Radius="1157"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41172</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75126" Name="Bakemon">
+		<Location X="24219" Y="27680" Radius="1157"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1467</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>61543</DE>
+			<DS>690</DS>
+			<EV>4176</EV>
+			<HP>55300</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41172</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75127" Name="Soulmon">
+		<Location X="26100" Y="26089" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41040</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75127" Name="Soulmon">
+		<Location X="26100" Y="26089" Radius="1051"/>
+		<Respawn Time="6" KillGen="0" KillCount="0"/>
+		<Status Level="118" Sight="600" HuntRange="2000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1334</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>2845</DE>
+			<DS>690</DS>
+			<EV>3480</EV>
+			<HP>69100</HP>
+			<HT>15480</HT>
+			<MS>750</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Devil)</SubName>
+		<Model>41040</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1744</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75128" Name="Darktyranomon">
+		<Location X="16669" Y="31519" Radius="100"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="119" Sight="2400" HuntRange="4000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1818</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>38084</DE>
+			<DS>695</DS>
+			<EV>4576</EV>
+			<HP>9525000</HP>
+			<HT>18792</HT>
+			<MS>1125</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Devil)</SubName>
+		<Model>25001</Model>
+		<Scale>-107201770</Scale>
+		<Class>6</Class>
+		<EXP>19872</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="75129" Name="Myotismon">
+		<Location X="22776" Y="18322" Radius="100"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="600" HuntRange="4000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>2202</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>18128</DE>
+			<DS>700</DS>
+			<EV>5091</EV>
+			<HP>8653500</HP>
+			<HT>19008</HT>
+			<MS>1140</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Devil)</SubName>
+		<Model>25002</Model>
+		<Scale>-107201770</Scale>
+		<Class>6</Class>
+		<EXP>52192</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

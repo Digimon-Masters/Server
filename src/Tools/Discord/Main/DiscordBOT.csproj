@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <AssemblyName>DiscordBOT</AssemblyName>
+        <RootNamespace>Template</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Discord.Addons.Hosting" Version="3.0.0" />
+      <PackageReference Include="Discord.Addons.Interactive" Version="2.0.0" />
+      <PackageReference Include="Discord.Net" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.Commands" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.Core" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.WebSocket" Version="2.2.0" />
+      <PackageReference Include="DSharpPlus" Version="4.4.1" />
+      <PackageReference Include="DSharpPlus.CommandsNext" Version="3.2.3" />
+      <PackageReference Include="DSharpPlus.Interactivity" Version="4.4.1" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.7" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+      <PackageReference Include="Victoria" Version="5.1.9" />
+      <PackageReference Include="YoutubeExplode" Version="6.2.15" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

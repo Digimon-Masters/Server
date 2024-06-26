@@ -1,0 +1,28 @@
+<Map Id="1110" Name="Kaisers Laboratory(Normal)">
+  <Monster Specie="45286" Name="Chimairamon">
+    <Location X="8520" Y="10152" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="2500" HuntRange="5000">
+      <AR>200</AR>
+      <AS>5000</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>2415</CD>
+      <DE>250</DE>
+      <DS>541</DS>
+      <EV>2889</EV>
+      <HP>816000</HP>
+      <HT>9000</HT>
+      <MS>920</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Event)</SubName>
+    <Model>51044</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>32320</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+</Map>

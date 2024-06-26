@@ -1,0 +1,189 @@
+<BaseStatusTamerList>
+	<BaseStatusTamer Type="80001" Name="Marcus">
+		<Status>
+			<AT>10</AT>
+			<DE>2</DE>
+			<DS>80</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80002" Name="Thomas">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>100</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80003" Name="Yoshino">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>100</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80004" Name="Keenan">
+		<Status>
+			<AT>10</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>80</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80005" Name="Tai">
+		<Status>
+			<AT>10</AT>
+			<DE>2</DE>
+			<DS>80</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80006" Name="Mimi">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>100</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80007" Name="Matt">
+		<Status>
+			<AT>10</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>80</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80008" Name="Takaishi">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>100</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80009" Name="Kamiya">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>100</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80010" Name="Sora">
+		<Status>
+			<AT>10</AT>
+			<DE>2</DE>
+			<DS>80</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80011" Name="Takato">
+		<Status>
+			<AT>10</AT>
+			<DE>2</DE>
+			<DS>80</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80012" Name="Rika">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>80</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80013" Name="Henry">
+		<Status>
+			<AT>10</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>80</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80014" Name="Izzy">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>100</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80015" Name="Joe">
+		<Status>
+			<AT>10</AT>
+			<DE>1</DE>
+			<DS>90</DS>
+			<HP>70</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80016" Name="Jeri">
+		<Status>
+			<AT>8</AT>
+			<DE>1</DE>
+			<DS>100</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+	<BaseStatusTamer Type="80017" Name="Ryo">
+		<Status>
+			<AT>10</AT>
+			<DE>2</DE>
+			<DS>80</DS>
+			<HP>90</HP>
+		</Status>
+		<Skills>
+			<Skill Slot="1" Id="2113311"/>
+		</Skills>
+	</BaseStatusTamer>
+</BaseStatusTamerList>

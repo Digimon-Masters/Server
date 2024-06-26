@@ -1,0 +1,210 @@
+<Map Id="1206" Name="Digimon Maze F4">
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="60351" Name="Diablomon">
+    <Location X="8057" Y="13537" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="84" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>295</AT>
+      <CC>15</CC>
+      <CD>1661</CD>
+      <DE>260</DE>
+      <DS>541</DS>
+      <EV>2444</EV>
+      <HP>24000</HP>
+      <HT>3438</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>king of Destroy)</SubName>
+    <Model>61035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>19980</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

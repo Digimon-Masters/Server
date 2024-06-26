@@ -1,0 +1,7672 @@
+<Map Id="105" Name="Yokohama Village">
+	<Monster Specie="71040" Name="SkullSatamon">
+		<Location X="27565" Y="32728" Radius="1157" />
+		<Respawn Time="60" KillGen="0" KillCount="0" />
+		<Status Level="80" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>450</AT>
+			<CC>15</CC>
+			<CD>3129</CD>
+			<DE>560</DE>
+			<DS>541</DS>
+			<EV>3145</EV>
+			<HP>1080000</HP>
+			<HT>6475</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Jogress Quest)</SubName>
+		<Model>51022</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>1</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="35876" Y="27582" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="35765" Y="30921" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71502" Name="Togemon">
+		<Location X="28146" Y="35463" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71504" Name="Elecmon">
+		<Location X="37510" Y="20012" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39191" Y="22623" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71506" Name="Keramon">
+		<Location X="46852" Y="13821" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46129" Y="22255" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="29527" Y="6900" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71509" Name="Meramon">
+		<Location X="19952" Y="6030" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71510" Name="Drimogemon">
+		<Location X="36625" Y="10461" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71511" Name="Drimogemon">
+		<Location X="32709" Y="7274" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="22" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>67</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>270</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Evolving)</SubName>
+		<Model>31028</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>3</Class>
+		<EXP>4400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71512" Name="Soulmon">
+		<Location X="11754" Y="5887" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="14494" Y="23540" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="9668" Y="22707" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="9522" Y="22428" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="9338" Y="22026" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="8923" Y="22190" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="9042" Y="22566" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="9229" Y="23016" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="8532" Y="23328" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="8306" Y="22993" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="8045" Y="22672" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="6988" Y="23132" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="7082" Y="23542" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="30419" Name="Agumon">
+		<Location X="7252" Y="23973" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71518" Name="Piyomon">
+		<Location X="23286" Y="24766" Radius="3693" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31048</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="35237" Y="27642" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="34572" Y="27662" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="34572" Y="27662" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="33815" Y="27755" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71500" Name="Kunemon">
+		<Location X="33435" Y="28445" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="34197" Y="28577" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="34886" Y="28644" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="35835" Y="28592" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="35959" Y="29189" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="35358" Y="29252" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71500" Name="Kunemon">
+		<Location X="34565" Y="29419" Radius="2002" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="6" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>15</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>360</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31029</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>1200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="35722" Y="31712" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="34859" Y="31895" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="34918" Y="31131" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="35394" Y="30614" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71501" Name="Flymon">
+		<Location X="34170" Y="30664" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71501" Name="Flymon">
+		<Location X="33911" Y="31479" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71501" Name="Flymon">
+		<Location X="33040" Y="32238" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71501" Name="Flymon">
+		<Location X="33095" Y="31391" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71501" Name="Flymon">
+		<Location X="32839" Y="30543" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="7" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>17</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>70</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41032</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>1400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71502" Name="Togemon">
+		<Location X="28605" Y="34810" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71502" Name="Togemon">
+		<Location X="27216" Y="34785" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71502" Name="Togemon">
+		<Location X="27648" Y="35411" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71502" Name="Togemon">
+		<Location X="26319" Y="34798" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71502" Name="Togemon">
+		<Location X="26243" Y="35387" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71502" Name="Togemon">
+		<Location X="25198" Y="34811" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71502" Name="Togemon">
+		<Location X="25084" Y="35378" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="12" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>37</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>150</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1620</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41044</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>2400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71504" Name="Elecmon">
+		<Location X="37286" Y="20626" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71504" Name="Elecmon">
+		<Location X="36670" Y="20047" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71504" Name="Elecmon">
+		<Location X="36465" Y="20617" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71504" Name="Elecmon">
+		<Location X="35753" Y="20051" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="35543" Y="20670" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="35079" Y="20102" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="34784" Y="20673" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="33909" Y="20080" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="33673" Y="20675" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="32774" Y="20086" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71504" Name="Elecmon">
+		<Location X="32392" Y="20687" Radius="1368" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>50</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>200</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1870</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31049</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>3400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39801" Y="22817" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39171" Y="23340" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="40089" Y="23118" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39389" Y="23671" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="38695" Y="24333" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39320" Y="24728" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39907" Y="25514" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="39256" Y="25965" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71505" Name="Garurumon(Black)">
+		<Location X="38542" Y="25691" Radius="1051" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="18" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>55</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>220</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>1980</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41140</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>3600</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71506" Name="Keramon">
+		<Location X="46297" Y="13912" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71506" Name="Keramon">
+		<Location X="46230" Y="14963" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46751" Y="15235" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46217" Y="16605" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46796" Y="16733" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46221" Y="17683" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46811" Y="17736" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71506" Name="Keramon">
+		<Location X="46468" Y="18899" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="34" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3740</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6800</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46842" Y="22324" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46154" Y="23667" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46800" Y="23797" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46509" Y="25303" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="45898" Y="25151" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46312" Y="25892" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="47000" Y="25704" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71507" Name="Chrysalimon">
+		<Location X="46503" Y="26978" Radius="2425" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="35" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>370</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3850</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41029</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>7000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="29441" Y="7516" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28414" Y="7818" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28298" Y="7300" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28235" Y="6878" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="27245" Y="7357" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="27609" Y="6618" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="29456" Y="5896" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="29425" Y="5162" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="29288" Y="4141" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28351" Y="3907" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28240" Y="4673" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="28232" Y="5786" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="27489" Y="5857" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="27316" Y="5122" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="27048" Y="4329" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="26094" Y="3963" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="26038" Y="4766" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71508" Name="DemiMeramon">
+		<Location X="25996" Y="5733" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="25" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>75</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>300</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2750</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>21134</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>5000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71509" Name="Meramon">
+		<Location X="19886" Y="5370" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71509" Name="Meramon">
+		<Location X="19871" Y="3988" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="20362" Y="3759" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="20495" Y="4417" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="20708" Y="5376" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="21885" Y="5998" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="21995" Y="5203" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="21931" Y="4051" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="22748" Y="3755" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="22988" Y="4524" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="22942" Y="5591" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="23751" Y="5975" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="23916" Y="5291" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71509" Name="Meramon">
+		<Location X="24016" Y="4191" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="26" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>80</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>320</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2860</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>41170</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>3</Class>
+		<EXP>5200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71510" Name="Drimogemon">
+		<Location X="36828" Y="8831" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71510" Name="Drimogemon">
+		<Location X="36824" Y="7428" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71511" Name="Drimogemon">
+		<Location X="32763" Y="8292" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="22" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>67</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>270</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Evolving)</SubName>
+		<Model>31028</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>3</Class>
+		<EXP>4400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71511" Name="Drimogemon">
+		<Location X="32704" Y="9428" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="22" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>67</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>270</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Evolving)</SubName>
+		<Model>31028</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>3</Class>
+		<EXP>4400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71511" Name="Drimogemon">
+		<Location X="32698" Y="10395" Radius="1685" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="22" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>67</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>270</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2420</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Evolving)</SubName>
+		<Model>31028</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>3</Class>
+		<EXP>4400</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71510" Name="Drimogemon">
+		<Location X="36861" Y="6077" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71510" Name="Drimogemon">
+		<Location X="35825" Y="6968" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71510" Name="Drimogemon">
+		<Location X="35757" Y="7818" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71510" Name="Drimogemon">
+		<Location X="35806" Y="9033" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71510" Name="Drimogemon">
+		<Location X="35767" Y="10240" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="21" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>62</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>250</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>2320</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Huge)</SubName>
+		<Model>31028</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>4200</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71512" Name="Soulmon">
+		<Location X="11545" Y="5336" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71512" Name="Soulmon">
+		<Location X="11703" Y="4432" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="11744" Y="3726" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="12377" Y="3824" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="12378" Y="4386" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="12560" Y="5576" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="13508" Y="5878" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="13621" Y="4917" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="13607" Y="4032" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="14635" Y="3797" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="14764" Y="4578" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="15030" Y="5475" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="15787" Y="5868" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="16202" Y="5018" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="16393" Y="4148" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="71512" Name="Soulmon">
+		<Location X="17193" Y="5262" Radius="1157" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="30" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>87</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>350</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>3300</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Evolving)</SubName>
+		<Model>41040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>6000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="13819" Y="23790" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="13210" Y="24009" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="12465" Y="24272" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="12847" Y="25086" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="13309" Y="24827" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="13771" Y="24518" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="14380" Y="24230" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="15211" Y="24510" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="14476" Y="25030" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="13487" Y="25776" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="14459" Y="25829" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71517" Name="Agumon">
+		<Location X="15637" Y="25360" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31001</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20625" Y="28531" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="21005" Y="28481" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20930" Y="27863" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20506" Y="28040" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20809" Y="27420" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20427" Y="27557" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20695" Y="26892" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20280" Y="26951" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20579" Y="26350" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20147" Y="26380" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20403" Y="25556" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="19933" Y="25529" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="12136" Name="Agumon">
+		<Location X="20014" Y="25081" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Event Captain)</SubName>
+		<Model>12136</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>41029</EXP>
+		<EXPMin>40590</EXPMin>
+		<EXPMax>41250</EXPMax>
+	</Monster>
+	<Monster Specie="71518" Name="Piyomon">
+		<Location X="23804" Y="24846" Radius="3693" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31048</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71518" Name="Piyomon">
+		<Location X="23317" Y="24444" Radius="3693" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31048</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71518" Name="Piyomon">
+		<Location X="23722" Y="24644" Radius="3693" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31048</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71518" Name="Piyomon">
+		<Location X="24125" Y="24850" Radius="3693" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(about to mischief)</SubName>
+		<Model>31048</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29540" Y="44655" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29906" Y="44698" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30500" Y="44712" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31041" Y="44731" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31621" Y="44755" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32257" Y="44787" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32955" Y="44783" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32756" Y="44931" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32264" Y="44921" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31768" Y="44921" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31244" Y="44901" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30740" Y="44889" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30071" Y="44884" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29493" Y="44893" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29592" Y="45355" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29540" Y="44655" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30127" Y="45390" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30949" Y="45424" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31700" Y="45439" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32665" Y="45477" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33358" Y="45482" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33084" Y="46057" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32560" Y="46038" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31809" Y="46023" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31161" Y="46015" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30448" Y="46008" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29764" Y="45998" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29232" Y="46031" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29402" Y="46711" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30014" Y="46738" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30639" Y="46738" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31396" Y="46743" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32115" Y="46743" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32635" Y="46739" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33207" Y="46728" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32877" Y="47036" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32297" Y="47052" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31740" Y="47062" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31108" Y="47082" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30428" Y="47099" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29685" Y="47110" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="28997" Y="47101" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29294" Y="47427" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30022" Y="47442" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30730" Y="47446" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31507" Y="47424" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32196" Y="47402" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32892" Y="47428" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33496" Y="47452" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33205" Y="47714" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32526" Y="47726" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31591" Y="47730" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30853" Y="47735" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30209" Y="47733" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29654" Y="47734" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29074" Y="47707" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29146" Y="48116" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29716" Y="48129" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30367" Y="48135" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30952" Y="48134" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31528" Y="48145" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32247" Y="48158" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32849" Y="48169" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33469" Y="48180" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33219" Y="48360" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32543" Y="48363" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31913" Y="48366" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31353" Y="48369" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30804" Y="48367" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30245" Y="48358" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29619" Y="48368" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29174" Y="48367" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29252" Y="48769" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29727" Y="48772" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30318" Y="48766" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31001" Y="48754" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31580" Y="48746" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32147" Y="48735" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32704" Y="48731" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="33283" Y="48731" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32938" Y="48986" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32371" Y="48986" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31751" Y="48974" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31177" Y="48970" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30566" Y="48979" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29943" Y="48982" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29406" Y="48994" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29319" Y="49224" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="29862" Y="49236" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="30441" Y="49240" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31017" Y="49242" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="31661" Y="49236" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32218" Y="49222" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50321" Name="Onlooker Rabbit">
+		<Location X="32793" Y="49212" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="20709" Y="44597" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="20722" Y="46149" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="20663" Y="47417" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="19852" Y="48174" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="20203" Y="49733" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="22153" Y="49884" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="22536" Y="48330" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="22441" Y="47142" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="32793" Y="49212" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="22441" Y="47142" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="22293" Y="45730" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="23783" Y="44848" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="23835" Y="46232" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="23785" Y="48321" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="25575" Y="49751" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="26253" Y="48348" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="26566" Y="46418" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="26852" Y="44918" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="27079" Y="46642" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="27156" Y="48119" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="27439" Y="49604" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="27963" Y="48120" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="28108" Y="46416" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>DSO EVENT</SubName>
+		<Model>41019</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40197" Name="Icemon">
+		<Location X="33381" Y="49238" Radius="1791" />
+		<Respawn Time="5" KillGen="0" KillCount="0" />
+		<Status Level="2" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>500</CD>
+			<DE>60</DE>
+			<DS>1</DS>
+			<EV>1000</EV>
+			<HP>200</HP>
+			<HT>1500</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(rapter-1)</SubName>
+		<Model>51032</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>2</Class>
+		<EXP>10</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+</Map>

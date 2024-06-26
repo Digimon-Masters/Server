@@ -1,0 +1,310 @@
+﻿@page "/"
+@using DigitalWorldOnline.Commons.Enums;
+@using DigitalWorldOnline.Commons.Models
+
+<MudPaper Style="padding: 18px;
+        margin-top: 15px;">
+    <MudText>Home</MudText>
+</MudPaper>
+
+<Loader Loading="@Loading">
+    <MudPaper Style="padding: 25px;
+        margin-top: 15px;
+        margin-bottom:5px;
+        height: auto;
+        min-height: 440px;">
+
+        <MudExpansionPanels DisableBorders="true" Elevation="2" Style="padding-bottom:15px">
+
+            <MudExpansionPanel IsInitiallyExpanded>
+                <TitleContent>
+                    <MudStack Row="true" Spacing="2">
+                        <MudText>Server Status</MudText>
+                    </MudStack>
+                </TitleContent>
+                <ChildContent>
+                    <MudText>Comming soon</MudText>
+                    @*<MudButton OnClick="Teste1">Teste1</MudButton>
+                    <MudButton OnClick="Teste2">Teste2</MudButton>
+                    <MudTable FixedHeader="true"
+                    FixedFooter="false"
+                    ServerData="@(new Func<TableState, Task<TableData<ServerViewModel>>>(ServerReload))"
+                    Hover="true"
+                    SortLabel="Order by"
+                    Loading="true"
+                    @ref="_table"
+                    Elevation="2">
+                    <ToolBarContent>
+                    <MudStack Row="true" Spacing="2">
+                    <MudIcon Icon="@Icons.Material.Filled.Storage" Class="icon-title"></MudIcon>
+                    <MudText Typo="Typo.h5"><b>Servers</b></MudText>
+                    </MudStack>
+                    <MudSpacer />
+                    <MudButton Color="Color.Primary" Variant="Variant.Filled" OnClick="Create">New server</MudButton>
+                    </ToolBarContent>
+                    <HeaderContent>
+                    <MudTh>
+                    <MudTableSortLabel SortLabel="Name" T="ServerViewModel"><b>Name</b></MudTableSortLabel>
+                    </MudTh>
+                    <MudTh>
+                    <MudTableSortLabel SortLabel="Experience" T="ServerViewModel"><b>Experience</b></MudTableSortLabel>
+                    </MudTh>
+                    <MudTh>
+                    <MudTableSortLabel SortLabel="Maintenance" T="ServerViewModel"><b>Maintenance</b></MudTableSortLabel>
+                    </MudTh>
+                    <MudTh>
+                    <MudTableSortLabel SortLabel="Overload" T="ServerViewModel"><b>Overload</b></MudTableSortLabel>
+                    </MudTh>
+                    <MudTh>
+                    <MudTableSortLabel SortLabel="CreateDate" T="ServerViewModel"><b>Creation Date</b></MudTableSortLabel>
+                    </MudTh>
+                    <MudTh>
+                    <MudTableSortLabel Enabled="false" T="ServerViewModel"><b>Actions</b></MudTableSortLabel>
+                    </MudTh>
+                    </HeaderContent>
+                    <RowTemplate>
+                    <MudTd DataLabel="Name">@context.Name</MudTd>
+                    <MudTd DataLabel="Experience">@context.Experience %</MudTd>
+                    <MudTd DataLabel="Maintenance">@context.Maintenance</MudTd>
+                    <MudTd DataLabel="Overload">@context.Overload</MudTd>
+                    <MudTd DataLabel="CreateDate">@context.CreateDate</MudTd>
+                    <MudTd>
+                    <MudIconButton Icon="@Icons.Material.Filled.Edit" OnClick="@(() => Update(context.Id))" Title="Update" Size="Size.Small"></MudIconButton>
+                    <MudIconButton Icon="@Icons.Material.Filled.Delete" OnClick="@(() => Delete(context.Id))" Title="Delete" Size="Size.Small"></MudIconButton>
+                    </MudTd>
+                    </RowTemplate>
+                    <NoRecordsContent>
+                    <MudText>No data found.</MudText>
+                    </NoRecordsContent>
+                    <LoadingContent>
+                    <MudText>Agumon is bringing the data, wait a second...</MudText>
+                    </LoadingContent>
+                    <PagerContent>
+                    <MudTablePager InfoFormat="Showing {first_item}-{last_item} of {all_items}"
+                    PageSizeOptions="new int[]{10, 25, 50, 100}"
+                    HorizontalAlignment="HorizontalAlignment.Center"
+                    RowsPerPageString="Rows per page:" />
+                    </PagerContent>
+                    </MudTable>
+
+                    <MudCard>
+                    <MudCardContent>
+                    <MudListItem Icon="@Icons.Material.Filled.Circle" IconColor="Color.Success" Text="Development" InitiallyExpanded="true">
+                    <NestedList>
+                    <MudListItem>
+                    Authentication Server: Online
+                    </MudListItem>
+                    <MudListItem>
+                    Character Server: Online
+                    </MudListItem>
+                    <MudListItem>
+                    Game Server: Online
+                    </MudListItem>
+                    </NestedList>
+                    </MudListItem>
+                    </MudCardContent>
+                    <MudCardContent>
+                    <MudListItem Icon="@Icons.Material.Filled.Circle" IconColor="Color.Warning" Text="Tests" InitiallyExpanded="true">
+                    <NestedList>
+                    <MudListItem>
+                    Authentication Server: Online
+                    </MudListItem>
+                    <MudListItem>
+                    Character Server: Online
+                    </MudListItem>
+                    <MudListItem>
+                    Game Server: Offline
+                    </MudListItem>
+                    </NestedList>
+                    </MudListItem>
+                    </MudCardContent>
+                    <MudCardContent>
+                    <MudListItem Icon="@Icons.Material.Filled.Circle" IconColor="Color.Error" Text="CBT" InitiallyExpanded="true">
+                    <NestedList>
+                    <MudListItem>
+                    Authentication Server: Offline
+                    </MudListItem>
+                    <MudListItem>
+                    Character Server: Offline
+                    </MudListItem>
+                    <MudListItem>
+                    Game Server: Offline
+                    </MudListItem>
+                    </NestedList>
+                    </MudListItem>
+                    </MudCardContent>
+                    </MudCard>*@
+                </ChildContent>
+            </MudExpansionPanel>
+
+            <MudExpansionPanel>
+                <TitleContent>
+                    <MudStack Row="true" Spacing="2">
+                        <MudText>Game Master Commands</MudText>
+                    </MudStack>
+                </TitleContent>
+                <ChildContent>
+                    <MudCard Elevation="0">
+                        <MudText><b>!</b> - Command identifier</MudText>
+                        <MudText><b>{ }</b> - Required value</MudText>
+                        <MudText><b>[ ]</b> - Optional value</MudText>
+                        <MudList>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Inventory" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Increase your inventory slots." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!inv slots add {amount}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Increase your inventory slots." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!inventory slots add {amount}" Value="2" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Remove all your itens from the inventory." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!inv slots clear" Value="3" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Remove all your itens from the inventory." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!inventory slots clear" Value="4" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Items" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Adds an item to your inventory. Default amount is 1." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!item {id} [amount]" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Currency" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Adds bits to your inventory." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!currency bits {value}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Adds premium silk to your account." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!currency premium {value}" Value="2" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Adds bonus silk to your account." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!currency silk {value}" Value="3" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Movimentation" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Teleports to the target map and region. Default region is 1." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!teleport {mapid} [region]" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Tells your current poisition." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!pos" Value="2" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Tells your current poisition." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!where" Value="3" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Tells your current poisition." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!location" Value="4" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Tells your current poisition." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!position" Value="5" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Events" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Gives a new buff for everybody on the same area." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!buff area {code}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Tamer" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Increase your current experience." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!tamer exp add {value}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Increase your experience to max possible." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!tamer exp max" Value="2" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Updates the current tamer size." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!tamer size {value}" Value="3" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Unlocks every available seal with maximum amount." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!openseals" Value="4" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Digimon" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Increase your current experience." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!digimon exp add {value}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Increase your experience to max possible." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!digimon exp max" Value="2" />
+                                    </MudTooltip>
+                                    <MudTooltip Text="Updates the current digimon size." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!digimon size {value}" Value="3" />
+                                    </MudTooltip>
+                                    <br />
+                                    <br />
+                                    <MudTooltip Text="Unlocks every possible partner evolution." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!unlockevos" Value="4" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Comunication" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Sends a global message for the server." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!notice {message}" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                </NestedList>
+                            </MudListItem>
+                            <MudListItem Icon="@Icons.Material.Filled.LabelImportant" Text="Miscellaneous" Style="cursor: pointer;">
+                                <NestedList>
+                                    <MudTooltip Text="Hide yourself from other players (except staff) and monsters. Attacks removes this state." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!hide" Value="1" Style="padding-left: 15px;" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Remove your hidden state." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!show" Value="2" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Enable god mode. You cannot die and instant kill everything while in god mode." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!godmode {on}" Value="3" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Disable god mode." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!godmode {off}" Value="4" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="Reloads your character." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!reload" Value="5" />
+                                    </MudTooltip>
+                                    <br />
+                                    <MudTooltip Text="After 2 mins, disconnect all the connected characters of the server and puts the server into maintenance state." Arrow="true" Placement="Placement.Top">
+                                        <MudListItem Text="!maintenance" Value="6" />
+                                    </MudTooltip>
+                                </NestedList>
+                            </MudListItem>
+                        </MudList>
+                    </MudCard>
+                    <MudText>There's a few more commands still under development. Check here later to see then all :)</MudText>
+                </ChildContent>
+            </MudExpansionPanel>
+
+        </MudExpansionPanels>
+        <MudText>Join our <b><a href="https://discord.gg/AN3n6dDY">Discord</a></b> for news :)</MudText>
+    </MudPaper>
+</Loader>
+
+@code
+{
+    private bool Loading = false;
+}

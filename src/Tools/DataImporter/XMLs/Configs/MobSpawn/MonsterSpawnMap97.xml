@@ -1,0 +1,158 @@
+<Map Id="97" Name="Burning Time - Weekdays">
+  <Monster Specie="99839" Name="Cherrymon">
+    <Location X="32672" Y="38448" Radius="1700" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>200</AR>
+      <AS>3000</AS>
+      <AT>28</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>325</DS>
+      <EV>0</EV>
+      <HP>7700</HP>
+      <HT>1350</HT>
+      <MS>530</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Lonely)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9632</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99840" Name="Puppetmon">
+    <Location X="14035" Y="31279" Radius="2600" />
+    <Respawn Time="10" KillGen="99839" KillCount="100" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>75</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>475</DS>
+      <EV>0</EV>
+      <HP>31250</HP>
+      <HT>2800</HT>
+      <MS>620</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Born to be Solo)</SubName>
+    <Model>61088</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>36224</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99839" Name="Cherrymon">
+    <Location X="32672" Y="38448" Radius="1700" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>200</AR>
+      <AS>3000</AS>
+      <AT>28</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>325</DS>
+      <EV>0</EV>
+      <HP>7700</HP>
+      <HT>1350</HT>
+      <MS>530</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Lonely)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9632</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99839" Name="Cherrymon">
+    <Location X="32672" Y="38448" Radius="1700" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>200</AR>
+      <AS>3000</AS>
+      <AT>28</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>325</DS>
+      <EV>0</EV>
+      <HP>7700</HP>
+      <HT>1350</HT>
+      <MS>530</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Lonely)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9632</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99839" Name="Cherrymon">
+    <Location X="32672" Y="38448" Radius="1700" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>200</AR>
+      <AS>3000</AS>
+      <AT>28</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>325</DS>
+      <EV>0</EV>
+      <HP>7700</HP>
+      <HT>1350</HT>
+      <MS>530</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Lonely)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>9632</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99840" Name="Puppetmon">
+    <Location X="13404" Y="30659" Radius="2600" />
+    <Respawn Time="10" KillGen="99839" KillCount="100" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>75</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>475</DS>
+      <EV>0</EV>
+      <HP>31250</HP>
+      <HT>2800</HT>
+      <MS>620</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Born to be Solo)</SubName>
+    <Model>61088</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>36224</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+</Map>

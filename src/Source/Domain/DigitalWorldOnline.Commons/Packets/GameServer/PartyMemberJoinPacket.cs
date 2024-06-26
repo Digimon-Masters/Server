@@ -1,0 +1,43 @@
+﻿using DigitalWorldOnline.Commons.Models.Character;
+using DigitalWorldOnline.Commons.Writers;
+
+namespace DigitalWorldOnline.Commons.Packets.GameServer
+{
+    public class PartyMemberJoinPacket : PacketWriter
+    {
+        private const int PacketNumber = 2305;
+
+        public PartyMemberJoinPacket(KeyValuePair<byte, CharacterModel> member)
+        {
+            Type(PacketNumber);
+            WriteInt(member.Key);
+            WriteInt(member.Value.Model.GetHashCode());
+            WriteShort(member.Value.Level);
+            WriteString(member.Value.Name);
+            WriteInt(member.Value.Partner.BaseType);
+            WriteShort(member.Value.Partner.Level);
+            WriteString(member.Value.Partner.Name);
+            WriteInt(member.Value.Location.MapId);
+            WriteInt(member.Value.Channel);
+            WriteInt(member.Value.GeneralHandler);
+            WriteInt(member.Value.Partner.GeneralHandler);
+        }
+
+        public PartyMemberJoinPacket(KeyValuePair<byte, CharacterModel> member, bool lider)
+        {
+            Type(PacketNumber);
+
+            WriteInt(member.Key);
+            WriteInt(member.Value.Model.GetHashCode());
+            WriteShort(member.Value.Level);
+            WriteString(member.Value.Name);
+            WriteInt(member.Value.Partner.BaseType);
+            WriteShort(member.Value.Partner.Level);
+            WriteString(member.Value.Partner.Name);
+            WriteInt(member.Value.Location.MapId);
+            WriteInt(member.Value.Channel);
+            WriteInt(member.Value.GeneralHandler);
+            WriteInt(member.Value.Partner.GeneralHandler);
+        }
+    }
+}

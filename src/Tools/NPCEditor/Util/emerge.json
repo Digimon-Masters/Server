@@ -1,0 +1,7 @@
+{
+    "Pack03" : {
+        "path" : [ "data_mod" ],
+        "basic" : "data",
+        "nobasic" : false
+    }
+}

@@ -1,0 +1,54 @@
+<Map Id="1706" Name="Yggdrasills Room (Easy)">
+  <Monster Specie="51213" Name="Death-X-mon">
+    <Location X="12276" Y="12873" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>1100</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1000</DE>
+      <DS>600</DS>
+      <EV>6000</EV>
+      <HP>6000000</HP>
+      <HT>32000</HT>
+      <MS>1100</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51108</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>40704</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51213" Name="Death-X-mon">
+    <Location X="12276" Y="12873" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>1100</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>1000</DE>
+      <DS>600</DS>
+      <EV>6000</EV>
+      <HP>6000000</HP>
+      <HT>32000</HT>
+      <MS>1100</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51108</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>40704</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

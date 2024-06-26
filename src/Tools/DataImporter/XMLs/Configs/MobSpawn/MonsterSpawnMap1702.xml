@@ -1,0 +1,262 @@
+<Map Id="1702" Name="Center Royal Base">
+  <Monster Specie="51147" Name="DexDoruGreymon">
+    <Location X="24179" Y="12375" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="20000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>620</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>3000</DS>
+      <EV>3432</EV>
+      <HP>120000</HP>
+      <HT>25600</HT>
+      <MS>1380</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51106</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51148" Name="Gate">
+    <Location X="19721" Y="12549" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>391</DE>
+      <DS>3000</DS>
+      <EV>3404</EV>
+      <HP>9725600</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>23376</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51149" Name="Gate">
+    <Location X="29522" Y="12527" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>391</DE>
+      <DS>3000</DS>
+      <EV>3404</EV>
+      <HP>9725600</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>23376</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51150" Name="DexDoruGreymons Egg">
+    <Location X="14115" Y="37311" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>250</DE>
+      <DS>3000</DS>
+      <EV>3300</EV>
+      <HP>187400</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>4464</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51151" Name="DexDorugoramon">
+    <Location X="37507" Y="36570" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>3536</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>2500</DE>
+      <DS>4500</DS>
+      <EV>4500</EV>
+      <HP>9925200</HP>
+      <HT>29120</HT>
+      <MS>1556</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>37840</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51147" Name="DexDoruGreymon">
+    <Location X="24179" Y="12375" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="20000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>620</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>3000</DS>
+      <EV>3432</EV>
+      <HP>120000</HP>
+      <HT>25600</HT>
+      <MS>1380</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51106</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>40000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51148" Name="Gate">
+    <Location X="19721" Y="12549" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>391</DE>
+      <DS>3000</DS>
+      <EV>3404</EV>
+      <HP>9725600</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>23376</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51149" Name="Gate">
+    <Location X="29522" Y="12527" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>391</DE>
+      <DS>3000</DS>
+      <EV>3404</EV>
+      <HP>9725600</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>23376</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51150" Name="DexDoruGreymons Egg">
+    <Location X="14115" Y="37311" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>4000</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>250</DE>
+      <DS>3000</DS>
+      <EV>3300</EV>
+      <HP>187400</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>4464</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51151" Name="DexDorugoramon">
+    <Location X="37507" Y="36570" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>3536</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>2500</DE>
+      <DS>4500</DS>
+      <EV>4500</EV>
+      <HP>9925200</HP>
+      <HT>29120</HT>
+      <MS>1556</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>37840</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

@@ -1,0 +1,28 @@
+<Map Id="1" Name="Dats Old">
+	  <Monster Specie="71089 " Name="Yukida">
+		<Location X="29855" Y="22100" Radius="1000" />
+		<Respawn Time="1" KillGen="0" KillCount="0" />
+		<Status Level="65" Sight="600" HuntRange="3500">
+		  <AR>150</AR>
+		  <AS>5000</AS>
+		  <AT>190</AT>
+		  <CC>15</CC>
+		  <CD>2468</CD>
+		  <DE>227</DE>
+		  <DS>744</DS>
+		  <EV>2795</EV>
+		  <HP>933800</HP>
+		  <HT>9000</HT>
+		  <MS>700</MS>
+		  <WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Raid</SubName>
+		<Model>71089 </Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>4064</EXP>
+		<EXPMin>48</EXPMin>
+		<EXPMax>144</EXPMax>
+	  </Monster> 
+</Map>

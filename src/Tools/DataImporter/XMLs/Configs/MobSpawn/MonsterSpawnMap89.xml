@@ -1,0 +1,522 @@
+<Map Id="89" Name="Gomamons Village">
+	<Monster Specie="99797" Name="Tylomon">
+		<Location X="20661" Y="20500" Radius="311"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>300</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>50000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The First Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>16960</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99799" Name="Tylomon">
+		<Location X="20581" Y="20130" Radius="311"/>
+		<Respawn Time="0" KillGen="99797" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>400</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>70000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Second Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>58208</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99801" Name="Tylomon">
+		<Location X="20714" Y="20142" Radius="311"/>
+		<Respawn Time="0" KillGen="99799" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>500</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>80000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Third Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>6</Class>
+		<EXP>33920</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99803" Name="Tylomon">
+		<Location X="20884" Y="20372" Radius="311"/>
+		<Respawn Time="0" KillGen="99801" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>600</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>100000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Fourth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>6</Class>
+		<EXP>9632</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99805" Name="Tylomon">
+		<Location X="20667" Y="20307" Radius="311"/>
+		<Respawn Time="0" KillGen="99803" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>700</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>110000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Fifth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>6</Class>
+		<EXP>50880</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99807" Name="Tylomon">
+		<Location X="20618" Y="20284" Radius="311"/>
+		<Respawn Time="0" KillGen="99805" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>800</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>130000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Sixth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>26592</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99809" Name="Tylomon">
+		<Location X="20612" Y="20265" Radius="311"/>
+		<Respawn Time="0" KillGen="99807" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>900</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>150000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Seventh Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>6</Class>
+		<EXP>2304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99811" Name="Tylomon">
+		<Location X="20909" Y="20543" Radius="311"/>
+		<Respawn Time="0" KillGen="99809" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1000</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>170000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Eighth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>43552</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99813" Name="Tylomon">
+		<Location X="20643" Y="20173" Radius="311"/>
+		<Respawn Time="0" KillGen="99811" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1100</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>190000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Nineth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>19264</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99815" Name="Leviamon">
+		<Location X="20557" Y="20522" Radius="311"/>
+		<Respawn Time="0" KillGen="99813" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1200</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>200000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Gourmand)</SubName>
+		<Model>61155</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>60512</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99797" Name="Tylomon">
+		<Location X="20661" Y="20500" Radius="311"/>
+		<Respawn Time="7200" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>300</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>50000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The First Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>16960</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99799" Name="Tylomon">
+		<Location X="20581" Y="20130" Radius="311"/>
+		<Respawn Time="0" KillGen="99797" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>400</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>70000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Second Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>58208</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99801" Name="Tylomon">
+		<Location X="20714" Y="20142" Radius="311"/>
+		<Respawn Time="0" KillGen="99799" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>500</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>80000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Third Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>6</Class>
+		<EXP>33920</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99803" Name="Tylomon">
+		<Location X="20884" Y="20372" Radius="311"/>
+		<Respawn Time="0" KillGen="99801" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>600</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>100000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Fourth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>6</Class>
+		<EXP>9632</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99805" Name="Tylomon">
+		<Location X="20667" Y="20307" Radius="311"/>
+		<Respawn Time="0" KillGen="99803" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>700</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>110000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Fifth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>6</Class>
+		<EXP>50880</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99807" Name="Tylomon">
+		<Location X="20618" Y="20284" Radius="311"/>
+		<Respawn Time="0" KillGen="99805" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>800</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>130000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Sixth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>26592</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99809" Name="Tylomon">
+		<Location X="20612" Y="20265" Radius="311"/>
+		<Respawn Time="0" KillGen="99807" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>900</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>150000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Seventh Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>-1.5868545E-23</Scale>
+		<Class>6</Class>
+		<EXP>2304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99811" Name="Tylomon">
+		<Location X="20909" Y="20543" Radius="311"/>
+		<Respawn Time="0" KillGen="99809" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1000</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>170000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Eighth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>6</Class>
+		<EXP>43552</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99813" Name="Tylomon">
+		<Location X="20643" Y="20173" Radius="311"/>
+		<Respawn Time="0" KillGen="99811" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1100</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>190000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(The Nineth Gourmet)</SubName>
+		<Model>41057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>19264</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99815" Name="Leviamon">
+		<Location X="20557" Y="20522" Radius="311"/>
+		<Respawn Time="0" KillGen="99813" KillCount="1"/>
+		<Status Level="40" Sight="6000" HuntRange="8000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1200</AT>
+			<CC>15</CC>
+			<CD>5000</CD>
+			<DE>0</DE>
+			<DS>2000</DS>
+			<EV>0</EV>
+			<HP>200000000</HP>
+			<HT>17710</HT>
+			<MS>2380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Gourmand)</SubName>
+		<Model>61155</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>60512</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

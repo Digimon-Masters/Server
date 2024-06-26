@@ -1,0 +1,210 @@
+<Map Id="1613" Name="Descending Thunder God Hard">
+  <Monster Specie="51040" Name="Antylamon">
+    <Location X="31192" Y="14078" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1760</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>15000</DE>
+      <DS>4000</DS>
+      <EV>3000</EV>
+      <HP>10080000</HP>
+      <HT>30000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>47744</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51041" Name="Mihiramon">
+    <Location X="12625" Y="13722" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2116</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>4600</DS>
+      <EV>2988</EV>
+      <HP>13248000</HP>
+      <HT>34500</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28064</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51042" Name="Majiramon">
+    <Location X="13986" Y="31449" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2600</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>6500</DS>
+      <EV>2988</EV>
+      <HP>16848000</HP>
+      <HT>39000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>48960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51043" Name="Qinglongmon">
+    <Location X="30933" Y="31320" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3750</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>9000</DS>
+      <EV>3500</EV>
+      <HP>23040000</HP>
+      <HT>45000</HT>
+      <MS>2800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>63872</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51040" Name="Antylamon">
+    <Location X="31192" Y="14078" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1760</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>15000</DE>
+      <DS>4000</DS>
+      <EV>3000</EV>
+      <HP>10080000</HP>
+      <HT>30000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51095</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>47744</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51041" Name="Mihiramon">
+    <Location X="12625" Y="13722" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2116</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>20000</DE>
+      <DS>4600</DS>
+      <EV>2988</EV>
+      <HP>13248000</HP>
+      <HT>34500</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51096</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28064</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51042" Name="Majiramon">
+    <Location X="13986" Y="31449" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>2600</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>25000</DE>
+      <DS>6500</DS>
+      <EV>2988</EV>
+      <HP>16848000</HP>
+      <HT>39000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>48960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51043" Name="Qinglongmon">
+    <Location X="30933" Y="31320" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="120" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>3750</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>30000</DE>
+      <DS>9000</DS>
+      <EV>3500</EV>
+      <HP>23040000</HP>
+      <HT>45000</HT>
+      <MS>2800</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>63872</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

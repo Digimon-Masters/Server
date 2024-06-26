@@ -1,0 +1,210 @@
+<Map Id="90" Name="D-terminal-Dungeon-B1 - Weekdays">
+	<Monster Specie="99853" Name="Meramon">
+		<Location X="41516" Y="10071" Radius="12147"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>26</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>305</DS>
+			<EV>0</EV>
+			<HP>7000</HP>
+			<HT>1220</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41170</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1424</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99854" Name="Boltmon">
+		<Location X="7137" Y="37407" Radius="1262"/>
+		<Respawn Time="1" KillGen="99853" KillCount="100"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>71</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>455</DS>
+			<EV>0</EV>
+			<HP>29350</HP>
+			<HT>2610</HT>
+			<MS>610</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>61600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99853" Name="Meramon">
+		<Location X="41516" Y="10071" Radius="12147"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>26</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>305</DS>
+			<EV>0</EV>
+			<HP>7000</HP>
+			<HT>1220</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41170</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1424</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99853" Name="Meramon">
+		<Location X="41516" Y="10071" Radius="12147"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>26</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>305</DS>
+			<EV>0</EV>
+			<HP>7000</HP>
+			<HT>1220</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41170</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1424</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99853" Name="Meramon">
+		<Location X="41516" Y="10071" Radius="12147"/>
+		<Respawn Time="15" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>26</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>305</DS>
+			<EV>0</EV>
+			<HP>7000</HP>
+			<HT>1220</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Detached Force)</SubName>
+		<Model>41170</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>2</Class>
+		<EXP>1424</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99854" Name="Boltmon">
+		<Location X="7137" Y="37407" Radius="1262"/>
+		<Respawn Time="1" KillGen="99853" KillCount="100"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>71</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>455</DS>
+			<EV>0</EV>
+			<HP>29350</HP>
+			<HT>2610</HT>
+			<MS>610</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>61600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99854" Name="Boltmon">
+		<Location X="7137" Y="37407" Radius="1262"/>
+		<Respawn Time="1" KillGen="99853" KillCount="100"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>71</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>455</DS>
+			<EV>0</EV>
+			<HP>29350</HP>
+			<HT>2610</HT>
+			<MS>610</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>61600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Specie="99854" Name="Boltmon">
+		<Location X="7137" Y="37407" Radius="1262"/>
+		<Respawn Time="1" KillGen="99853" KillCount="100"/>
+		<Status Level="90" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>71</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>455</DS>
+			<EV>0</EV>
+			<HP>29350</HP>
+			<HT>2610</HT>
+			<MS>610</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>61600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

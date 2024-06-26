@@ -1,0 +1,3278 @@
+<Map Id="1401" Name="Server Continent Canyon">
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45324" Name="HiAndromon">
+    <Location X="20126" Y="31703" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>630</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>648290</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Observers)</SubName>
+    <Model>61020</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45325" Name="Murmukusmon">
+    <Location X="3709" Y="13088" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>649210</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guards)</SubName>
+    <Model>61044</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45326" Name="Slayerdramon">
+    <Location X="10114" Y="20700" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="98" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>670</AT>
+      <CC>15</CC>
+      <CD>1841</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2582</EV>
+      <HP>674420</HP>
+      <HT>3816</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Commanders)</SubName>
+    <Model>61032</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45328" Name="Gazimon">
+    <Location X="25935" Y="18271" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Commanders)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45330" Name="Cherrymon">
+    <Location X="16372" Y="15687" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45331" Name="Cherrymon">
+    <Location X="14994" Y="14376" Radius="1157" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45310" Name="Psychemon">
+    <Location X="31856" Y="34820" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45311" Name="Psychemon">
+    <Location X="29370" Y="31878" Radius="1579" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>35145</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45312" Name="Monochromon">
+    <Location X="39243" Y="25642" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45313" Name="Monochromon">
+    <Location X="38429" Y="23343" Radius="1262" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>50780</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>45169</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45314" Name="PicoDevimon">
+    <Location X="35947" Y="8442" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>500</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45315" Name="PicoDevimon">
+    <Location X="35007" Y="5519" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>31067</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45316" Name="Vegiemon">
+    <Location X="33506" Y="13123" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45317" Name="Vegiemon">
+    <Location X="30463" Y="11179" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>220</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41167</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45318" Name="Tonosama Gekomon">
+    <Location X="19593" Y="11055" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45319" Name="Tonosama Gekomon">
+    <Location X="16718" Y="7550" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>52153</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45320" Name="Roachmon">
+    <Location X="8801" Y="40177" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45321" Name="Roachmon">
+    <Location X="6550" Y="39053" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41165</Model>
+    <Scale>-107726056</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45322" Name="Strikedramon">
+    <Location X="7910" Y="33611" Radius="1474" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>470</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45323" Name="Strikedramon">
+    <Location X="5192" Y="29335" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="93" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>490</AT>
+      <CC>15</CC>
+      <CD>987</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1948</EV>
+      <HP>50780</HP>
+      <HT>2046</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41013</Model>
+    <Scale>4.1786382E-08</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45324" Name="HiAndromon">
+    <Location X="20126" Y="31703" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>630</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>648290</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Observers)</SubName>
+    <Model>61020</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45324" Name="HiAndromon">
+    <Location X="20126" Y="31703" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>630</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>648290</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Observers)</SubName>
+    <Model>61020</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45324" Name="HiAndromon">
+    <Location X="20126" Y="31703" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>630</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>648290</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Observers)</SubName>
+    <Model>61020</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45324" Name="HiAndromon">
+    <Location X="20126" Y="31703" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>630</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>648290</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Observers)</SubName>
+    <Model>61020</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45325" Name="Murmukusmon">
+    <Location X="3709" Y="13088" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>649210</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guards)</SubName>
+    <Model>61044</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45325" Name="Murmukusmon">
+    <Location X="3709" Y="13088" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>649210</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guards)</SubName>
+    <Model>61044</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45325" Name="Murmukusmon">
+    <Location X="3709" Y="13088" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="97" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1829</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2571</EV>
+      <HP>649210</HP>
+      <HT>3791</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guards)</SubName>
+    <Model>61044</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45326" Name="Slayerdramon">
+    <Location X="10114" Y="20700" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="98" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>670</AT>
+      <CC>15</CC>
+      <CD>1841</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2582</EV>
+      <HP>674420</HP>
+      <HT>3816</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Commanders)</SubName>
+    <Model>61032</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45326" Name="Slayerdramon">
+    <Location X="10114" Y="20700" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="98" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>670</AT>
+      <CC>15</CC>
+      <CD>1841</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2582</EV>
+      <HP>674420</HP>
+      <HT>3816</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Commanders)</SubName>
+    <Model>61032</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45326" Name="Slayerdramon">
+    <Location X="10114" Y="20700" Radius="1051" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="98" Sight="800" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>670</AT>
+      <CC>15</CC>
+      <CD>1841</CD>
+      <DE>300</DE>
+      <DS>868</DS>
+      <EV>2582</EV>
+      <HP>674420</HP>
+      <HT>3816</HT>
+      <MS>1300</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Commanders)</SubName>
+    <Model>61032</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>4</Class>
+    <EXP>20888</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45328" Name="Gazimon">
+    <Location X="25935" Y="18271" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Commanders)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45328" Name="Gazimon">
+    <Location X="25935" Y="18271" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Commanders)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45328" Name="Gazimon">
+    <Location X="25935" Y="18271" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Commanders)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45329" Name="Gazimon">
+    <Location X="28763" Y="18034" Radius="1368" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>33068</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45330" Name="Cherrymon">
+    <Location X="16372" Y="15687" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45330" Name="Cherrymon">
+    <Location X="16372" Y="15687" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45330" Name="Cherrymon">
+    <Location X="16372" Y="15687" Radius="1000" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45331" Name="Cherrymon">
+    <Location X="14994" Y="14376" Radius="1157" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45331" Name="Cherrymon">
+    <Location X="14994" Y="14376" Radius="1157" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45331" Name="Cherrymon">
+    <Location X="14994" Y="14376" Radius="1157" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45331" Name="Cherrymon">
+    <Location X="14994" Y="14376" Radius="1157" />
+    <Respawn Time="8" KillGen="0" KillCount="0" />
+    <Status Level="92" Sight="600" HuntRange="1500">
+      <AR>150</AR>
+      <AS>3800</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>980</CD>
+      <DE>250</DE>
+      <DS>868</DS>
+      <EV>1940</EV>
+      <HP>49800</HP>
+      <HT>2030</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51043</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>1</Class>
+    <EXP>43568</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+</Map>

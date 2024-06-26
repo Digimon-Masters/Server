@@ -1,0 +1,54 @@
+<Map Id="200" Name="CampSite">
+  <Monster Specie="17000" Name="Fruit Tree">
+    <Location X="3241" Y="11623" Radius="100" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="1" Sight="10" HuntRange="0">
+      <AR>100</AR>
+      <AS>10</AS>
+      <AT>1</AT>
+      <CC>15</CC>
+      <CD>10</CD>
+      <DE>2</DE>
+      <DS>10</DS>
+      <EV>10</EV>
+      <HP>10</HP>
+      <HT>10</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Destroyer)</SubName>
+    <Model>17000</Model>
+    <Scale>-107201770</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>0</EXPMin>
+    <EXPMax>0</EXPMax>
+  </Monster>
+  <Monster Specie="17000" Name="Fruit Tree">
+    <Location X="3241" Y="11623" Radius="100" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="1" Sight="10" HuntRange="0">
+      <AR>100</AR>
+      <AS>10</AS>
+      <AT>1</AT>
+      <CC>15</CC>
+      <CD>10</CD>
+      <DE>2</DE>
+      <DS>10</DS>
+      <EV>10</EV>
+      <HP>10</HP>
+      <HT>10</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Destroyer)</SubName>
+    <Model>17000</Model>
+    <Scale>-107201770</Scale>
+    <Class>1</Class>
+    <EXP>1</EXP>
+    <EXPMin>0</EXPMin>
+    <EXPMax>0</EXPMax>
+  </Monster>
+</Map>

@@ -1,0 +1,210 @@
+<Map Id="1607" Name="Descending Thunder God Easy">
+  <Monster Specie="51103" Name="Antylamon">
+    <Location X="31126" Y="13927" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>616</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>31500</DE>
+      <DS>2000</DS>
+      <EV>2100</EV>
+      <HP>8820000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51095</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>56032</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51104" Name="Mihiramon">
+    <Location X="12505" Y="13600" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>644</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>42000</DE>
+      <DS>2000</DS>
+      <EV>1750</EV>
+      <HP>10080000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51096</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>14240</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51105" Name="Majiramon">
+    <Location X="14356" Y="31315" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>700</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>52500</DE>
+      <DS>2500</DS>
+      <EV>1750</EV>
+      <HP>11340000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>56032</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51106" Name="Qinglongmon">
+    <Location X="31081" Y="31150" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>875</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>63000</DE>
+      <DS>3000</DS>
+      <EV>2450</EV>
+      <HP>13440000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>17088</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51103" Name="Antylamon">
+    <Location X="31126" Y="13927" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>616</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>31500</DE>
+      <DS>2000</DS>
+      <EV>2100</EV>
+      <HP>8820000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51095</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>56032</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51104" Name="Mihiramon">
+    <Location X="12505" Y="13600" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>644</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>42000</DE>
+      <DS>2000</DS>
+      <EV>1750</EV>
+      <HP>10080000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51096</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>14240</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51105" Name="Majiramon">
+    <Location X="14356" Y="31315" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>700</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>52500</DE>
+      <DS>2500</DS>
+      <EV>1750</EV>
+      <HP>11340000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51097</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>56032</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51106" Name="Qinglongmon">
+    <Location X="31081" Y="31150" Radius="500" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>875</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>63000</DE>
+      <DS>3000</DS>
+      <EV>2450</EV>
+      <HP>13440000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Defense)</SubName>
+    <Model>51098</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>17088</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

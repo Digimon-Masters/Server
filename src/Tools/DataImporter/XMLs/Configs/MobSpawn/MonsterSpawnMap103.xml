@@ -1,0 +1,132 @@
+<Map Id="103" Name="Burning Time - Weekends">
+  <Monster Specie="99837" Name="WaruMonzaemon">
+    <Location X="37364" Y="34179" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>33</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>355</DS>
+      <EV>0</EV>
+      <HP>8850</HP>
+      <HT>1570</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Bitter)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>44096</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99838" Name="MugenDramon">
+    <Location X="27176" Y="35284" Radius="1900" />
+    <Respawn Time="10" KillGen="99837" KillCount="100" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>82</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>505</DS>
+      <EV>0</EV>
+      <HP>34050</HP>
+      <HT>3100</HT>
+      <MS>640</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Wish to receive anything)</SubName>
+    <Model>61043</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>36224</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99837" Name="WaruMonzaemon">
+    <Location X="37364" Y="34179" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>33</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>355</DS>
+      <EV>0</EV>
+      <HP>8850</HP>
+      <HT>1570</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Bitter)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>44096</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99837" Name="WaruMonzaemon">
+    <Location X="37364" Y="34179" Radius="1900" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>33</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>355</DS>
+      <EV>0</EV>
+      <HP>8850</HP>
+      <HT>1570</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Bitter)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>44096</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99838" Name="MugenDramon">
+    <Location X="27176" Y="35284" Radius="1900" />
+    <Respawn Time="10" KillGen="99837" KillCount="100" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>82</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>505</DS>
+      <EV>0</EV>
+      <HP>34050</HP>
+      <HT>3100</HT>
+      <MS>640</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Wish to receive anything)</SubName>
+    <Model>61043</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>36224</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+</Map>

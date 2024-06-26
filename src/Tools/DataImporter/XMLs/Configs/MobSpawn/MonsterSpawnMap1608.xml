@@ -1,0 +1,54 @@
+<Map Id="1608" Name="Fanglongmon Dungeon Underground">
+  <Monster Specie="51179" Name="Fanglongmon">
+    <Location X="16098" Y="13542" Radius="945" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>8800</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>3000</DE>
+      <DS>1200</DS>
+      <EV>7000</EV>
+      <HP>96000000</HP>
+      <HT>32000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51099</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>33920</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51179" Name="Fanglongmon">
+    <Location X="16098" Y="13542" Radius="945" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>2500</AS>
+      <AT>8800</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>3000</DE>
+      <DS>1200</DS>
+      <EV>7000</EV>
+      <HP>96000000</HP>
+      <HT>32000</HT>
+      <MS>2500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51099</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>33920</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

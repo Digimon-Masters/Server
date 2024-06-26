@@ -1,0 +1,13 @@
+<GeneralSettings>
+	<HatchRate>
+		<Hatch Level="3" Fail="10" Broken="0" />
+		<Hatch Level="4" Fail="20" Broken="5" />
+		<Hatch Level="5" Fail="25" Broken="10" />
+	</HatchRate>
+	<StartPosition>
+		<Position MapId="105" X="12345" Y="12345" />
+	</StartPosition>
+	<StartItens>
+		<Item Id="50" Amount="1" />
+	</StartItens>
+</GeneralSettings>

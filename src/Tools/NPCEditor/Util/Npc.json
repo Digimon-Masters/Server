@@ -1,0 +1,429 @@
+{
+	"table": "DMO NPC",
+	"desc": "Digimon Masters Online NPC table",
+	"endianess": "little",
+	"default-encoding": "UTF-16",
+	"default-string-method": "Size",
+	"author": "Arves100",
+	"version": "487",
+	"comment": "MISDMO CsFileTable ref main/Libraries/CsFileTable/Npc.h@6c9e4aee50797ff0ddaf5dce078c9dd1690ff90a.(C) 2022 Arves100/Made In Server Developers.",
+	"main": "NpcTable",
+	"fileregex": "Npc.bin",
+	"api": 1,
+	"dynamic-size": 4,
+	
+	"types": [
+		{
+			"name": "DisplayInfo",
+			"type": "flags",
+			"size": "uint32",
+			"values": [
+				"None",
+				"ZoomView",
+				"Information"
+			]
+		},
+		{
+			"name": "NpcType",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"None",
+				"Shop",
+				"EggScan",
+				"Portal",
+				"Incubator",
+				"EquipmentMerge",
+				"Storage",
+				"DigimonStorage",
+				"GuildShop",
+				"DigicoreShop",
+				"CapsuleMachine",
+				"Unknown_11",
+				"EventShop",
+				"DatsPortal",
+				"AttributeShopMerchant",
+				"RareMachine",
+				"MastersMatchStore",
+				"Unknown_17",
+				"SpiritShop",
+				"SpecialEvent",
+				"Crafting",
+				"BattleMatch",
+				"AreaAdmission",
+				"ArenaBoard",
+				"ExtraEvolution"
+			]
+		},
+		{
+			"name": "SpecialType",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"None",
+				"PiedmonCardGame",
+				"PuppetmonCardGame"
+			],
+			"note": "Puppetmon: https://www.youtube.com/watch?v=H9mtPiYjFUw"
+		},
+		{
+			"name": "ExtraType",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"Quest"
+			]
+		},
+		{
+			"name": "NpcMove",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"No",
+				"Yes"
+			]
+		},
+		{
+			"name": "PortalRequirementsType",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"None",
+				"Item",
+				"Quest",
+				"TamerMinLevel",
+				"Bits",
+				"TamerMaxLevel",
+				"DigimonMinLevel",
+				"DigimonMaxLevel"
+			]
+		},
+		{
+			"name": "NpcShowState",
+			"type": "enum",
+			"size": "uint32",
+			"values" : [
+				"Hide",
+				"Show"
+			]
+		},
+		{
+			"name": "QuestCompleteType",
+			"type": "enum",
+			"size": "uint32",
+			"values": [
+				"Complete",
+				"GroupComplete"
+			]
+		},
+		{
+			"name": "StoreInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Items",
+					"type": "uint32",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		},
+		{
+			"name": "PortalRequirements",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Type",
+					"type": "PortalRequirementsType"
+				},
+				{
+					"name": "Id",
+					"type": "uint32"
+				},
+				{
+					"name": "Count",
+					"type": "uint32"
+				}
+			]
+		},
+		{
+			"name": "PortalDataInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "_Unk",
+					"type": "int32"
+				},
+				{
+					"name": "Requirements",
+					"type": "PortalRequirements",
+					"array": true,
+					"size": 3
+				}
+			]
+		},
+		{
+			"name": "PortalInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "_Unk",
+					"type": "int32"
+				},
+				{
+					"name": "Data",
+					"type": "PortalDataInfo",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		},
+		{
+			"name": "QuestActions",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "CompleteType",
+					"type": "QuestCompleteType"
+				},
+				{
+					"name": "ShowAfterCompleted",
+					"type": "NpcShowState"
+				},
+				{
+					"name": "QuestList",
+					"type": "int32",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		},
+		{
+			"name": "QuestInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "ShouldShow",
+					"type": "NpcShowState"
+				},
+				{
+					"name": "StateChangeAction",
+					"type": "QuestActions",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		},
+		{
+			"name": "SpecialInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Type",
+					"type": "SpecialType"
+				},
+				{
+					"name": "Items",
+					"type": "uint32",
+					"array": true,
+					"dynamic": true,
+					"condition": "Type == SpecialType.PuppetmonCardGame"
+				}
+			]
+		},
+		{
+			"name": "NpcInfo2",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "TypeEx",
+					"type": "ExtraType"
+				},
+				{
+					"name": "Quest",
+					"type": "QuestInfo",
+					"condition": "TypeEx == ExtraType.Quest"
+				}
+			]
+		},
+		{
+			"name": "NpcInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Id",
+					"type": "uint32"
+				},
+				{
+					"name": "MapId",
+					"type": "uint32"
+				},
+				{
+					"name": "Type",
+					"type": "NpcType"
+				},
+				{
+					"name": "DoesMove",
+					"type": "NpcMove"
+				},
+				{
+					"name": "DisplayInfo",
+					"type": "DisplayInfo"
+				},
+				{
+					"name": "ModelId",
+					"type": "uint32"
+				},
+				{
+					"name": "TitleName",
+					"type": "string",
+					"size": 32
+				},
+				{
+					"name": "Name",
+					"type": "string",
+					"size": 32
+				},
+				{
+					"name": "TalkPopup",
+					"type": "string",
+					"size": 512
+				},
+				{
+					"name": "Portal",
+					"type": "PortalInfo",
+					"condition": "Type == NpcType.Portal"
+				},
+				{
+					"name": "Store",
+					"type": "StoreInfo",
+					"condition": "Type == NpcType.Shop || Type == NpcType.DigicoreShop || Type == NpcType.GuildShop || Type == NpcType.EventShop || Type == NpcType.AttributeShopMerchant || Type == NpcType.MastersMatchStore"
+				},
+				{
+					"name": "Special",
+					"type": "SpecialInfo",
+					"condition": "Type == NpcType.SpecialEvent"
+				},
+				{
+					"name": "ExtraInfo",
+					"type": "NpcInfo2",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		},
+		{
+			"name": "ModelInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Id",
+					"type": "uint32"
+				},
+				{
+					"name": "_Unk",
+					"type": "uint16"
+				},
+				{
+					"name": "_Unk2",
+					"type": "uint16"
+				},
+				{
+					"name": "_Unk3",
+					"type": "uint16"
+				},
+				{
+					"name": "_Unk4",
+					"type": "string",
+					"size": 64
+				},
+				{
+					"name": "Padding",
+					"type": "uint16",
+					"padding": true
+				}
+			]	
+		},
+		{
+			"name": "CardInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Id",
+					"type": "uint32"
+				},
+				{
+					"name": "Count",
+					"type": "int16"
+				},
+				{
+					"name": "Padding",
+					"type": "int16",
+					"padding": true
+				}
+			]
+		},
+		{
+			"name": "EventInfo",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Id",
+					"type": "uint32"
+				},
+				{
+					"name": "Attempts",
+					"type": "uint16"
+				},
+				{
+					"name": "Padding",
+					"type": "uint16",
+					"padding": true
+				},
+				{
+					"name": "BitsToPay",
+					"type": "uint32"
+				},
+				{
+					"name": "ItemToConsume",
+					"type": "uint32",
+					"note": "Item what?"
+				},
+				{
+					"name": "ItemConsumeCount",
+					"type": "uint32"
+				},
+				{
+					"name": "Items",
+					"type": "CardInfo",
+					"array": true,
+					"size": 5
+				}
+			]
+		},
+		{
+			"name": "NpcTable",
+			"type": "struct",
+			"fields": [
+				{
+					"name": "Npcs",
+					"type": "NpcInfo",
+					"array": true,
+					"dynamic": true
+				},
+				{
+					"name": "Models",
+					"type": "ModelInfo",
+					"array": true,
+					"dynamic": true
+				},
+				{
+					"name": "EventData",
+					"type": "EventInfo",
+					"array": true,
+					"dynamic": true
+				}
+			]
+		}
+	]
+}

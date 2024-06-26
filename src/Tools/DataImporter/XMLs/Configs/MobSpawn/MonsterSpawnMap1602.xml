@@ -1,0 +1,470 @@
+<Map Id="1602" Name="Trace of Black Steel">
+  <Monster Specie="51089" Name="Red Stone Monument">
+    <Location X="52157" Y="19410" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51090" Name="Sinduramon">
+    <Location X="12549" Y="17073" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>880</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>25000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>3840000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51091" Name="Kiwimon">
+    <Location X="30531" Y="16172" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>2000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2500</DS>
+      <EV>2988</EV>
+      <HP>960000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51091</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>13568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51092" Name="Blossomon">
+    <Location X="34334" Y="16075" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1000</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>25000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>5040000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51092</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51093" Name="Gryphonmon">
+    <Location X="49943" Y="16766" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>2300</AS>
+      <AT>900</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2500</DS>
+      <EV>2988</EV>
+      <HP>1320000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>21568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51094" Name="Baihumon">
+    <Location X="52063" Y="17913" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1250</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>30000</DE>
+      <DS>3000</DS>
+      <EV>3500</EV>
+      <HP>6600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28480</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51095" Name="Sinduramon">
+    <Location X="14920" Y="15679" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>880</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>1440000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51096" Name="Red Stone Monument">
+    <Location X="48744" Y="14368" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51097" Name="Red Stone Monument">
+    <Location X="55888" Y="15414" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51089" Name="Red Stone Monument">
+    <Location X="52157" Y="19410" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Attack)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51090" Name="Sinduramon">
+    <Location X="12549" Y="17073" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>880</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>25000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>3840000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51091" Name="Kiwimon">
+    <Location X="30531" Y="16172" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>2000</AS>
+      <AT>1200</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2500</DS>
+      <EV>2988</EV>
+      <HP>960000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51091</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>13568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51092" Name="Blossomon">
+    <Location X="34334" Y="16075" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1000</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>25000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>5040000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51092</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51093" Name="Gryphonmon">
+    <Location X="49943" Y="16766" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>2300</AS>
+      <AT>900</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2500</DS>
+      <EV>2988</EV>
+      <HP>1320000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51093</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>21568</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51094" Name="Baihumon">
+    <Location X="52063" Y="17913" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>1250</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>30000</DE>
+      <DS>3000</DS>
+      <EV>3500</EV>
+      <HP>6600000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51094</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>28480</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51095" Name="Sinduramon">
+    <Location X="14920" Y="15679" Radius="100" />
+    <Respawn Time="43200" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="8000" HuntRange="20000">
+      <AR>550</AR>
+      <AS>3000</AS>
+      <AT>880</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>20000</DE>
+      <DS>2000</DS>
+      <EV>2988</EV>
+      <HP>1440000</HP>
+      <HT>15000</HT>
+      <MS>2000</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Attack)</SubName>
+    <Model>51090</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>57792</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51096" Name="Red Stone Monument">
+    <Location X="48744" Y="14368" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Skill)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51097" Name="Red Stone Monument">
+    <Location X="55888" Y="15414" Radius="100" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="10000" HuntRange="0">
+      <AR>10000</AR>
+      <AS>30000</AS>
+      <AT>5</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>10000</DE>
+      <DS>1500</DS>
+      <EV>2988</EV>
+      <HP>60000</HP>
+      <HT>5340</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Defense)</SubName>
+    <Model>16051</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

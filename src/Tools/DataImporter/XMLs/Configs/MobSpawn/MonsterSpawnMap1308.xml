@@ -1,0 +1,470 @@
+<Map Id="1308" Name="Infinite Mountain instanceDungeon">
+  <Monster Specie="45177" Name="Ogremon">
+    <Location X="4802" Y="10381" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>361</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>215</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>1420420</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45155</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45178" Name="Leomon">
+    <Location X="9408" Y="9097" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>363</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>510</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>1900420</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45179" Name="Devimon">
+    <Location X="16541" Y="9924" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>365</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>525</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>2090460</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45156</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45180" Name="Ogremon">
+    <Location X="5113" Y="6573" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>150</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>150</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>382040</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45155</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45181" Name="Leomon">
+    <Location X="10544" Y="7496" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>153</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>153</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>458450</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45153</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45182" Name="Devimon">
+    <Location X="16225" Y="10889" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>156</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>156</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>550140</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45156</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45183" Name="Ogremon">
+    <Location X="3608" Y="9163" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>351</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>120</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>382040</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45155</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45184" Name="Leomon">
+    <Location X="10422" Y="10364" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>358</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>122</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>458450</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45185" Name="Devimon">
+    <Location X="17153" Y="9197" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>365</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>125</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>550140</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45156</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45177" Name="Ogremon">
+    <Location X="4802" Y="10381" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>361</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>215</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>1420420</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45155</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45178" Name="Leomon">
+    <Location X="9408" Y="9097" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>363</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>510</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>1900420</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45179" Name="Devimon">
+    <Location X="16541" Y="9924" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="3500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>365</AT>
+      <CC>15</CC>
+      <CD>3609</CD>
+      <DE>525</DE>
+      <DS>744</DS>
+      <EV>3386</EV>
+      <HP>2090460</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Crack of Devimon)</SubName>
+    <Model>45156</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>14525</EXP>
+    <EXPMin>48</EXPMin>
+    <EXPMax>144</EXPMax>
+  </Monster>
+  <Monster Specie="45180" Name="Ogremon">
+    <Location X="5113" Y="6573" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>150</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>150</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>382040</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45155</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45181" Name="Leomon">
+    <Location X="10544" Y="7496" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>153</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>153</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>458450</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45153</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45182" Name="Devimon">
+    <Location X="16225" Y="10889" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>156</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>156</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>550140</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Patroller)</SubName>
+    <Model>45156</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45183" Name="Ogremon">
+    <Location X="3608" Y="9163" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>351</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>120</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>382040</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45155</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45184" Name="Leomon">
+    <Location X="10422" Y="10364" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>358</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>122</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>458450</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45153</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+  <Monster Specie="45185" Name="Devimon">
+    <Location X="17153" Y="9197" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="700" HuntRange="2000">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>365</AT>
+      <CC>15</CC>
+      <CD>2578</CD>
+      <DE>125</DE>
+      <DS>744</DS>
+      <EV>2988</EV>
+      <HP>550140</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Subordinate)</SubName>
+    <Model>45156</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>12450</EXP>
+    <EXPMin>36</EXPMin>
+    <EXPMax>108</EXPMax>
+  </Monster>
+</Map>

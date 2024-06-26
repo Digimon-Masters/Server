@@ -1,0 +1,2264 @@
+<Map Id="2103" Name="Distorted Data Village">
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61475" Name="MetalEtemon">
+    <Location X="19961" Y="34137" Radius="8765" />
+    <Respawn Time="5" KillGen="61473" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>540</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(King of Digimon)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61611" Name="HiAndromon">
+    <Location X="28346" Y="27650" Radius="2108" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>541</DS>
+      <EV>1536</EV>
+      <HP>4560</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>61020</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61612" Name="HiAndromon">
+    <Location X="29699" Y="25360" Radius="2213" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>41</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5470</HP>
+      <HT>1130</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61020</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61624" Name="Vikemon">
+    <Location X="40570" Y="24748" Radius="8765" />
+    <Respawn Time="5" KillGen="61621" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>541</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Army Defector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="62152" Name="Mephismon">
+    <Location X="24112" Y="11794" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>3129</CD>
+      <DE>560</DE>
+      <DS>541</DS>
+      <EV>3145</EV>
+      <HP>1080000</HP>
+      <HT>6475</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>52150</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71017" Name="ShadowSeraphimon">
+    <Location X="35986" Y="32980" Radius="1000" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2590</EV>
+      <HP>180000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71030</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71019" Name="Seraphimon">
+    <Location X="25866" Y="20801" Radius="1000" />
+    <Respawn Time="300" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>340</AT>
+      <CC>15</CC>
+      <CD>1739</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2504</EV>
+      <HP>780000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>61031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71036" Name="Apemon">
+    <Location X="17475" Y="29389" Radius="4855" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="55" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1440</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2250</EV>
+      <HP>420000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>41047</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71043" Name="Millenniumon">
+    <Location X="27710" Y="32613" Radius="1474" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Psychic)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51711" Name="MegaKabuterimon">
+    <Location X="33662" Y="39990" Radius="4961" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>52</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5400</HP>
+      <HT>1240</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Madleomons Minion)</SubName>
+    <Model>51037</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="51712" Name="MegaKabuterimon">
+    <Location X="39619" Y="37645" Radius="8237" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3700</AS>
+      <AT>230</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>55</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>6480</HP>
+      <HT>1450</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51037</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61473" Name="MetalEtemon">
+    <Location X="14798" Y="30988" Radius="4221" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>540</DS>
+      <EV>1526</EV>
+      <HP>3630</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61474" Name="MetalEtemon">
+    <Location X="19576" Y="38531" Radius="8977" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>540</DS>
+      <EV>1536</EV>
+      <HP>4350</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61475" Name="MetalEtemon">
+    <Location X="19961" Y="34137" Radius="8765" />
+    <Respawn Time="5" KillGen="61473" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>540</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(King of Digimon)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="61475" Name="MetalEtemon">
+    <Location X="19961" Y="34137" Radius="8765" />
+    <Respawn Time="5" KillGen="61473" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>100</AR>
+      <AS>2800</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>540</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(King of Digimon)</SubName>
+    <Model>61045</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61511" Name="MetalGarurumon">
+    <Location X="14362" Y="21264" Radius="4538" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="58" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>206</AT>
+      <CC>15</CC>
+      <CD>590</CD>
+      <DE>39</DE>
+      <DS>541</DS>
+      <EV>1516</EV>
+      <HP>4560</HP>
+      <HT>1000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Chaser)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>32892</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61512" Name="MetalGarurumon">
+    <Location X="20280" Y="19081" Radius="10456" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="60" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>212</AT>
+      <CC>15</CC>
+      <CD>600</CD>
+      <DE>43</DE>
+      <DS>541</DS>
+      <EV>1526</EV>
+      <HP>5470</HP>
+      <HT>1105</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61148</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>44392</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61611" Name="HiAndromon">
+    <Location X="28346" Y="27650" Radius="2108" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>541</DS>
+      <EV>1536</EV>
+      <HP>4560</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>61020</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61611" Name="HiAndromon">
+    <Location X="28346" Y="27650" Radius="2108" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="62" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>218</AT>
+      <CC>15</CC>
+      <CD>609</CD>
+      <DE>47</DE>
+      <DS>541</DS>
+      <EV>1536</EV>
+      <HP>4560</HP>
+      <HT>1115</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Card Digimon)</SubName>
+    <Model>61020</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>55992</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61612" Name="HiAndromon">
+    <Location X="29699" Y="25360" Radius="2213" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="64" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>224</AT>
+      <CC>15</CC>
+      <CD>619</CD>
+      <DE>41</DE>
+      <DS>541</DS>
+      <EV>1546</EV>
+      <HP>5470</HP>
+      <HT>1130</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61020</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>2056</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61621" Name="Vikemon">
+    <Location X="41716" Y="26403" Radius="5278" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="66" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>240</AT>
+      <CC>15</CC>
+      <CD>710</CD>
+      <DE>57</DE>
+      <DS>541</DS>
+      <EV>1650</EV>
+      <HP>4560</HP>
+      <HT>1178</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Protector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>13656</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61622" Name="Vikemon">
+    <Location X="45423" Y="25097" Radius="7814" />
+    <Respawn Time="20" KillGen="0" KillCount="0" />
+    <Status Level="68" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>246</AT>
+      <CC>15</CC>
+      <CD>723</CD>
+      <DE>61</DE>
+      <DS>541</DS>
+      <EV>1662</EV>
+      <HP>5470</HP>
+      <HT>1210</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>25256</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="61624" Name="Vikemon">
+    <Location X="40570" Y="24748" Radius="8765" />
+    <Respawn Time="5" KillGen="61621" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>541</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Army Defector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="61624" Name="Vikemon">
+    <Location X="40570" Y="24748" Radius="8765" />
+    <Respawn Time="5" KillGen="61621" KillCount="20" />
+    <Status Level="73" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2200</AS>
+      <AT>307</AT>
+      <CC>15</CC>
+      <CD>1517</CD>
+      <DE>95</DE>
+      <DS>541</DS>
+      <EV>2337</EV>
+      <HP>34800</HP>
+      <HT>1290</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Army Defector)</SubName>
+    <Model>61050</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>4</Class>
+    <EXP>31696</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="62152" Name="Mephismon">
+    <Location X="24112" Y="11794" Radius="100" />
+    <Respawn Time="6" KillGen="0" KillCount="0" />
+    <Status Level="79" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>450</AT>
+      <CC>15</CC>
+      <CD>3129</CD>
+      <DE>560</DE>
+      <DS>541</DS>
+      <EV>3145</EV>
+      <HP>1080000</HP>
+      <HT>6475</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>52150</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71017" Name="ShadowSeraphimon">
+    <Location X="35986" Y="32980" Radius="1000" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>650</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2590</EV>
+      <HP>180000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>71030</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>41248</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71019" Name="Seraphimon">
+    <Location X="25866" Y="20801" Radius="1000" />
+    <Respawn Time="300" KillGen="0" KillCount="0" />
+    <Status Level="90" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>340</AT>
+      <CC>15</CC>
+      <CD>1739</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2504</EV>
+      <HP>780000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>61031</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71036" Name="Apemon">
+    <Location X="17475" Y="29389" Radius="4855" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="55" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>1440</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>2250</EV>
+      <HP>420000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>41047</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71043" Name="Millenniumon">
+    <Location X="27710" Y="32613" Radius="1474" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Psychic)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71043" Name="Millenniumon">
+    <Location X="27710" Y="32613" Radius="1474" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Psychic)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71043" Name="Millenniumon">
+    <Location X="27710" Y="32613" Radius="1474" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Psychic)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

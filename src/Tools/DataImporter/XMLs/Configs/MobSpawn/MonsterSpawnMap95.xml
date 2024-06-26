@@ -1,0 +1,210 @@
+<Map Id="95" Name="D-terminal-Dungeon-B3 - Weekends">
+  <Monster Specie="99863" Name="Musyamon">
+    <Location X="33186" Y="28280" Radius="945" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>65</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>375</DS>
+      <EV>0</EV>
+      <HP>21900</HP>
+      <HT>3878</HT>
+      <MS>560</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Detached Force)</SubName>
+    <Model>41054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34312</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99864" Name="Asuramon">
+    <Location X="32941" Y="29938" Radius="1262" />
+    <Respawn Time="1" KillGen="99863" KillCount="100" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>161</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>525</DS>
+      <EV>0</EV>
+      <HP>84200</HP>
+      <HT>7657</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51057</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>37664</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99863" Name="Musyamon">
+    <Location X="33186" Y="28280" Radius="945" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>65</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>375</DS>
+      <EV>0</EV>
+      <HP>21900</HP>
+      <HT>3878</HT>
+      <MS>560</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Detached Force)</SubName>
+    <Model>41054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34312</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99863" Name="Musyamon">
+    <Location X="33186" Y="28280" Radius="945" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>65</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>375</DS>
+      <EV>0</EV>
+      <HP>21900</HP>
+      <HT>3878</HT>
+      <MS>560</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Detached Force)</SubName>
+    <Model>41054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34312</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99863" Name="Musyamon">
+    <Location X="33186" Y="28280" Radius="945" />
+    <Respawn Time="15" KillGen="0" KillCount="0" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>65</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>375</DS>
+      <EV>0</EV>
+      <HP>21900</HP>
+      <HT>3878</HT>
+      <MS>560</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Detached Force)</SubName>
+    <Model>41054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>34312</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99864" Name="Asuramon">
+    <Location X="32941" Y="29938" Radius="1262" />
+    <Respawn Time="1" KillGen="99863" KillCount="100" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>161</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>525</DS>
+      <EV>0</EV>
+      <HP>84200</HP>
+      <HT>7657</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51057</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>37664</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99864" Name="Asuramon">
+    <Location X="32941" Y="29938" Radius="1262" />
+    <Respawn Time="1" KillGen="99863" KillCount="100" />
+    <Status Level="110" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>161</AT>
+      <CC>15</CC>
+      <CD>3500</CD>
+      <DE>0</DE>
+      <DS>525</DS>
+      <EV>0</EV>
+      <HP>84200</HP>
+      <HT>7657</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Captain)</SubName>
+    <Model>51057</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>37664</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="99864" Name="Asuramon">
+		<Location X="31674" Y="28842" Radius="1262"/>
+		<Respawn Time="1" KillGen="99863" KillCount="100"/>
+		<Status Level="110" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>161</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>0</DE>
+			<DS>525</DS>
+			<EV>0</EV>
+			<HP>84200</HP>
+			<HT>7657</HT>
+			<MS>650</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Captain)</SubName>
+		<Model>51057</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>37664</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+</Map>

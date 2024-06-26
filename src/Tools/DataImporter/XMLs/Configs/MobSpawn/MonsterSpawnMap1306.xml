@@ -1,0 +1,782 @@
+<Map Id="1306" Name="Infinite Mountain">
+  <Monster Specie="30418" Name="Palmon">
+    <Location X="10616" Y="15811" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2300</AS>
+      <AT>410</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>274</DE>
+      <DS>192</DS>
+      <EV>3034</EV>
+      <HP>108000</HP>
+      <HT>5820</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Predator of Fruit)</SubName>
+    <Model>31041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="30427" Name="Mushroomon">
+    <Location X="23394" Y="9078" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3500</AS>
+      <AT>401</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>325</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>6000</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Ruler of Lonley Place)</SubName>
+    <Model>31042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40289" Name="Waspmon">
+    <Location X="21408" Y="21112" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>405</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>270</DE>
+      <DS>735</DS>
+      <EV>3056</EV>
+      <HP>140400</HP>
+      <HT>5910</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guard of Queen bee)</SubName>
+    <Model>41028</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40405" Name="Soulmon">
+    <Location X="14000" Y="6074" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2790</CD>
+      <DE>270</DE>
+      <DS>667</DS>
+      <EV>3021</EV>
+      <HP>97200</HP>
+      <HT>5778</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Grave Keeper)</SubName>
+    <Model>41040</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>43048</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40488" Name="Dokugumon">
+    <Location X="10947" Y="3608" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2790</CD>
+      <DE>270</DE>
+      <DS>480</DS>
+      <EV>3021</EV>
+      <HP>97200</HP>
+      <HT>5778</HT>
+      <MS>696</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Spoiled Spider)</SubName>
+    <Model>41048</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>43048</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="41027" Name="Wizardmon">
+    <Location X="21096" Y="14855" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>378</AT>
+      <CC>15</CC>
+      <CD>2832</CD>
+      <DE>276</DE>
+      <DS>390</DS>
+      <EV>3043</EV>
+      <HP>12960</HP>
+      <HT>5868</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Star Chaser)</SubName>
+    <Model>41024</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>58128</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="41669" Name="RedVegiemon">
+    <Location X="11670" Y="20268" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>402</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>280</DE>
+      <DS>390</DS>
+      <EV>3056</EV>
+      <HP>156000</HP>
+      <HT>5910</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Disgusting Smell)</SubName>
+    <Model>41166</Model>
+    <Scale>-107726056</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50444" Name="Cherrymon">
+    <Location X="16789" Y="16566" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>390</AT>
+      <CC>15</CC>
+      <CD>2832</CD>
+      <DE>280</DE>
+      <DS>735</DS>
+      <EV>3043</EV>
+      <HP>108000</HP>
+      <HT>5868</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Rotten Tree)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>58128</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50456" Name="Lillymon">
+    <Location X="18455" Y="10870" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2000</AS>
+      <AT>401</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>608</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>5820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Protect Firefly)</SubName>
+    <Model>51045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51260" Name="WaruMonzaemon">
+    <Location X="18793" Y="3370" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>270</DE>
+      <DS>667</DS>
+      <EV>3034</EV>
+      <HP>97200</HP>
+      <HT>5820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Disrupter)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51546" Name="Giromon">
+    <Location X="10364" Y="9876" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>500</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>540</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>7000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Forest Destroyer)</SubName>
+    <Model>51154</Model>
+    <Scale>-107726056</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51619" Name="Mammothmon">
+    <Location X="15849" Y="20492" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>350</DE>
+      <DS>800</DS>
+      <EV>3056</EV>
+      <HP>6360</HP>
+      <HT>5910</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Mark of Legend)</SubName>
+    <Model>51128</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="60092" Name="QueenChessmon">
+    <Location X="24692" Y="4283" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="89" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2877</CD>
+      <DE>200</DE>
+      <DS>541</DS>
+      <EV>3069</EV>
+      <HP>168000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Royal)</SubName>
+    <Model>61016</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>7672</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="71041" Name="Millenniumon">
+    <Location X="21133" Y="24477" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Kuratas Summon)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71042" Name="Millenniumon">
+    <Location X="25614" Y="9986" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Kaisers Experiement)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="30418" Name="Palmon">
+    <Location X="10616" Y="15811" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2300</AS>
+      <AT>410</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>274</DE>
+      <DS>192</DS>
+      <EV>3034</EV>
+      <HP>108000</HP>
+      <HT>5820</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Predator of Fruit)</SubName>
+    <Model>31041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="30427" Name="Mushroomon">
+    <Location X="23394" Y="9078" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3500</AS>
+      <AT>401</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>325</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>6000</HT>
+      <MS>550</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Ruler of Lonley Place)</SubName>
+    <Model>31042</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40289" Name="Waspmon">
+    <Location X="21408" Y="21112" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>2200</AS>
+      <AT>405</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>270</DE>
+      <DS>735</DS>
+      <EV>3056</EV>
+      <HP>140400</HP>
+      <HT>5910</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Guard of Queen bee)</SubName>
+    <Model>41028</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40405" Name="Soulmon">
+    <Location X="14000" Y="6074" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2790</CD>
+      <DE>270</DE>
+      <DS>667</DS>
+      <EV>3021</EV>
+      <HP>97200</HP>
+      <HT>5778</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Grave Keeper)</SubName>
+    <Model>41040</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>43048</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="40488" Name="Dokugumon">
+    <Location X="10947" Y="3608" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="85" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3300</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2790</CD>
+      <DE>270</DE>
+      <DS>480</DS>
+      <EV>3021</EV>
+      <HP>97200</HP>
+      <HT>5778</HT>
+      <MS>696</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Spoiled Spider)</SubName>
+    <Model>41048</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>43048</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="41027" Name="Wizardmon">
+    <Location X="21096" Y="14855" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>378</AT>
+      <CC>15</CC>
+      <CD>2832</CD>
+      <DE>276</DE>
+      <DS>390</DS>
+      <EV>3043</EV>
+      <HP>12960</HP>
+      <HT>5868</HT>
+      <MS>744</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Star Chaser)</SubName>
+    <Model>41024</Model>
+    <Scale>-1.5868545E-23</Scale>
+    <Class>7</Class>
+    <EXP>58128</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="41669" Name="RedVegiemon">
+    <Location X="11670" Y="20268" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>3900</AS>
+      <AT>402</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>280</DE>
+      <DS>390</DS>
+      <EV>3056</EV>
+      <HP>156000</HP>
+      <HT>5910</HT>
+      <MS>720</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Disgusting Smell)</SubName>
+    <Model>41166</Model>
+    <Scale>-107726056</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50444" Name="Cherrymon">
+    <Location X="16789" Y="16566" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="87" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>390</AT>
+      <CC>15</CC>
+      <CD>2832</CD>
+      <DE>280</DE>
+      <DS>735</DS>
+      <EV>3043</EV>
+      <HP>108000</HP>
+      <HT>5868</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Rotten Tree)</SubName>
+    <Model>51043</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>58128</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="50456" Name="Lillymon">
+    <Location X="18455" Y="10870" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2000</AS>
+      <AT>401</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>608</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>5820</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Protect Firefly)</SubName>
+    <Model>51045</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51260" Name="WaruMonzaemon">
+    <Location X="18793" Y="3370" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>270</DE>
+      <DS>667</DS>
+      <EV>3034</EV>
+      <HP>97200</HP>
+      <HT>5820</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Disrupter)</SubName>
+    <Model>51124</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51546" Name="Giromon">
+    <Location X="10364" Y="9876" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="86" Sight="800" HuntRange="2500">
+      <AR>250</AR>
+      <AS>4300</AS>
+      <AT>500</AT>
+      <CC>15</CC>
+      <CD>2808</CD>
+      <DE>272</DE>
+      <DS>540</DS>
+      <EV>3034</EV>
+      <HP>103200</HP>
+      <HT>7000</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Forest Destroyer)</SubName>
+    <Model>51154</Model>
+    <Scale>-107726056</Scale>
+    <Class>7</Class>
+    <EXP>50588</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="51619" Name="Mammothmon">
+    <Location X="15849" Y="20492" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="88" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>4000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2853</CD>
+      <DE>350</DE>
+      <DS>800</DS>
+      <EV>3056</EV>
+      <HP>6360</HP>
+      <HT>5910</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Mark of Legend)</SubName>
+    <Model>51128</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>132</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="60092" Name="QueenChessmon">
+    <Location X="24692" Y="4283" Radius="417" />
+    <Respawn Time="60" KillGen="0" KillCount="0" />
+    <Status Level="89" Sight="800" HuntRange="2500">
+      <AR>150</AR>
+      <AS>5000</AS>
+      <AT>400</AT>
+      <CC>15</CC>
+      <CD>2877</CD>
+      <DE>200</DE>
+      <DS>541</DS>
+      <EV>3069</EV>
+      <HP>168000</HP>
+      <HT>9000</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Royal)</SubName>
+    <Model>61016</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>7</Class>
+    <EXP>7672</EXP>
+    <EXPMin>42</EXPMin>
+    <EXPMax>126</EXPMax>
+  </Monster>
+  <Monster Specie="71041" Name="Millenniumon">
+    <Location X="21133" Y="24477" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Kuratas Summon)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="71042" Name="Millenniumon">
+    <Location X="25614" Y="9986" Radius="100" />
+    <Respawn Time="600" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>950</AT>
+      <CC>15</CC>
+      <CD>1856</CD>
+      <DE>5000</DE>
+      <DS>9999</DS>
+      <EV>2590</EV>
+      <HP>600000</HP>
+      <HT>10000</HT>
+      <MS>500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Kaisers Experiement)</SubName>
+    <Model>71041</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>4</Class>
+    <EXP>36856</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

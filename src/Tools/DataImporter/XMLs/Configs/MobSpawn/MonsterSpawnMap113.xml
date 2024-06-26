@@ -1,0 +1,5020 @@
+<Map Id="113" Name="Oil refinery-3">
+  <Monster Specie="40113" Name="Kyubimon">
+    <Location X="31029" Y="73573" Radius="15000" />
+    <Respawn Time="120" KillGen="0" KillCount="0" />
+    <Status Level="48" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2300</AS>
+      <AT>132</AT>
+      <CC>15</CC>
+      <CD>542</CD>
+      <DE>38</DE>
+      <DS>212</DS>
+      <EV>1466</EV>
+      <HP>3560</HP>
+      <HT>1080</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41011</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43628</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40587" Name="Leomon">
+    <Location X="27621" Y="75781" Radius="13204" />
+    <Respawn Time="86400" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="300" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>734</CD>
+      <DE>35</DE>
+      <DS>452</DS>
+      <EV>1687</EV>
+      <HP>3000</HP>
+      <HT>1443</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Revenger)</SubName>
+    <Model>41058</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>27384</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45295" Name="ToyAgumon">
+    <Location X="34475" Y="70552" Radius="1157" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>4800</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1125</EV>
+      <HP>2820</HP>
+      <HT>640</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>52154</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50212" Name="Meteormon">
+    <Location X="34305" Y="53822" Radius="2530" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="36" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3400</AS>
+      <AT>126</AT>
+      <CC>15</CC>
+      <CD>470</CD>
+      <DE>48</DE>
+      <DS>556</DS>
+      <EV>1388</EV>
+      <HP>2440</HP>
+      <HT>926</HT>
+      <MS>780</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>52464</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50352" Name="Vikaralamon">
+    <Location X="33010" Y="68580" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1406</EV>
+      <HP>2230</HP>
+      <HT>962</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51035</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50692" Name="NeoDevimon">
+    <Location X="48526" Y="49491" Radius="6123" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3400</AS>
+      <AT>179</AT>
+      <CC>15</CC>
+      <CD>513</CD>
+      <DE>36</DE>
+      <DS>800</DS>
+      <EV>1436</EV>
+      <HP>2370</HP>
+      <HT>1020</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51069</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>17128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60612" Name="SaberLeomon">
+    <Location X="28361" Y="78335" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>518</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1440</EV>
+      <HP>3380</HP>
+      <HT>1030</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61061</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="71038" Name="Knightmon">
+    <Location X="48428" Y="52375" Radius="3482" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>2877</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>3019</EV>
+      <HP>840000</HP>
+      <HT>5950</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="40113" Name="Kyubimon">
+    <Location X="31029" Y="73573" Radius="15000" />
+    <Respawn Time="120" KillGen="0" KillCount="0" />
+    <Status Level="48" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2300</AS>
+      <AT>132</AT>
+      <CC>15</CC>
+      <CD>542</CD>
+      <DE>38</DE>
+      <DS>212</DS>
+      <EV>1466</EV>
+      <HP>3560</HP>
+      <HT>1080</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41011</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43628</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40113" Name="Kyubimon">
+    <Location X="31029" Y="73573" Radius="15000" />
+    <Respawn Time="120" KillGen="0" KillCount="0" />
+    <Status Level="48" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2300</AS>
+      <AT>132</AT>
+      <CC>15</CC>
+      <CD>542</CD>
+      <DE>38</DE>
+      <DS>212</DS>
+      <EV>1466</EV>
+      <HP>3560</HP>
+      <HT>1080</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41011</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43628</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40113" Name="Kyubimon">
+    <Location X="31029" Y="73573" Radius="15000" />
+    <Respawn Time="120" KillGen="0" KillCount="0" />
+    <Status Level="48" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2300</AS>
+      <AT>132</AT>
+      <CC>15</CC>
+      <CD>542</CD>
+      <DE>38</DE>
+      <DS>212</DS>
+      <EV>1466</EV>
+      <HP>3560</HP>
+      <HT>1080</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41011</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43628</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40113" Name="Kyubimon">
+    <Location X="31029" Y="73573" Radius="15000" />
+    <Respawn Time="120" KillGen="0" KillCount="0" />
+    <Status Level="48" Sight="300" HuntRange="3500">
+      <AR>130</AR>
+      <AS>2300</AS>
+      <AT>132</AT>
+      <CC>15</CC>
+      <CD>542</CD>
+      <DE>38</DE>
+      <DS>212</DS>
+      <EV>1466</EV>
+      <HP>3560</HP>
+      <HT>1080</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>41011</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>43628</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40551" Name="Sangloupmon">
+    <Location X="47474" Y="80826" Radius="6335" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="39" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>484</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1402</EV>
+      <HP>2400</HP>
+      <HT>954</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Captain)</SubName>
+    <Model>41055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>62664</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40552" Name="Sangloupmon">
+    <Location X="49593" Y="78258" Radius="4644" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1430</EV>
+      <HP>2880</HP>
+      <HT>1010</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>41055</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="40587" Name="Leomon">
+    <Location X="27621" Y="75781" Radius="13204" />
+    <Respawn Time="86400" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="300" HuntRange="3500">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>734</CD>
+      <DE>35</DE>
+      <DS>452</DS>
+      <EV>1687</EV>
+      <HP>3000</HP>
+      <HT>1443</HT>
+      <MS>600</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Revenger)</SubName>
+    <Model>41058</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>3</Class>
+    <EXP>27384</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45295" Name="ToyAgumon">
+    <Location X="34475" Y="70552" Radius="1157" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>4800</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1125</EV>
+      <HP>2820</HP>
+      <HT>640</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>52154</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45295" Name="ToyAgumon">
+    <Location X="34475" Y="70552" Radius="1157" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>4800</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1125</EV>
+      <HP>2820</HP>
+      <HT>640</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>52154</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="45295" Name="ToyAgumon">
+    <Location X="34475" Y="70552" Radius="1157" />
+    <Respawn Time="10" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>4800</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1125</EV>
+      <HP>2820</HP>
+      <HT>640</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Leg Part)</SubName>
+    <Model>52154</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50210" Name="Meteormon">
+    <Location X="32989" Y="47929" Radius="3482" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="34" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>105</AT>
+      <CC>15</CC>
+      <CD>462</CD>
+      <DE>40</DE>
+      <DS>464</DS>
+      <EV>1378</EV>
+      <HP>2040</HP>
+      <HT>908</HT>
+      <MS>650</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>38964</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50212" Name="Meteormon">
+    <Location X="34305" Y="53822" Radius="2530" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="36" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3400</AS>
+      <AT>126</AT>
+      <CC>15</CC>
+      <CD>470</CD>
+      <DE>48</DE>
+      <DS>556</DS>
+      <EV>1388</EV>
+      <HP>2440</HP>
+      <HT>926</HT>
+      <MS>780</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51021</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>52464</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50351" Name="Vikaralamon">
+    <Location X="33207" Y="70458" Radius="6546" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="38" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>133</AT>
+      <CC>15</CC>
+      <CD>479</CD>
+      <DE>55</DE>
+      <DS>603</DS>
+      <EV>1398</EV>
+      <HP>1860</HP>
+      <HT>944</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Hunter of Hell)</SubName>
+    <Model>51035</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>59164</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50352" Name="Vikaralamon">
+    <Location X="33010" Y="68580" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>160</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>66</DE>
+      <DS>723</DS>
+      <EV>1406</EV>
+      <HP>2230</HP>
+      <HT>962</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51035</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50501" Name="DexDoruGreymon">
+    <Location X="46462" Y="33851" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>4100</AS>
+      <AT>285</AT>
+      <CC>15</CC>
+      <CD>887</CD>
+      <DE>72</DE>
+      <DS>868</DS>
+      <EV>1842</EV>
+      <HP>9600</HP>
+      <HT>1836</HT>
+      <MS>816</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50502" Name="DexDoruGreymon">
+    <Location X="47714" Y="34030" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50503" Name="DexDoruGreymon">
+    <Location X="46766" Y="33849" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>67</DE>
+      <DS>730</DS>
+      <EV>1580</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50504" Name="DexDoruGreymon">
+    <Location X="46229" Y="34319" Radius="9188" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="1000" HuntRange="3500">
+      <AR>200</AR>
+      <AS>4100</AS>
+      <AT>110</AT>
+      <CC>15</CC>
+      <CD>616</CD>
+      <DE>17</DE>
+      <DS>730</DS>
+      <EV>4000</EV>
+      <HP>2150</HP>
+      <HT>1224</HT>
+      <MS>680</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Leader)</SubName>
+    <Model>51054</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>2</Class>
+    <EXP>4616</EXP>
+    <EXPMin>12</EXPMin>
+    <EXPMax>36</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50691" Name="NeoDevimon">
+    <Location X="50804" Y="53206" Radius="6123" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="40" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3600</AS>
+      <AT>149</AT>
+      <CC>15</CC>
+      <CD>489</CD>
+      <DE>30</DE>
+      <DS>667</DS>
+      <EV>1406</EV>
+      <HP>1980</HP>
+      <HT>962</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Brave Fellowship)</SubName>
+    <Model>51069</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>9128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="50692" Name="NeoDevimon">
+    <Location X="48526" Y="49491" Radius="6123" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="42" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3400</AS>
+      <AT>179</AT>
+      <CC>15</CC>
+      <CD>513</CD>
+      <DE>36</DE>
+      <DS>800</DS>
+      <EV>1436</EV>
+      <HP>2370</HP>
+      <HT>1020</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>51069</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>17128</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60611" Name="SaberLeomon">
+    <Location X="24478" Y="81891" Radius="6018" />
+    <Respawn Time="5" KillGen="0" KillCount="0" />
+    <Status Level="41" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>137</AT>
+      <CC>15</CC>
+      <CD>508</CD>
+      <DE>45</DE>
+      <DS>540</DS>
+      <EV>1430</EV>
+      <HP>2820</HP>
+      <HT>1010</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>Dark Tower mutant)</SubName>
+    <Model>61061</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>12928</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60612" Name="SaberLeomon">
+    <Location X="28361" Y="78335" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>518</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1440</EV>
+      <HP>3380</HP>
+      <HT>1030</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61061</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60612" Name="SaberLeomon">
+    <Location X="28361" Y="78335" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>518</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1440</EV>
+      <HP>3380</HP>
+      <HT>1030</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61061</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60612" Name="SaberLeomon">
+    <Location X="28361" Y="78335" Radius="6546" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="43" Sight="600" HuntRange="3500">
+      <AR>250</AR>
+      <AS>3900</AS>
+      <AT>164</AT>
+      <CC>15</CC>
+      <CD>518</CD>
+      <DE>54</DE>
+      <DS>648</DS>
+      <EV>1440</EV>
+      <HP>3380</HP>
+      <HT>1030</HT>
+      <MS>840</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Leader)</SubName>
+    <Model>61061</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>1</Class>
+    <EXP>21428</EXP>
+    <EXPMin>6</EXPMin>
+    <EXPMax>18</EXPMax>
+  </Monster>
+  <Monster Specie="60613" Name="SaberLeomon"> 
+    <Location X="37946" Y="15439" Radius="4000" />
+    <Respawn Time="1500" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="600" HuntRange="2500">
+      <AR>250</AR>
+      <AS>4100</AS>
+      <AT>255</AT>
+      <CC>15</CC>
+      <CD>828</CD>
+      <DE>120</DE>
+      <DS>540</DS>
+      <EV>1771</EV>
+      <HP>60000</HP>
+      <HT>1650</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>(Western Ruler)</SubName>
+    <Model>16041</Model>
+    <Scale>2.720923E+23</Scale>
+    <Class>8</Class>
+    <EXP>30712</EXP>
+    <EXPMin>18</EXPMin>
+    <EXPMax>54</EXPMax>
+  </Monster>
+  <Monster Specie="71038" Name="Knightmon">
+    <Location X="48428" Y="52375" Radius="3482" />
+    <Respawn Time="30" KillGen="0" KillCount="0" />
+    <Status Level="70" Sight="600" HuntRange="3500">
+      <AR>150</AR>
+      <AS>3000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>2877</CD>
+      <DE>280</DE>
+      <DS>541</DS>
+      <EV>3019</EV>
+      <HP>840000</HP>
+      <HT>5950</HT>
+      <MS>700</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>1</Battle>
+    <SubName>(Jogress Quest)</SubName>
+    <Model>51026</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>1</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

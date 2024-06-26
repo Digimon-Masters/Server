@@ -1,0 +1,54 @@
+<Map Id="205" Name="Tokyo Tower Observatory (Dungeon)">
+	<Monster Specie="75056" Name="SkullMeramon">
+		<Location X="23393" Y="23446" Radius="100"/>
+		<Respawn Time="43200" KillGen="0" KillCount="0"/>
+		<Status Level="111" Sight="2000" HuntRange="30000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1996</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>30202</DE>
+			<DS>655</DS>
+			<EV>4785</EV>
+			<HP>41020000</HP>
+			<HT>18960</HT>
+			<MS>1460</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Gigantic)</SubName>
+		<Model>51114</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>44152</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Specie="75056" Name="SkullMeramon">
+		<Location X="23393" Y="23446" Radius="100"/>
+		<Respawn Time="43200" KillGen="0" KillCount="0"/>
+		<Status Level="111" Sight="2000" HuntRange="30000">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>1996</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>30202</DE>
+			<DS>655</DS>
+			<EV>4785</EV>
+			<HP>41020000</HP>
+			<HT>18960</HT>
+			<MS>1460</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>Gigantic)</SubName>
+		<Model>51114</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>8</Class>
+		<EXP>44152</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+</Map>

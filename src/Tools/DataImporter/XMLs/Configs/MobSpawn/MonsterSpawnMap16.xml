@@ -1,0 +1,262 @@
+<Map Id="16" Name="Village of the Beginning (Lost)">
+	<Monster Specie="71377" Name="Puppetmon">
+		<Location X="15824" Y="9901" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1450</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>25000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>3600000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61088</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71378" Name="MetalSeadramon">
+		<Location X="22048" Y="6782" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1250</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>30000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5640000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61029</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71379" Name="MugenDramon">
+		<Location X="26873" Y="10837" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1100</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>30000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>6000000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61043</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71380" Name="Piedmon">
+		<Location X="13969" Y="19810" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1400</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>27000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5400000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61049</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="99998" Name="Apocalymon">
+		<Location X="21880" Y="30486" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1400</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>27000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5400000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Psychic)</SubName>
+		<Model>71095</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71377" Name="Puppetmon">
+		<Location X="15824" Y="9901" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1450</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>25000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>3600000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61088</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71378" Name="MetalSeadramon">
+		<Location X="22048" Y="6782" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1250</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>30000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5640000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61029</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71379" Name="MugenDramon">
+		<Location X="26873" Y="10837" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1100</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>30000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>6000000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61043</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="71380" Name="Piedmon">
+		<Location X="13969" Y="19810" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1400</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>27000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5400000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Effort)</SubName>
+		<Model>61049</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="99998" Name="Apocalymon">
+		<Location X="21880" Y="30486" Radius="100"/>
+		<Respawn Time="13800" KillGen="0" KillCount="0"/>
+		<Status Level="99" Sight="10000" HuntRange="20000">
+			<AR>300</AR>
+			<AS>3000</AS>
+			<AT>1400</AT>
+			<CC>15</CC>
+			<CD>2578</CD>
+			<DE>27000</DE>
+			<DS>3000</DS>
+			<EV>3500</EV>
+			<HP>5400000</HP>
+			<HT>15000</HT>
+			<MS>2000</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Psychic)</SubName>
+		<Model>71095</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>6</Class>
+		<EXP>41248</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+</Map>

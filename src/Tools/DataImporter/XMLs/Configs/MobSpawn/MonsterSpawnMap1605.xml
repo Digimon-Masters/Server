@@ -1,0 +1,262 @@
+<Map Id="1605" Name="Scar of Water Crystal Easy">
+  <Monster Specie="51063" Name="MegaSeadramon">
+    <Location X="14546" Y="19688" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>10000</DE>
+      <DS>724</DS>
+      <EV>2214</EV>
+      <HP>2520000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51064" Name="Marin Devimon">
+    <Location X="17907" Y="38148" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>270</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>12500</DE>
+      <DS>724</DS>
+      <EV>2214</EV>
+      <HP>2880000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51065" Name="Xuanwumon">
+    <Location X="37652" Y="15815" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>15000</DE>
+      <DS>541</DS>
+      <EV>2214</EV>
+      <HP>3120000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51067" Name="MegaSeadramon">
+    <Location X="39052" Y="11374" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="1500" HuntRange="2000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>552</CD>
+      <DE>100</DE>
+      <DS>724</DS>
+      <EV>2500</EV>
+      <HP>90000</HP>
+      <HT>18000</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51029</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>100</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51069" Name="Xuanwumon">
+    <Location X="37128" Y="35128" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>100</AT>
+      <CC>15</CC>
+      <CD>1932</CD>
+      <DE>100</DE>
+      <DS>541</DS>
+      <EV>2509</EV>
+      <HP>252000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>100</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51063" Name="MegaSeadramon">
+    <Location X="14546" Y="19688" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>250</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>10000</DE>
+      <DS>724</DS>
+      <EV>2214</EV>
+      <HP>2520000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51070</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51064" Name="Marin Devimon">
+    <Location X="17907" Y="38148" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>270</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>12500</DE>
+      <DS>724</DS>
+      <EV>2214</EV>
+      <HP>2880000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51071</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51065" Name="Xuanwumon">
+    <Location X="37652" Y="15815" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>300</AT>
+      <CC>15</CC>
+      <CD>1380</CD>
+      <DE>15000</DE>
+      <DS>541</DS>
+      <EV>2214</EV>
+      <HP>3120000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>26048</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51067" Name="MegaSeadramon">
+    <Location X="39052" Y="11374" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="1500" HuntRange="2000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>180</AT>
+      <CC>15</CC>
+      <CD>552</CD>
+      <DE>100</DE>
+      <DS>724</DS>
+      <EV>2500</EV>
+      <HP>90000</HP>
+      <HT>18000</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51029</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>100</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51069" Name="Xuanwumon">
+    <Location X="37128" Y="35128" Radius="100" />
+    <Respawn Time="1200" KillGen="0" KillCount="0" />
+    <Status Level="50" Sight="6000" HuntRange="8000">
+      <AR>550</AR>
+      <AS>4000</AS>
+      <AT>100</AT>
+      <CC>15</CC>
+      <CD>1932</CD>
+      <DE>100</DE>
+      <DS>541</DS>
+      <EV>2509</EV>
+      <HP>252000</HP>
+      <HT>9900</HT>
+      <MS>1500</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>Silence)</SubName>
+    <Model>51072</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>8</Class>
+    <EXP>100</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

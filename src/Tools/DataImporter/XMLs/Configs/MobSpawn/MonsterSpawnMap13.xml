@@ -1,0 +1,2342 @@
+<Map Id="13" Name="D-Terminal Underground Summon Square">
+	<Monster Quantity="1" Specie="31420" Name="Wormmon">
+		<Location X="17306" Y="40232" Radius="100"/>
+		<Respawn Time="10" KillGen="0" KillCount="0"/>
+		<Status Level="1" Sight="300" HuntRange="3500">
+			<AR>130</AR>
+			<AS>4000</AS>
+			<AT>1</AT>
+			<CC>15</CC>
+			<CD>308</CD>
+			<DE>2</DE>
+			<DS>149</DS>
+			<EV>1202</EV>
+			<HP>240</HP>
+			<HT>556</HT>
+			<MS>400</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Tutorial)</SubName>
+		<Model>31142</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>0</EXP>
+		<EXPMin>1</EXPMin>
+		<EXPMax>5</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73001" Name="Guilmon">
+		<Location X="30756" Y="31747" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>112</AT>
+			<CC>15</CC>
+			<CD>533</CD>
+			<DE>43</DE>
+			<DS>420</DS>
+			<EV>1496</EV>
+			<HP>9840</HP>
+			<HT>9320</HT>
+			<MS>476</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>31005</Model>
+		<Scale>1.9531642E-20</Scale>
+		<Class>2</Class>
+		<EXP>3070</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73002" Name="Renamon">
+		<Location X="31138" Y="30689" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>112</AT>
+			<CC>15</CC>
+			<CD>533</CD>
+			<DE>43</DE>
+			<DS>420</DS>
+			<EV>1496</EV>
+			<HP>9840</HP>
+			<HT>9320</HT>
+			<MS>476</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>31006</Model>
+		<Scale>1.9531642E-20</Scale>
+		<Class>2</Class>
+		<EXP>3070</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73003" Name="V-mon">
+		<Location X="31340" Y="29390" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>112</AT>
+			<CC>15</CC>
+			<CD>533</CD>
+			<DE>43</DE>
+			<DS>420</DS>
+			<EV>1496</EV>
+			<HP>9840</HP>
+			<HT>9320</HT>
+			<MS>476</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>31008</Model>
+		<Scale>1.9531642E-20</Scale>
+		<Class>2</Class>
+		<EXP>3070</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73004" Name="Patamon">
+		<Location X="29952" Y="29807" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>112</AT>
+			<CC>15</CC>
+			<CD>533</CD>
+			<DE>43</DE>
+			<DS>420</DS>
+			<EV>1496</EV>
+			<HP>9840</HP>
+			<HT>9320</HT>
+			<MS>476</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>31012</Model>
+		<Scale>1.9531642E-20</Scale>
+		<Class>2</Class>
+		<EXP>3070</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73005" Name="Drimogemon">
+		<Location X="29424" Y="28824" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>112</AT>
+			<CC>15</CC>
+			<CD>533</CD>
+			<DE>43</DE>
+			<DS>420</DS>
+			<EV>1496</EV>
+			<HP>9840</HP>
+			<HT>9320</HT>
+			<MS>476</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>31028</Model>
+		<Scale>1.9531642E-20</Scale>
+		<Class>2</Class>
+		<EXP>3070</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73006" Name="Tentomon">
+		<Location X="30297" Y="28019" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>124</AT>
+			<CC>15</CC>
+			<CD>587</CD>
+			<DE>56</DE>
+			<DS>440</DS>
+			<EV>1547</EV>
+			<HP>13680</HP>
+			<HT>9440</HT>
+			<MS>492</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>31031</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>31948</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73007" Name="Goblimon">
+		<Location X="32003" Y="29076" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>124</AT>
+			<CC>15</CC>
+			<CD>587</CD>
+			<DE>56</DE>
+			<DS>440</DS>
+			<EV>1547</EV>
+			<HP>13680</HP>
+			<HT>9440</HT>
+			<MS>492</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>31033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>31948</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73008" Name="Dracmon">
+		<Location X="33582" Y="28705" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>124</AT>
+			<CC>15</CC>
+			<CD>587</CD>
+			<DE>56</DE>
+			<DS>440</DS>
+			<EV>1547</EV>
+			<HP>13680</HP>
+			<HT>9440</HT>
+			<MS>492</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>31039</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>31948</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73009" Name="Mushroomon">
+		<Location X="33295" Y="27266" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>124</AT>
+			<CC>15</CC>
+			<CD>587</CD>
+			<DE>56</DE>
+			<DS>440</DS>
+			<EV>1547</EV>
+			<HP>13680</HP>
+			<HT>9440</HT>
+			<MS>492</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>31042</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>31948</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73010" Name="Keramon">
+		<Location X="32252" Y="26442" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>124</AT>
+			<CC>15</CC>
+			<CD>587</CD>
+			<DE>56</DE>
+			<DS>440</DS>
+			<EV>1547</EV>
+			<HP>13680</HP>
+			<HT>9440</HT>
+			<MS>492</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>31017</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>2</Class>
+		<EXP>31948</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73011" Name="Woodmon">
+		<Location X="31644" Y="27365" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>145</AT>
+			<CC>15</CC>
+			<CD>662</CD>
+			<DE>84</DE>
+			<DS>475</DS>
+			<EV>1624</EV>
+			<HP>21720</HP>
+			<HT>9650</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>41039</Model>
+		<Scale>-4.9304293E+32</Scale>
+		<Class>2</Class>
+		<EXP>57676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73012" Name="Veedramon">
+		<Location X="31271" Y="26470" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>145</AT>
+			<CC>15</CC>
+			<CD>662</CD>
+			<DE>84</DE>
+			<DS>475</DS>
+			<EV>1624</EV>
+			<HP>21720</HP>
+			<HT>9650</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>41053</Model>
+		<Scale>-4.9304293E+32</Scale>
+		<Class>2</Class>
+		<EXP>57676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73013" Name="Waspmon">
+		<Location X="30465" Y="27098" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>145</AT>
+			<CC>15</CC>
+			<CD>662</CD>
+			<DE>84</DE>
+			<DS>475</DS>
+			<EV>1624</EV>
+			<HP>21720</HP>
+			<HT>9650</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>41028</Model>
+		<Scale>-4.9304293E+32</Scale>
+		<Class>2</Class>
+		<EXP>57676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73014" Name="Flymon">
+		<Location X="29589" Y="25834" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>145</AT>
+			<CC>15</CC>
+			<CD>662</CD>
+			<DE>84</DE>
+			<DS>475</DS>
+			<EV>1624</EV>
+			<HP>21720</HP>
+			<HT>9650</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>41032</Model>
+		<Scale>-4.9304293E+32</Scale>
+		<Class>2</Class>
+		<EXP>57676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73015" Name="Sangloupmon">
+		<Location X="28754" Y="25390" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>145</AT>
+			<CC>15</CC>
+			<CD>662</CD>
+			<DE>84</DE>
+			<DS>475</DS>
+			<EV>1624</EV>
+			<HP>21720</HP>
+			<HT>9650</HT>
+			<MS>520</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>41055</Model>
+		<Scale>-4.9304293E+32</Scale>
+		<Class>2</Class>
+		<EXP>57676</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73016" Name="Leomon">
+		<Location X="28373" Y="26431" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>169</AT>
+			<CC>15</CC>
+			<CD>720</CD>
+			<DE>126</DE>
+			<DS>515</DS>
+			<EV>1679</EV>
+			<HP>34560</HP>
+			<HT>9890</HT>
+			<MS>552</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>41058</Model>
+		<Scale>-7.498297E-36</Scale>
+		<Class>2</Class>
+		<EXP>57068</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73017" Name="Devimon">
+		<Location X="28785" Y="27743" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>169</AT>
+			<CC>15</CC>
+			<CD>720</CD>
+			<DE>126</DE>
+			<DS>515</DS>
+			<EV>1679</EV>
+			<HP>34560</HP>
+			<HT>9890</HT>
+			<MS>552</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>41068</Model>
+		<Scale>-7.498297E-36</Scale>
+		<Class>2</Class>
+		<EXP>57068</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73018" Name="Meramon">
+		<Location X="27035" Y="24365" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>169</AT>
+			<CC>15</CC>
+			<CD>720</CD>
+			<DE>126</DE>
+			<DS>515</DS>
+			<EV>1679</EV>
+			<HP>34560</HP>
+			<HT>9890</HT>
+			<MS>552</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>41170</Model>
+		<Scale>-7.498297E-36</Scale>
+		<Class>2</Class>
+		<EXP>57068</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73019" Name="Kentarumon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>169</AT>
+			<CC>15</CC>
+			<CD>720</CD>
+			<DE>126</DE>
+			<DS>515</DS>
+			<EV>1679</EV>
+			<HP>34560</HP>
+			<HT>9890</HT>
+			<MS>552</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>45152</Model>
+		<Scale>-7.498297E-36</Scale>
+		<Class>2</Class>
+		<EXP>57068</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73020" Name="Kyubimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>169</AT>
+			<CC>15</CC>
+			<CD>720</CD>
+			<DE>126</DE>
+			<DS>515</DS>
+			<EV>1679</EV>
+			<HP>34560</HP>
+			<HT>9890</HT>
+			<MS>552</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>41011</Model>
+		<Scale>-7.498297E-36</Scale>
+		<Class>2</Class>
+		<EXP>57068</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73021" Name="Knightmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>986</CD>
+			<DE>211</DE>
+			<DS>575</DS>
+			<EV>1954</EV>
+			<HP>60360</HP>
+			<HT>10250</HT>
+			<MS>600</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>51026</Model>
+		<Scale>-2.3361428E-17</Scale>
+		<Class>2</Class>
+		<EXP>14884</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73022" Name="Cherrymon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>986</CD>
+			<DE>211</DE>
+			<DS>575</DS>
+			<EV>1954</EV>
+			<HP>60360</HP>
+			<HT>10250</HT>
+			<MS>600</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>51043</Model>
+		<Scale>-2.3361428E-17</Scale>
+		<Class>2</Class>
+		<EXP>14884</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73023" Name="WaruMonzaemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>986</CD>
+			<DE>211</DE>
+			<DS>575</DS>
+			<EV>1954</EV>
+			<HP>60360</HP>
+			<HT>10250</HT>
+			<MS>600</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>51124</Model>
+		<Scale>-2.3361428E-17</Scale>
+		<Class>2</Class>
+		<EXP>14884</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73024" Name="Sinduramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>986</CD>
+			<DE>211</DE>
+			<DS>575</DS>
+			<EV>1954</EV>
+			<HP>60360</HP>
+			<HT>10250</HT>
+			<MS>600</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>51131</Model>
+		<Scale>-2.3361428E-17</Scale>
+		<Class>2</Class>
+		<EXP>14884</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73025" Name="NeoDevimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>200</AT>
+			<CC>15</CC>
+			<CD>986</CD>
+			<DE>211</DE>
+			<DS>575</DS>
+			<EV>1954</EV>
+			<HP>60360</HP>
+			<HT>10250</HT>
+			<MS>600</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>51069</Model>
+		<Scale>-2.3361428E-17</Scale>
+		<Class>2</Class>
+		<EXP>14884</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73026" Name="Marin Devimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>244</AT>
+			<CC>15</CC>
+			<CD>1073</CD>
+			<DE>341</DE>
+			<DS>640</DS>
+			<EV>2035</EV>
+			<HP>99240</HP>
+			<HT>10640</HT>
+			<MS>652</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>51071</Model>
+		<Scale>-71.73557</Scale>
+		<Class>2</Class>
+		<EXP>21276</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73027" Name="WereGarurumon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>244</AT>
+			<CC>15</CC>
+			<CD>1073</CD>
+			<DE>341</DE>
+			<DS>640</DS>
+			<EV>2035</EV>
+			<HP>99240</HP>
+			<HT>10640</HT>
+			<MS>652</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>51148</Model>
+		<Scale>-71.73557</Scale>
+		<Class>2</Class>
+		<EXP>21276</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73028" Name="Giromon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>244</AT>
+			<CC>15</CC>
+			<CD>1073</CD>
+			<DE>341</DE>
+			<DS>640</DS>
+			<EV>2035</EV>
+			<HP>99240</HP>
+			<HT>10640</HT>
+			<MS>652</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>51154</Model>
+		<Scale>-71.73557</Scale>
+		<Class>2</Class>
+		<EXP>21276</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73029" Name="Etemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>244</AT>
+			<CC>15</CC>
+			<CD>1073</CD>
+			<DE>341</DE>
+			<DS>640</DS>
+			<EV>2035</EV>
+			<HP>99240</HP>
+			<HT>10640</HT>
+			<MS>652</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>52160</Model>
+		<Scale>-71.73557</Scale>
+		<Class>2</Class>
+		<EXP>21276</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73030" Name="SkullGreymon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="80" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>244</AT>
+			<CC>15</CC>
+			<CD>1073</CD>
+			<DE>341</DE>
+			<DS>640</DS>
+			<EV>2035</EV>
+			<HP>99240</HP>
+			<HT>10640</HT>
+			<MS>652</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>52161</Model>
+		<Scale>-71.73557</Scale>
+		<Class>2</Class>
+		<EXP>21276</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73031" Name="DexDoruGreymon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>290</AT>
+			<CC>15</CC>
+			<CD>1159</CD>
+			<DE>579</DE>
+			<DS>725</DS>
+			<EV>2119</EV>
+			<HP>170760</HP>
+			<HT>11150</HT>
+			<MS>720</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>51054</Model>
+		<Scale>2.7363794E-14</Scale>
+		<Class>2</Class>
+		<EXP>27668</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73032" Name="Chimairamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>290</AT>
+			<CC>15</CC>
+			<CD>1159</CD>
+			<DE>579</DE>
+			<DS>725</DS>
+			<EV>2119</EV>
+			<HP>170760</HP>
+			<HT>11150</HT>
+			<MS>720</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>51044</Model>
+		<Scale>2.7363794E-14</Scale>
+		<Class>2</Class>
+		<EXP>27668</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73033" Name="Diablomon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>290</AT>
+			<CC>15</CC>
+			<CD>1159</CD>
+			<DE>579</DE>
+			<DS>725</DS>
+			<EV>2119</EV>
+			<HP>170760</HP>
+			<HT>11150</HT>
+			<MS>720</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>61035</Model>
+		<Scale>2.7363794E-14</Scale>
+		<Class>2</Class>
+		<EXP>27668</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73034" Name="Parasimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>290</AT>
+			<CC>15</CC>
+			<CD>1159</CD>
+			<DE>579</DE>
+			<DS>725</DS>
+			<EV>2119</EV>
+			<HP>170760</HP>
+			<HT>11150</HT>
+			<MS>720</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>61053</Model>
+		<Scale>2.7363794E-14</Scale>
+		<Class>2</Class>
+		<EXP>27668</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73035" Name="SaberLeomon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="90" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>290</AT>
+			<CC>15</CC>
+			<CD>1159</CD>
+			<DE>579</DE>
+			<DS>725</DS>
+			<EV>2119</EV>
+			<HP>170760</HP>
+			<HT>11150</HT>
+			<MS>720</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>61061</Model>
+		<Scale>2.7363794E-14</Scale>
+		<Class>2</Class>
+		<EXP>27668</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73101" Name="GrandKuwagamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>320</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>250</DE>
+			<DS>700</DS>
+			<EV>1700</EV>
+			<HP>183800</HP>
+			<HT>14000</HT>
+			<MS>1200</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>61146</Model>
+		<Scale>-1.0870067E-29</Scale>
+		<Class>3</Class>
+		<EXP>11968</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73102" Name="MetalEtemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>320</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>250</DE>
+			<DS>700</DS>
+			<EV>1700</EV>
+			<HP>183800</HP>
+			<HT>14000</HT>
+			<MS>1200</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>61045</Model>
+		<Scale>-1.0870067E-29</Scale>
+		<Class>3</Class>
+		<EXP>11968</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73103" Name="Anubimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>320</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>250</DE>
+			<DS>700</DS>
+			<EV>1700</EV>
+			<HP>183800</HP>
+			<HT>14000</HT>
+			<MS>1200</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>61145</Model>
+		<Scale>-1.0870067E-29</Scale>
+		<Class>3</Class>
+		<EXP>11968</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73104" Name="Boltmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>320</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>250</DE>
+			<DS>700</DS>
+			<EV>1700</EV>
+			<HP>183800</HP>
+			<HT>14000</HT>
+			<MS>1200</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>61151</Model>
+		<Scale>-1.0870067E-29</Scale>
+		<Class>3</Class>
+		<EXP>11968</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73105" Name="DinoTigermon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="100" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>320</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>250</DE>
+			<DS>700</DS>
+			<EV>1700</EV>
+			<HP>183800</HP>
+			<HT>14000</HT>
+			<MS>1200</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv1 Summon Digimon)</SubName>
+		<Model>61062</Model>
+		<Scale>-1.0870067E-29</Scale>
+		<Class>3</Class>
+		<EXP>11968</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73106" Name="HiAndromon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>352</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>303</DE>
+			<DS>750</DS>
+			<EV>1742</EV>
+			<HP>245900</HP>
+			<HT>14600</HT>
+			<MS>1260</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>61020</Model>
+		<Scale>0.058708776</Scale>
+		<Class>3</Class>
+		<EXP>5600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73107" Name="Gryphonmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>352</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>303</DE>
+			<DS>750</DS>
+			<EV>1742</EV>
+			<HP>245900</HP>
+			<HT>14600</HT>
+			<MS>1260</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>61036</Model>
+		<Scale>0.058708776</Scale>
+		<Class>3</Class>
+		<EXP>5600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73108" Name="Slayerdramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>352</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>303</DE>
+			<DS>750</DS>
+			<EV>1742</EV>
+			<HP>245900</HP>
+			<HT>14600</HT>
+			<MS>1260</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>61032</Model>
+		<Scale>0.058708776</Scale>
+		<Class>3</Class>
+		<EXP>5600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73109" Name="Brakedramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>352</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>303</DE>
+			<DS>750</DS>
+			<EV>1742</EV>
+			<HP>245900</HP>
+			<HT>14600</HT>
+			<MS>1260</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>61033</Model>
+		<Scale>0.058708776</Scale>
+		<Class>3</Class>
+		<EXP>5600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73110" Name="TigerVespamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="110" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>352</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>303</DE>
+			<DS>750</DS>
+			<EV>1742</EV>
+			<HP>245900</HP>
+			<HT>14600</HT>
+			<MS>1260</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv2 Summon Digimon)</SubName>
+		<Model>61040</Model>
+		<Scale>0.058708776</Scale>
+		<Class>3</Class>
+		<EXP>5600</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73111" Name="HerculesKabuterimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>384</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>360</DE>
+			<DS>800</DS>
+			<EV>1788</EV>
+			<HP>320300</HP>
+			<HT>15200</HT>
+			<MS>1320</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>61063</Model>
+		<Scale>-3.2271343E+26</Scale>
+		<Class>3</Class>
+		<EXP>32480</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73112" Name="Vikemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>384</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>360</DE>
+			<DS>800</DS>
+			<EV>1788</EV>
+			<HP>320300</HP>
+			<HT>15200</HT>
+			<MS>1320</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>61050</Model>
+		<Scale>-3.2271343E+26</Scale>
+		<Class>3</Class>
+		<EXP>32480</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73113" Name="GrandisKuwagamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>384</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>360</DE>
+			<DS>800</DS>
+			<EV>1788</EV>
+			<HP>320300</HP>
+			<HT>15200</HT>
+			<MS>1320</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>61022</Model>
+		<Scale>-3.2271343E+26</Scale>
+		<Class>3</Class>
+		<EXP>32480</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73114" Name="GranDracmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>384</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>360</DE>
+			<DS>800</DS>
+			<EV>1788</EV>
+			<HP>320300</HP>
+			<HT>15200</HT>
+			<MS>1320</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>61067</Model>
+		<Scale>-3.2271343E+26</Scale>
+		<Class>3</Class>
+		<EXP>32480</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73115" Name="Justimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="120" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>384</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>360</DE>
+			<DS>800</DS>
+			<EV>1788</EV>
+			<HP>320300</HP>
+			<HT>15200</HT>
+			<MS>1320</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv3 Summon Digimon)</SubName>
+		<Model>61019</Model>
+		<Scale>-3.2271343E+26</Scale>
+		<Class>3</Class>
+		<EXP>32480</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73116" Name="Puppetmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="130" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>416</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>423</DE>
+			<DS>850</DS>
+			<EV>1838</EV>
+			<HP>408200</HP>
+			<HT>15800</HT>
+			<MS>1380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>61088</Model>
+		<Scale>-2.2997457E+20</Scale>
+		<Class>3</Class>
+		<EXP>9536</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73117" Name="MetalSeadramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="130" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>416</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>423</DE>
+			<DS>850</DS>
+			<EV>1838</EV>
+			<HP>408200</HP>
+			<HT>15800</HT>
+			<MS>1380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>61029</Model>
+		<Scale>-2.2997457E+20</Scale>
+		<Class>3</Class>
+		<EXP>9536</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73118" Name="MugenDramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="130" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>416</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>423</DE>
+			<DS>850</DS>
+			<EV>1838</EV>
+			<HP>408200</HP>
+			<HT>15800</HT>
+			<MS>1380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>61043</Model>
+		<Scale>-2.2997457E+20</Scale>
+		<Class>3</Class>
+		<EXP>9536</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73119" Name="Piedmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="130" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>416</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>423</DE>
+			<DS>850</DS>
+			<EV>1838</EV>
+			<HP>408200</HP>
+			<HT>15800</HT>
+			<MS>1380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>61049</Model>
+		<Scale>-2.2997457E+20</Scale>
+		<Class>3</Class>
+		<EXP>9536</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73120" Name="Venom Vamdemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="130" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>416</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>423</DE>
+			<DS>850</DS>
+			<EV>1838</EV>
+			<HP>408200</HP>
+			<HT>15800</HT>
+			<MS>1380</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv4 Summon Digimon)</SubName>
+		<Model>61069</Model>
+		<Scale>-2.2997457E+20</Scale>
+		<Class>3</Class>
+		<EXP>9536</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73121" Name="Seraphimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="140" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>448</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>490</DE>
+			<DS>900</DS>
+			<EV>1892</EV>
+			<HP>510800</HP>
+			<HT>16400</HT>
+			<MS>1440</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>61031</Model>
+		<Scale>-1.5225063E+14</Scale>
+		<Class>3</Class>
+		<EXP>50304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73122" Name="Cherubimon White">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="140" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>448</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>490</DE>
+			<DS>900</DS>
+			<EV>1892</EV>
+			<HP>510800</HP>
+			<HT>16400</HT>
+			<MS>1440</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>61051</Model>
+		<Scale>-1.5225063E+14</Scale>
+		<Class>3</Class>
+		<EXP>50304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73123" Name="Death-X-DORUgoramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="140" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>448</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>490</DE>
+			<DS>900</DS>
+			<EV>1892</EV>
+			<HP>510800</HP>
+			<HT>16400</HT>
+			<MS>1440</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>61056</Model>
+		<Scale>-1.5225063E+14</Scale>
+		<Class>3</Class>
+		<EXP>50304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73124" Name="Arkadimon Ultimate">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="140" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>448</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>490</DE>
+			<DS>900</DS>
+			<EV>1892</EV>
+			<HP>510800</HP>
+			<HT>16400</HT>
+			<MS>1440</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>61057</Model>
+		<Scale>-1.5225063E+14</Scale>
+		<Class>3</Class>
+		<EXP>50304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73125" Name="MagnaDramon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="140" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>448</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>490</DE>
+			<DS>900</DS>
+			<EV>1892</EV>
+			<HP>510800</HP>
+			<HT>16400</HT>
+			<MS>1440</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv5 Summon Digimon)</SubName>
+		<Model>61025</Model>
+		<Scale>-1.5225063E+14</Scale>
+		<Class>3</Class>
+		<EXP>50304</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73126" Name="Beelzebumon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="150" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>480</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>563</DE>
+			<DS>950</DS>
+			<EV>1950</EV>
+			<HP>629100</HP>
+			<HT>17000</HT>
+			<MS>1950</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>61037</Model>
+		<Scale>1.2696048E-26</Scale>
+		<Class>3</Class>
+		<EXP>63712</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73127" Name="Demon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="150" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>480</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>563</DE>
+			<DS>950</DS>
+			<EV>1950</EV>
+			<HP>629100</HP>
+			<HT>17000</HT>
+			<MS>1950</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>62076</Model>
+		<Scale>1.2696048E-26</Scale>
+		<Class>3</Class>
+		<EXP>63712</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73128" Name="Lilithmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="150" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>480</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>563</DE>
+			<DS>950</DS>
+			<EV>1950</EV>
+			<HP>629100</HP>
+			<HT>17000</HT>
+			<MS>1950</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>62077</Model>
+		<Scale>1.2696048E-26</Scale>
+		<Class>3</Class>
+		<EXP>63712</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73129" Name="Leviamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="150" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>480</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>563</DE>
+			<DS>950</DS>
+			<EV>1950</EV>
+			<HP>629100</HP>
+			<HT>17000</HT>
+			<MS>1950</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>61155</Model>
+		<Scale>1.2696048E-26</Scale>
+		<Class>3</Class>
+		<EXP>63712</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73130" Name="Barbamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="150" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>480</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>563</DE>
+			<DS>950</DS>
+			<EV>1950</EV>
+			<HP>629100</HP>
+			<HT>17000</HT>
+			<MS>1950</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv6 Summon Digimon)</SubName>
+		<Model>63005</Model>
+		<Scale>1.2696048E-26</Scale>
+		<Class>3</Class>
+		<EXP>63712</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73131" Name="Death-X-mon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="160" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>512</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>640</DE>
+			<DS>1000</DS>
+			<EV>2012</EV>
+			<HP>764300</HP>
+			<HT>17600</HT>
+			<MS>1980</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>71081</Model>
+		<Scale>1.2641761E+11</Scale>
+		<Class>3</Class>
+		<EXP>32224</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73132" Name="Apocalymon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="160" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>512</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>640</DE>
+			<DS>1000</DS>
+			<EV>2012</EV>
+			<HP>764300</HP>
+			<HT>17600</HT>
+			<MS>1980</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>71095</Model>
+		<Scale>1.2641761E+11</Scale>
+		<Class>3</Class>
+		<EXP>32224</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73133" Name="Armagemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="160" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>512</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>640</DE>
+			<DS>1000</DS>
+			<EV>2012</EV>
+			<HP>764300</HP>
+			<HT>17600</HT>
+			<MS>1980</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>71022</Model>
+		<Scale>1.2641761E+11</Scale>
+		<Class>3</Class>
+		<EXP>32224</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73134" Name="Belphemon Rage Mode">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="160" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>512</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>640</DE>
+			<DS>1000</DS>
+			<EV>2012</EV>
+			<HP>764300</HP>
+			<HT>17600</HT>
+			<MS>1980</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>71090</Model>
+		<Scale>1.2641761E+11</Scale>
+		<Class>3</Class>
+		<EXP>32224</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="73135" Name="Lucemon Wild 2nd Mode">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="160" Sight="800" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>512</AT>
+			<CC>15</CC>
+			<CD>3500</CD>
+			<DE>640</DE>
+			<DS>1000</DS>
+			<EV>2012</EV>
+			<HP>764300</HP>
+			<HT>17600</HT>
+			<MS>1980</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Card Lv7 Summon Digimon)</SubName>
+		<Model>71088</Model>
+		<Scale>1.2641761E+11</Scale>
+		<Class>3</Class>
+		<EXP>32224</EXP>
+		<EXPMin>12</EXPMin>
+		<EXPMax>36</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="21371" Name="Tanemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="6" Sight="300" HuntRange="3500">
+			<AR>130</AR>
+			<AS>3000</AS>
+			<AT>25</AT>
+			<CC>15</CC>
+			<CD>320</CD>
+			<DE>2</DE>
+			<DS>177</DS>
+			<EV>1216</EV>
+			<HP>400</HP>
+			<HT>580</HT>
+			<MS>400</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Mutation)</SubName>
+		<Model>21137</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>19000</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="40683" Name="Devimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="300" HuntRange="3500">
+			<AR>200</AR>
+			<AS>3000</AS>
+			<AT>85</AT>
+			<CC>15</CC>
+			<CD>799</CD>
+			<DE>110</DE>
+			<DS>648</DS>
+			<EV>1768</EV>
+			<HP>18600</HP>
+			<HT>1566</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(The source of evil)</SubName>
+		<Model>41068</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>3070</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="40741" Name="Growmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="30" Sight="300" HuntRange="3500">
+			<AR>250</AR>
+			<AS>3000</AS>
+			<AT>83</AT>
+			<CC>15</CC>
+			<CD>799</CD>
+			<DE>115</DE>
+			<DS>655</DS>
+			<EV>1768</EV>
+			<HP>18600</HP>
+			<HT>1566</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Mad Dragon)</SubName>
+		<Model>41074</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>3070</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="50741" Name="WarGrowlmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="40" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3600</AS>
+			<AT>92</AT>
+			<CC>15</CC>
+			<CD>880</CD>
+			<DE>125</DE>
+			<DS>667</DS>
+			<EV>1828</EV>
+			<HP>24600</HP>
+			<HT>1732</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Legendary Armor)</SubName>
+		<Model>51074</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>31948</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="50383" Name="Andromon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="50" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>3000</AS>
+			<AT>140</AT>
+			<CC>15</CC>
+			<CD>994</CD>
+			<DE>217</DE>
+			<DS>540</DS>
+			<EV>1919</EV>
+			<HP>45000</HP>
+			<HT>1980</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Guardian)</SubName>
+		<Model>51038</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>57676</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51613" Name="Mammothmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="73" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>4000</AS>
+			<AT>307</AT>
+			<CC>15</CC>
+			<CD>1517</CD>
+			<DE>95</DE>
+			<DS>800</DS>
+			<EV>2337</EV>
+			<HP>34800</HP>
+			<HT>3143</HT>
+			<MS>500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Clairvoyance in Darkness)</SubName>
+		<Model>51128</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>31696</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51723" Name="SkullGreymon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="73" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>2200</AS>
+			<AT>307</AT>
+			<CC>15</CC>
+			<CD>1517</CD>
+			<DE>95</DE>
+			<DS>541</DS>
+			<EV>2337</EV>
+			<HP>5470</HP>
+			<HT>3143</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Outlaw Immortal)</SubName>
+		<Model>51024</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>31696</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="40751" Name="GizumonAT">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="60" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>178</AT>
+			<CC>15</CC>
+			<CD>1080</CD>
+			<DE>220</DE>
+			<DS>325</DS>
+			<EV>1984</EV>
+			<HP>57600</HP>
+			<HT>2160</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Destroyer)</SubName>
+		<Model>41075</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>57068</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="61475" Name="MetalEtemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="73" Sight="600" HuntRange="3500">
+			<AR>100</AR>
+			<AS>2800</AS>
+			<AT>307</AT>
+			<CC>15</CC>
+			<CD>1517</CD>
+			<DE>95</DE>
+			<DS>540</DS>
+			<EV>2337</EV>
+			<HP>34800</HP>
+			<HT>1290</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(King of Digimon)</SubName>
+		<Model>61045</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>31696</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="50233" Name="GizumonXT">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="70" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>275</AT>
+			<CC>15</CC>
+			<CD>1480</CD>
+			<DE>230</DE>
+			<DS>662</DS>
+			<EV>2309</EV>
+			<HP>96000</HP>
+			<HT>3060</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Destroyer)</SubName>
+		<Model>51023</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>4</Class>
+		<EXP>63460</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="61624" Name="Vikemon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="73" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>2200</AS>
+			<AT>307</AT>
+			<CC>15</CC>
+			<CD>1517</CD>
+			<DE>95</DE>
+			<DS>541</DS>
+			<EV>2337</EV>
+			<HP>34800</HP>
+			<HT>1290</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Army Defector)</SubName>
+		<Model>61050</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>31696</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="61614" Name="HiAndromon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="68" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>270</AT>
+			<CC>15</CC>
+			<CD>1301</CD>
+			<DE>228</DE>
+			<DS>541</DS>
+			<EV>2161</EV>
+			<HP>91200</HP>
+			<HT>1210</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Protector)</SubName>
+		<Model>61020</Model>
+		<Scale>4.1786382E-08</Scale>
+		<Class>4</Class>
+		<EXP>22860</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="60350" Name="Diablomon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="81" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>295</AT>
+			<CC>15</CC>
+			<CD>1620</CD>
+			<DE>260</DE>
+			<DS>541</DS>
+			<EV>2415</EV>
+			<HP>132000</HP>
+			<HT>3359</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(king of Destroy)</SubName>
+		<Model>61035</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>24616</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="60401" Name="TigerVespamon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="81" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>2800</AS>
+			<AT>310</AT>
+			<CC>15</CC>
+			<CD>1620</CD>
+			<DE>255</DE>
+			<DS>541</DS>
+			<EV>2415</EV>
+			<HP>117600</HP>
+			<HT>3359</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Ace of Royal Command)</SubName>
+		<Model>61040</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>24616</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="60340" Name="Cherubimon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="85" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3000</AS>
+			<AT>295</AT>
+			<CC>15</CC>
+			<CD>1674</CD>
+			<DE>300</DE>
+			<DS>541</DS>
+			<EV>2454</EV>
+			<HP>216000</HP>
+			<HT>3467</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(Embodiment of evil)</SubName>
+		<Model>61034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>4</Class>
+		<EXP>40280</EXP>
+		<EXPMin>24</EXPMin>
+		<EXPMax>72</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51507" Name="Pumpkinmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="10" Sight="600" HuntRange="3500">
+			<AR>100</AR>
+			<AS>2200</AS>
+			<AT>10</AT>
+			<CC>15</CC>
+			<CD>308</CD>
+			<DE>10</DE>
+			<DS>540</DS>
+			<EV>1202</EV>
+			<HP>120</HP>
+			<HT>556</HT>
+			<MS>500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(EXP)</SubName>
+		<Model>51150</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>36382</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51509" Name="Pumpkinmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="15" Sight="600" HuntRange="3500">
+			<AR>100</AR>
+			<AS>2200</AS>
+			<AT>10</AT>
+			<CC>15</CC>
+			<CD>308</CD>
+			<DE>10</DE>
+			<DS>540</DS>
+			<EV>1202</EV>
+			<HP>120</HP>
+			<HT>556</HT>
+			<MS>500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(EXP)</SubName>
+		<Model>51150</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>13985</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51511" Name="Pumpkinmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="17" Sight="600" HuntRange="3500">
+			<AR>100</AR>
+			<AS>2200</AS>
+			<AT>10</AT>
+			<CC>15</CC>
+			<CD>308</CD>
+			<DE>10</DE>
+			<DS>540</DS>
+			<EV>1202</EV>
+			<HP>120</HP>
+			<HT>556</HT>
+			<MS>500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(EXP)</SubName>
+		<Model>51150</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>61424</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Quantity="1" Specie="51513" Name="Pumpkinmon">
+		<Location X="29509" Y="26383" Radius="200"/>
+		<Respawn Time="0" KillGen="0" KillCount="0"/>
+		<Status Level="20" Sight="600" HuntRange="3500">
+			<AR>100</AR>
+			<AS>2200</AS>
+			<AT>10</AT>
+			<CC>15</CC>
+			<CD>308</CD>
+			<DE>10</DE>
+			<DS>540</DS>
+			<EV>1202</EV>
+			<HP>120</HP>
+			<HT>556</HT>
+			<MS>500</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>(EXP)</SubName>
+		<Model>51150</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>45682</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+</Map>

@@ -1,0 +1,262 @@
+<Map Id="1705" Name="Center Royal Base (Easy)">
+  <Monster Specie="51209" Name="DexDoruGreymon">
+    <Location X="24133" Y="12637" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="20000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>155</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>230</DE>
+      <DS>400</DS>
+      <EV>3432</EV>
+      <HP>30000</HP>
+      <HT>25600</HT>
+      <MS>780</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51106</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51210" Name="Gate">
+    <Location X="29064" Y="12713" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>200</DE>
+      <DS>390</DS>
+      <EV>3404</EV>
+      <HP>2431400</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>52496</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51211" Name="DexDoruGreymons Egg">
+    <Location X="37976" Y="37535" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>130</DE>
+      <DS>350</DS>
+      <EV>3300</EV>
+      <HP>40000</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51212" Name="DexDorugoramon">
+    <Location X="37392" Y="36719" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>884</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>570</DE>
+      <DS>510</DS>
+      <EV>4500</EV>
+      <HP>2481300</HP>
+      <HT>29120</HT>
+      <MS>956</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>6960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51209" Name="DexDoruGreymon">
+    <Location X="24133" Y="12637" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="20000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>155</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>230</DE>
+      <DS>400</DS>
+      <EV>3432</EV>
+      <HP>30000</HP>
+      <HT>25600</HT>
+      <MS>780</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51106</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51210" Name="Gate">
+    <Location X="29064" Y="12713" Radius="1000" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>10000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>200</DE>
+      <DS>390</DS>
+      <EV>3404</EV>
+      <HP>2431400</HP>
+      <HT>25280</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16055</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>52496</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51211" Name="DexDoruGreymons Egg">
+    <Location X="37976" Y="37535" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>130</DE>
+      <DS>350</DS>
+      <EV>3300</EV>
+      <HP>40000</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51211" Name="DexDoruGreymons Egg">
+    <Location X="37976" Y="37535" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>130</DE>
+      <DS>350</DS>
+      <EV>3300</EV>
+      <HP>40000</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51211" Name="DexDoruGreymons Egg">
+    <Location X="37976" Y="37535" Radius="3376" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="15000" HuntRange="40000">
+      <AR>40000</AR>
+      <AS>2500</AS>
+      <AT>0</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>130</DE>
+      <DS>350</DS>
+      <EV>3300</EV>
+      <HP>40000</HP>
+      <HT>24000</HT>
+      <MS>0</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>16056</Model>
+    <Scale>5.8535656E+35</Scale>
+    <Class>1</Class>
+    <EXP>10000</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+  <Monster Specie="51212" Name="DexDorugoramon">
+    <Location X="37392" Y="36719" Radius="100" />
+    <Respawn Time="50000" KillGen="0" KillCount="0" />
+    <Status Level="99" Sight="6000" HuntRange="8000">
+      <AR>150</AR>
+      <AS>2500</AS>
+      <AT>884</AT>
+      <CC>15</CC>
+      <CD>5000</CD>
+      <DE>570</DE>
+      <DS>510</DS>
+      <EV>4500</EV>
+      <HP>2481300</HP>
+      <HT>29120</HT>
+      <MS>956</MS>
+      <WS>30817</WS>
+    </Status>
+    <Battle>3</Battle>
+    <SubName>The Ruler of the east)</SubName>
+    <Model>51107</Model>
+    <Scale>4.3268E-41</Scale>
+    <Class>6</Class>
+    <EXP>6960</EXP>
+    <EXPMin>24</EXPMin>
+    <EXPMax>72</EXPMax>
+  </Monster>
+</Map>

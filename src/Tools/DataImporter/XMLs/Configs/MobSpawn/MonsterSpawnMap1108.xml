@@ -1,0 +1,4214 @@
+<Map Id="1108" Name="Digimon Maze Entrance">
+	<Monster Specie="50411" Name="HishaRyuumon">
+		<Location X="28628" Y="26108" Radius="1800"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50411" Name="HishaRyuumon">
+		<Location X="30847" Y="24831" Radius="1950"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50411" Name="HishaRyuumon">
+		<Location X="33303" Y="23897" Radius="1950"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50411" Name="HishaRyuumon">
+		<Location X="35987" Y="22207" Radius="1950"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50411" Name="HishaRyuumon">
+		<Location X="37080" Y="24593" Radius="1650"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50412" Name="HishaRyuumon">
+		<Location X="30595" Y="27304" Radius="1850"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50412" Name="HishaRyuumon">
+		<Location X="32874" Y="25382" Radius="1950"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50412" Name="HishaRyuumon">
+		<Location X="35177" Y="25674" Radius="1950"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50412" Name="HishaRyuumon">
+		<Location X="37978" Y="23006" Radius="1850"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50412" Name="HishaRyuumon">
+		<Location X="32614" Y="27541" Radius="1750"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51041</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="20570" Y="42206" Radius="2065"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40264" Name="Rockmon">
+		<Location X="18566" Y="42801" Radius="1959"/>
+		<Respawn Time="30" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50273" Name="Volcamon">
+		<Location X="32300" Y="43533" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50274" Name="Volcamon">
+		<Location X="30824" Y="41694" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="38878" Y="48252" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="38135" Y="46962" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="15615" Y="37376" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="10120" Y="37738" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="34265" Y="17978" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="32699" Y="17262" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="61490" Name="Boltmon">
+		<Location X="13520" Y="41614" Radius="2848"/>
+		<Respawn Time="10" KillGen="40264" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61491" Name="Boltmon">
+		<Location X="14485" Y="34268" Radius="3693"/>
+		<Respawn Time="10" KillGen="50344" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61492" Name="Boltmon">
+		<Location X="41292" Y="26172" Radius="3376"/>
+		<Respawn Time="10" KillGen="60874" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61493" Name="Boltmon">
+		<Location X="41105" Y="40279" Radius="2848"/>
+		<Respawn Time="10" KillGen="50332" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61494" Name="Boltmon">
+		<Location X="27689" Y="35559" Radius="2848"/>
+		<Respawn Time="10" KillGen="50274" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="20361" Y="40815" Radius="2065"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="19102" Y="43847" Radius="2065"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="17280" Y="46022" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="14525" Y="45060" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="13659" Y="40974" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40263" Name="Rockmon">
+		<Location X="11404" Y="43718" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="40263" Name="Rockmon">
+		<Location X="10821" Y="39805" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="40263" Name="Rockmon">
+		<Location X="18467" Y="40274" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="40263" Name="Rockmon">
+		<Location X="11415" Y="45108" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="40263" Name="Rockmon">
+		<Location X="18484" Y="36937" Radius="1865"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>70</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3960</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="40264" Name="Rockmon">
+		<Location X="16451" Y="44629" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="13261" Y="46187" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="13230" Y="43298" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="10943" Y="41879" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="12318" Y="38605" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="15407" Y="38722" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="18936" Y="38559" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="9388" Y="42689" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="15858" Y="41671" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="40264" Name="Rockmon">
+		<Location X="21026" Y="35831" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="5500">
+			<AR>350</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>91</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5150</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>41026</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50273" Name="Volcamon">
+		<Location X="33465" Y="42265" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50273" Name="Volcamon">
+		<Location X="29760" Y="42810" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50273" Name="Volcamon">
+		<Location X="31625" Y="40402" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50273" Name="Volcamon">
+		<Location X="28610" Y="41249" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50273" Name="Volcamon">
+		<Location X="27793" Y="38388" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50273" Name="Volcamon">
+		<Location X="25463" Y="37163" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50273" Name="Volcamon">
+		<Location X="25833" Y="34699" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50273" Name="Volcamon">
+		<Location X="29966" Y="33164" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50273" Name="Volcamon">
+		<Location X="30819" Y="35310" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50273" Name="Volcamon">
+		<Location X="26035" Y="38285" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>329</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>90</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>3720</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50274" Name="Volcamon">
+		<Location X="33433" Y="40828" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="32729" Y="38445" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="30012" Y="39657" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="27198" Y="39671" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="27806" Y="42403" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="27013" Y="36080" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="29092" Y="34951" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="29650" Y="37318" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="31871" Y="36483" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50274" Name="Volcamon">
+		<Location X="27550" Y="33596" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>362</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>117</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4840</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51027</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="36166" Y="47963" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="34600" Y="45039" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="34817" Y="42276" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="36878" Y="42818" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="40162" Y="42438" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="42389" Y="44398" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="43755" Y="41628" Radius="2048"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="44127" Y="43320" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="41265" Y="40705" Radius="1948"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50331" Name="CannonBeemon">
+		<Location X="40950" Y="35344" Radius="1948"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>231</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4500</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="40518" Y="46575" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="40327" Y="44160" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="37307" Y="44291" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="36707" Y="41483" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="36237" Y="39283" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="38979" Y="39405" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="42911" Y="39670" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="41508" Y="37547" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50332" Name="CannonBeemon">
+		<Location X="38642" Y="35326" Radius="1848"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>200</AR>
+			<AS>2200</AS>
+			<AT>254</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5850</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51033</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="16558" Y="36041" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="14147" Y="36106" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="16042" Y="33451" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="13607" Y="33511" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="11456" Y="30822" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50343" Name="Cerberusmon">
+		<Location X="14003" Y="30680" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="76" Sight="600" HuntRange="3500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>218</AT>
+			<CC>15</CC>
+			<CD>864</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1820</EV>
+			<HP>4210</HP>
+			<HT>1790</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>11016</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="12337" Y="37032" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="9510" Y="35070" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="12522" Y="34721" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="15990" Y="34919" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="17266" Y="32397" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="14064" Y="32089" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="12749" Y="29388" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="15377" Y="29384" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="18129" Y="31365" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="19636" Y="34252" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="50344" Name="Cerberusmon">
+		<Location X="11076" Y="32699" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="800" HuntRange="4500">
+			<AR>250</AR>
+			<AS>2200</AS>
+			<AT>240</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>5470</HP>
+			<HT>1806</HT>
+			<MS>680</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>51034</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="33039" Y="16257" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="31198" Y="18023" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="30160" Y="20654" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="27537" Y="21138" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="24335" Y="21438" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="29305" Y="21525" Radius="1559"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="28025" Y="17085" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="42137" Y="23410" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="39739" Y="24951" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="37789" Y="26276" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="38230" Y="28363" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="39267" Y="30454" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="40169" Y="32110" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="41615" Y="33343" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="43190" Y="35487" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="45106" Y="35927" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="44977" Y="33113" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="46890" Y="32856" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>		
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="49228" Y="30899" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="39913" Y="26517" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="40270" Y="29364" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="45752" Y="29202" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="45352" Y="37214" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>		
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="39884" Y="33767" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="44667" Y="31136" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="43339" Y="30019" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="47183" Y="30624" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>		
+		<Monster Specie="60873" Name="PileVolcamon">
+		<Location X="47396" Y="34436" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="77" Sight="600" HuntRange="3500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>347</AT>
+			<CC>15</CC>
+			<CD>872</CD>
+			<DE>50</DE>
+			<DS>540</DS>
+			<EV>1828</EV>
+			<HP>4490</HP>
+			<HT>1806</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>1</Battle>
+		<SubName>Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>21456</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>		
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="48064" Y="29331" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="48377" Y="32108" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="49893" Y="28227" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="48664" Y="26752" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="36918" Y="27732" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="42488" Y="31892" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="43879" Y="34207" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="45809" Y="34312" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+			<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="47289" Y="36404" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="41035" Y="30817" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="38488" Y="31897" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="44455" Y="28170" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="45520" Y="26692" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>	
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="31963" Y="19851" Radius="2059"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="33546" Y="19543" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="28964" Y="19413" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="26788" Y="18602" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="26684" Y="22710" Radius="1759"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="26469" Y="24074" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="30251" Y="16324" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="35238" Y="19073" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="39800" Y="23406" Radius="1659"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="41364" Y="22147" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="41805" Y="25155" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="43652" Y="24551" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="43291" Y="26769" Radius="1859"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="41539" Y="26846" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+		<Monster Specie="60874" Name="PileVolcamon">
+		<Location X="42339" Y="28979" Radius="1959"/>
+		<Respawn Time="2" KillGen="0" KillCount="0"/>
+		<Status Level="78" Sight="800" HuntRange="4500">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>382</AT>
+			<CC>15</CC>
+			<CD>879</CD>
+			<DE>65</DE>
+			<DS>540</DS>
+			<EV>1836</EV>
+			<HP>5840</HP>
+			<HT>1820</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Leader)</SubName>
+		<Model>61087</Model>
+		<Scale>2.720923E+23</Scale>
+		<Class>1</Class>
+		<EXP>31896</EXP>
+		<EXPMin>6</EXPMin>
+		<EXPMax>18</EXPMax>
+	</Monster>
+	<Monster Specie="61490" Name="Boltmon">
+		<Location X="13520" Y="41614" Radius="2848"/>
+		<Respawn Time="10" KillGen="40264" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61491" Name="Boltmon">
+		<Location X="14485" Y="34268" Radius="3693"/>
+		<Respawn Time="10" KillGen="50344" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61492" Name="Boltmon">
+		<Location X="41292" Y="26172" Radius="3376"/>
+		<Respawn Time="10" KillGen="60874" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61493" Name="Boltmon">
+		<Location X="41105" Y="40279" Radius="2848"/>
+		<Respawn Time="10" KillGen="50332" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status>
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+	<Monster Specie="61494" Name="Boltmon">
+		<Location X="27689" Y="35559" Radius="2848"/>
+		<Respawn Time="10" KillGen="50274" KillCount="15"/>
+		<Status Level="78" Sight="800" HuntRange="5000">
+			<AR>150</AR>
+			<AS>3300</AS>
+			<AT>377</AT>
+			<CC>15</CC>
+			<CD>1758</CD>
+			<DE>150</DE>
+			<DS>540</DS>
+			<EV>2570</EV>
+			<HP>24420</HP>
+			<HT>1371</HT>
+			<MS>700</MS>
+			<WS>30817</WS>
+		</Status> 
+		<Battle>3</Battle>
+		<SubName>(Area Observer)</SubName>
+		<Model>61151</Model>
+		<Scale>4.3268E-41</Scale>
+		<Class>5</Class>
+		<EXP>29252</EXP>
+		<EXPMin>30</EXPMin>
+		<EXPMax>90</EXPMax>
+	</Monster>
+</Map>
