@@ -363,6 +363,16 @@ namespace DigitalWorldOnline.Commons.Enums.PacketProcessor
         DigimonArchive = 3204,
         
         /// <summary>
+        /// Called when opening the cash shop. Not sure what it does.
+        /// </summary>
+        CashShopOnOpen = 3412,
+        
+        /// <summary>
+        /// Processes a cash shop purchase
+        /// </summary>
+        CashShopPurchase = 3413,
+        
+        /// <summary>
         /// Loads the remaining membership timer.
         /// </summary>
         MembershipInformation = 3414,
@@ -377,6 +387,11 @@ namespace DigitalWorldOnline.Commons.Enums.PacketProcessor
         /// </summary>
         SpiritCraft = 3240,
 
+        /// <summary>
+        /// Sends an update on the current premium currency
+        /// </summary>
+        PremiumCurrencyUpdate = 3404,
+        
         /// <summary>
         /// Moves an item to another position/storage.
         /// </summary>

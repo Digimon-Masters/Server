@@ -425,4 +425,8 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Source\Domain\DigitalWorldOnline.Commons\DigitalWorldOnline.Commons.csproj" />
+  </ItemGroup>
+
 </Project>

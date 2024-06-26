@@ -21,6 +21,7 @@ using Serilog.Events;
 using System.Globalization;
 using System.Reflection;
 using DigitalWorldOnline.Commons.Utils;
+using DigitalWorldOnline.Infraestructure.Repositories.Shop;
 
 namespace DigitalWorldOnline.Character
 {
@@ -69,6 +70,7 @@ namespace DigitalWorldOnline.Character
                     services.AddScoped<IConfigCommandsRepository, ConfigCommandsRepository>();
 
                     services.AddScoped<IRoutineRepository, RoutineRepository>();
+                    services.AddScoped<ICashShopRepository, CashShopRepository>();
 
                     //services.AddScoped<IEmailService, EmailService>();
 
