@@ -16,5 +16,7 @@ namespace DigitalWorldOnline.Commons.Interfaces
         Task<IList<AccountDTO>> GetAllAccountsAsync();
 
         Task<IList<CharacterDTO>> GetConnectedCharactersAsync();
+
+        Task<AccountDTO> CreateGameAccountAsync(string username, string password, string email = null);
     }
 }

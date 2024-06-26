@@ -5,6 +5,8 @@ using DigitalWorldOnline.Commons.DTOs.Character;
 using Microsoft.EntityFrameworkCore;
 using DigitalWorldOnline.Commons.Interfaces;
 using System.Linq;
+using DigitalWorldOnline.Commons.DTOs.Base;
+using DigitalWorldOnline.Commons.Enums;
 
 namespace DigitalWorldOnline.Infraestructure.Repositories.Account
 {
@@ -82,6 +84,38 @@ namespace DigitalWorldOnline.Infraestructure.Repositories.Account
                 .Include(x => x.Location)
                 .Include(x => x.Digimons)
                 .ToListAsync();
+        }
+
+        public async Task<AccountDTO> CreateGameAccountAsync(string username, string password, string email = null)
+        {
+            var account = new AccountDTO
+            {
+                Username = username,
+                Password = password,
+                Email = string.IsNullOrEmpty(email) ? $"test-email-{DateTime.UtcNow.ToLongDateString()}@email.com" : email,
+                ReceiveWelcome = false,
+                DiscordId = string.Empty,
+                CreateDate = DateTime.UtcNow,
+                Premium = 0,
+                Silk = 0,
+                ItemList = new List<ItemListDTO>
+                {
+                    new() { Type = ItemListEnum.ShopWarehouse, Size = 18 }, 
+                    new() { Type = ItemListEnum.AccountWarehouse, Size = 14 }, 
+                    new() { Type = ItemListEnum.CashWarehouse, Size = 148 }, 
+                    new() { Type = ItemListEnum.BuyHistory, Size = 255}, 
+                },
+                SystemInformation = new SystemInformationDTO
+                {
+                    Cpu = "",
+                    Gpu = "",
+                    Ip = ""
+                }
+            };
+
+            await _context.Account.AddAsync(account);
+            await _context.SaveChangesAsync();
+            return account;
         }
     }
 }

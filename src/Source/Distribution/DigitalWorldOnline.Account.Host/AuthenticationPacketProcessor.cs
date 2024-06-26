@@ -15,6 +15,8 @@ using MediatR;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using System.Text;
+using DigitalWorldOnline.Account.Models.Configuration;
+using DigitalWorldOnline.Application.Admin.Commands;
 
 namespace DigitalWorldOnline.Account
 {
@@ -24,15 +26,16 @@ namespace DigitalWorldOnline.Account
         private readonly IMapper _mapper;
         private readonly ISender _sender;
         private readonly ILogger _logger;
+        private readonly AuthenticationServerConfigurationModel _authenticationServerConfiguration;
 
         private const string CharacterServerAddress = "CharacterServer:Address";
-        private const string AuthenticationServerHash = "AuthenticationServer:Hash";
 
         private const int HandshakeDegree = 32321;
 
-        public AuthenticationPacketProcessor(IMapper mapper, ILogger logger, ISender sender, IConfiguration configuration)
+        public AuthenticationPacketProcessor(IMapper mapper, ILogger logger, ISender sender, IConfiguration configuration, AuthenticationServerConfigurationModel authenticationServerConfiguration)
         {
             _configuration = configuration;
+            _authenticationServerConfiguration = authenticationServerConfiguration;
             _mapper = mapper;
             _sender = sender;
             _logger = logger;
@@ -46,17 +49,14 @@ namespace DigitalWorldOnline.Account
         public async Task ProcessPacketAsync(GameClient client, byte[] data)
         {
             var packet = new AuthenticationPacketReader(data);
-
+            _logger.Debug("Received packet type {Type} from {Address}", packet.Enum, client.ClientAddress);
             switch (packet.Enum)
             {
                 case AuthenticationServerPacketEnum.Connection:
                     {
-                        DebugLog("Reading packet parameters...");
                         var kind = packet.ReadByte();
-
                         var handshakeTimestamp = (uint)DateTimeOffset.UtcNow.ToUnixTimeSeconds();
                         var handshake = (short)(client.Handshake ^ HandshakeDegree);
-
                         client.Send(new ConnectionPacket(handshake, handshakeTimestamp));
                     }
                     break;
@@ -66,28 +66,32 @@ namespace DigitalWorldOnline.Account
 
                 case AuthenticationServerPacketEnum.LoginRequest:
                     {
-                        DebugLog("Reading packet parameters...");
                         var username = ExtractUsername(packet);
                         var password = ExtractPassword(packet, username);
                         var cpu = ExtractCpu(packet, username, password);
                         var gpu = ExtractGpu(packet, username, password, cpu);
 
-                        DebugLog($"Validating login data for {username}...");
+                        _logger.Debug("Validating login data for {Username}", username);
                         var account = await _sender.Send(new AccountByUsernameQuery(username));
-
                         if (account == null)
                         {
-                            DebugLog($"Saving {username} login try for incorrect username...");
-                            await _sender.Send(
-                                new CreateLoginTryCommand(
-                                    username,
-                                    client.ClientAddress,
-                                    LoginTryResultEnum.IncorrectUsername
-                                )
-                            );
-
-                            client.Send(new LoginRequestAnswerPacket(LoginFailReasonEnum.UserNotFound));
-                            break;
+                            if (_authenticationServerConfiguration.AllowRegisterOnLogin)
+                            {
+                                account = await _sender.Send(new CreateGameAccountQuery(username, password.Encrypt()));
+                            }
+                            if (account == null)
+                            {
+                                _logger.Debug("Saving {Username} login try for incorrect username...", username);
+                                await _sender.Send(
+                                    new CreateLoginTryCommand(
+                                        username,
+                                        client.ClientAddress,
+                                        LoginTryResultEnum.IncorrectUsername
+                                    )
+                                );
+                                client.Send(new LoginRequestAnswerPacket(LoginFailReasonEnum.UserNotFound));
+                                break;
+                            }
                         }
 
                         client.SetAccountId(account.Id);
@@ -124,9 +128,9 @@ namespace DigitalWorldOnline.Account
                             client.Send(new LoginRequestAnswerPacket(SecondaryPasswordScreenEnum.RequestInput));
                         }
 
-                        if (bool.Parse(_configuration[AuthenticationServerHash]))
+                        if (_authenticationServerConfiguration.UseHash)
                         {
-                            DebugLog("Getting resources hash...");
+                            _logger.Debug("Getting resources hash.");
                             var hashString = await _sender.Send(new ResourcesHashQuery());
 
                             client.Send(new ResourcesHashPacket(hashString));
@@ -284,11 +288,10 @@ namespace DigitalWorldOnline.Account
                         DebugLog($"Updating account {client.AccountId} last selected server for {serverId}...");
                         await _sender.Send(new UpdateLastPlayedServerCommand(client.AccountId, serverId));
 
-                        if (bool.Parse(_configuration[AuthenticationServerHash]))
+                        if (_authenticationServerConfiguration.UseHash)
                         {
-                            DebugLog("Getting resources hash...");
+                            _logger.Debug("Getting resources hash.");
                             var hashString = await _sender.Send(new ResourcesHashQuery());
-
                             client.Send(new ResourcesHashPacket(hashString));
                         }
 
@@ -307,6 +310,8 @@ namespace DigitalWorldOnline.Account
                     }
                     break;
 
+                case AuthenticationServerPacketEnum.Unknown:
+                case AuthenticationServerPacketEnum.ResourcesHash:
                 default:
                     {
                         _logger.Warning($"Unknown packet. Type: {packet.Type} Length: {packet.Length}.");
