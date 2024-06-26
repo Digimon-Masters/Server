@@ -22,6 +22,7 @@ using System.Globalization;
 using System.Reflection;
 using DigitalWorldOnline.Account.Models.Configuration;
 using DigitalWorldOnline.Commons.Utils;
+using DigitalWorldOnline.Infraestructure.Repositories.Shop;
 using Microsoft.EntityFrameworkCore;
 
 namespace DigitalWorldOnline.Account
@@ -73,6 +74,9 @@ namespace DigitalWorldOnline.Account
 
                     services.AddScoped<IConfigQueriesRepository, ConfigQueriesRepository>();
                     services.AddScoped<IConfigCommandsRepository, ConfigCommandsRepository>();
+
+
+                    services.AddScoped<ICashShopRepository, CashShopRepository>();
 
                     services.AddScoped<IRoutineRepository, RoutineRepository>();
 

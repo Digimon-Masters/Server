@@ -388,6 +388,11 @@ namespace DigitalWorldOnline.Commons.Enums.PacketProcessor
         SpiritCraft = 3240,
 
         /// <summary>
+        /// Sends an update on the current premium currency
+        /// </summary>
+        PremiumCurrencyUpdate = 3404,
+        
+        /// <summary>
         /// Moves an item to another position/storage.
         /// </summary>
         MoveItem = 3904,
