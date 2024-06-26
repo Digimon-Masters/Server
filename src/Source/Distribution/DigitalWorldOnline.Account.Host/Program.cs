@@ -20,6 +20,7 @@ using Serilog;
 using Serilog.Events;
 using System.Globalization;
 using System.Reflection;
+using DigitalWorldOnline.Account.Models.Configuration;
 
 namespace DigitalWorldOnline.Account
 {
@@ -51,7 +52,11 @@ namespace DigitalWorldOnline.Account
                 .ConfigureServices((context, services) =>
                 {
                     services.AddDbContext<DatabaseContext>();
-
+                    
+                    var authenticationServerConfiguration = new AuthenticationServerConfigurationModel();
+                    context.Configuration.GetSection("AuthenticationServer").Bind(authenticationServerConfiguration);
+                    services.AddSingleton(authenticationServerConfiguration);
+                    
                     services.AddScoped<IAdminQueriesRepository, AdminQueriesRepository>();
                     services.AddScoped<IAdminCommandsRepository, AdminCommandsRepository>();
 
