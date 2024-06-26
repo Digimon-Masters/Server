@@ -21,6 +21,7 @@ using Serilog.Events;
 using System.Globalization;
 using System.Reflection;
 using DigitalWorldOnline.Account.Models.Configuration;
+using Microsoft.EntityFrameworkCore;
 
 namespace DigitalWorldOnline.Account
 {
@@ -46,13 +47,13 @@ namespace DigitalWorldOnline.Account
             AppDomain.CurrentDomain.UnhandledException += UnhandledExceptionHandler;
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
-            return Host.CreateDefaultBuilder(args)
+            var host = Host.CreateDefaultBuilder(args)
                 .UseSerilog()
                 .UseEnvironment("Development")
                 .ConfigureServices((context, services) =>
                 {
                     services.AddDbContext<DatabaseContext>();
-                    
+                   
                     var authenticationServerConfiguration = new AuthenticationServerConfigurationModel();
                     context.Configuration.GetSection("AuthenticationServer").Bind(authenticationServerConfiguration);
                     services.AddSingleton(authenticationServerConfiguration);
@@ -99,6 +100,15 @@ namespace DigitalWorldOnline.Account
                     hostConfig.AddEnvironmentVariables("DSO_");
                 })
                 .Build();
+
+
+            //Applying migrations. It's enough to do this on the AccountServer, for now.
+            var scopeFactory = host.Services.GetService<IServiceScopeFactory>();
+            using var scope = scopeFactory.CreateScope();
+            var context = scope.ServiceProvider.GetService<DatabaseContext>();
+            context.Database.Migrate();
+            
+            return host;
         }
 
         private static ILogger ConfigureLogger(IConfiguration configuration)

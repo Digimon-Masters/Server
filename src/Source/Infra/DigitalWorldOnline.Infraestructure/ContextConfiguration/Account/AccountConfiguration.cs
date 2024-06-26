@@ -23,7 +23,7 @@ namespace DigitalWorldOnline.Infraestructure.ContextConfiguration.Account
             builder
                 .Property(x => x.Password)
                 .HasColumnType("varchar")
-                .HasMaxLength(35)
+                .HasMaxLength(250)
                 .IsRequired();
 
             builder

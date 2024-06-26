@@ -77,7 +77,7 @@ namespace DigitalWorldOnline.Account
                         {
                             if (_authenticationServerConfiguration.AllowRegisterOnLogin)
                             {
-                                account = await _sender.Send(new CreateGameAccountQuery(username, password.HashPassword()));
+                                account = await _sender.Send(new CreateGameAccountQuery(username, password.Encrypt()));
                             }
                             if (account == null)
                             {
