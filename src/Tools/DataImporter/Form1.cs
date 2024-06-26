@@ -5,6 +5,7 @@ using System.Globalization;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Serialization;
+using DigitalWorldOnline.Commons.Utils;
 using static DataImporterTool.Form1;
 
 namespace DataImporterTool
@@ -14,6 +15,11 @@ namespace DataImporterTool
         public Form1()
         {
             InitializeComponent();
+            var systemEnvironmentKey = Environment.GetEnvironmentVariable($"{Constants.Configuration.EnvironmentPrefix}{Constants.Configuration.DatabaseKey}", EnvironmentVariableTarget.Machine);
+            if (!string.IsNullOrEmpty(systemEnvironmentKey))
+            {
+                txtConnectionString.Text = systemEnvironmentKey;
+            }
         }
 
         private void btnImport_Click(object sender, EventArgs e)
@@ -22,12 +28,8 @@ namespace DataImporterTool
             string directory;
             string[]? files;
 
-#if DEBUG
-            var cs = "Server=192.35.206.50,8589;Database=DSO;User Id=sa;Password=OkGXTc2Lm7H4Ap37KkzE;TrustServerCertificate=True";
-#else
             var cs = txtConnectionString.Text;
-#endif
-
+            
             if (string.IsNullOrEmpty(cs))
             {
                 MessageBox.Show($"Set the connection string.");
@@ -738,7 +740,7 @@ namespace DataImporterTool
                     {
                         slot++;
 
-                        int skillId = 0; // Variável para armazenar o SkillId atual
+                        int skillId = 0; // Variï¿½vel para armazenar o SkillId atual
                         switch (i)
                         {
                             case 1:
@@ -816,7 +818,7 @@ namespace DataImporterTool
                         }
                     }
 
-                    conn.Close(); // Lembre-se de fechar a conexão fora do loop
+                    conn.Close(); // Lembre-se de fechar a conexï¿½o fora do loop
                 }
             }
         }
@@ -1120,28 +1122,28 @@ namespace DataImporterTool
                     string insertSummonQuery = @"INSERT INTO Config.Summon (ItemId, Maps) VALUES (@ItemId, @Maps); SELECT SCOPE_IDENTITY();";
                     SqlCommand insertSummonCommand = new SqlCommand(insertSummonQuery, connection);
 
-                    // Supondo que summon.ItemId é do tipo int
+                    // Supondo que summon.ItemId ï¿½ do tipo int
                     insertSummonCommand.Parameters.AddWithValue("@ItemId", summond.ItemId);
 
                     List<string> mapValues = summond.Maps.Map.Select(map => map.ToString()).ToList();
 
                     string resultado = string.Join(", ", mapValues);
 
-                    // Adicionando o parâmetro @Maps como NVARCHAR
+                    // Adicionando o parï¿½metro @Maps como NVARCHAR
                     insertSummonCommand.Parameters.Add("@Maps", SqlDbType.NVarChar).Value = resultado;
 
                     // Executando o comando e obtendo o ID inserido
                     object result = insertSummonCommand.ExecuteScalar();
 
-                    // Verifique se a consulta retornou um valor antes de tentar convertê-lo para long
+                    // Verifique se a consulta retornou um valor antes de tentar convertï¿½-lo para long
                     if (result != null && result != DBNull.Value)
                     {
                         summonId = Convert.ToInt64(result);
-                        // Faça o que precisa ser feito com o summonId aqui
+                        // Faï¿½a o que precisa ser feito com o summonId aqui
                     }
                     else
                     {
-                        // Lidar com um cenário onde não foi possível obter o ID inserido
+                        // Lidar com um cenï¿½rio onde nï¿½o foi possï¿½vel obter o ID inserido
                     }
 
                     foreach (var summont in summond.SummonedMobs)
@@ -1267,7 +1269,7 @@ namespace DataImporterTool
                     connection.Close();
                 }
 
-                // Operações de inserção concluídas, pode fazer commit da transação se necessário
+                // Operaï¿½ï¿½es de inserï¿½ï¿½o concluï¿½das, pode fazer commit da transaï¿½ï¿½o se necessï¿½rio
             }
         }
 
@@ -1495,7 +1497,7 @@ namespace DataImporterTool
                     string insertSummonQuery = @"INSERT INTO Asset.ArenaDailyItemRewards (WeekDay) VALUES (@WeekDay); SELECT SCOPE_IDENTITY();";
                     SqlCommand insertSummonCommand = new SqlCommand(insertSummonQuery, connection);
 
-                    // Supondo que summon.ItemId é do tipo int
+                    // Supondo que summon.ItemId ï¿½ do tipo int
                     if (day == 1)
                     {
                         insertSummonCommand.Parameters.AddWithValue("@WeekDay", (int)DayOfWeek.Monday);
@@ -1528,15 +1530,15 @@ namespace DataImporterTool
                     // Executando o comando e obtendo o ID inserido
                     object result = insertSummonCommand.ExecuteScalar();
 
-                    // Verifique se a consulta retornou um valor antes de tentar convertê-lo para long
+                    // Verifique se a consulta retornou um valor antes de tentar convertï¿½-lo para long
                     if (result != null && result != DBNull.Value)
                     {
                         summonId = Convert.ToInt64(result);
-                        // Faça o que precisa ser feito com o summonId aqui
+                        // Faï¿½a o que precisa ser feito com o summonId aqui
                     }
                     else
                     {
-                        // Lidar com um cenário onde não foi possível obter o ID inserido
+                        // Lidar com um cenï¿½rio onde nï¿½o foi possï¿½vel obter o ID inserido
                     }
 
                     foreach (var rewardneed in rewards.RewardInfos)
@@ -1564,7 +1566,7 @@ namespace DataImporterTool
                 }
                 connection.Close();
 
-                // Operações de inserção concluídas, pode fazer commit da transação se necessário
+                // Operaï¿½ï¿½es de inserï¿½ï¿½o concluï¿½das, pode fazer commit da transaï¿½ï¿½o se necessï¿½rio
             }
         }
 
@@ -1603,7 +1605,7 @@ namespace DataImporterTool
                     string insertSummonQuery = @"INSERT INTO Asset.AccessoryRoll (ItemId, StatusAmount, RerollAmount) VALUES (@ItemId, @StatusAmount, @RerollAmount); SELECT SCOPE_IDENTITY();";
                     SqlCommand insertSummonCommand = new SqlCommand(insertSummonQuery, connection);
 
-                    // Supondo que summon.ItemId é do tipo int
+                    // Supondo que summon.ItemId ï¿½ do tipo int
 
 
                     insertSummonCommand.Parameters.AddWithValue("@ItemId", rewards.ItemId);
@@ -1613,15 +1615,15 @@ namespace DataImporterTool
                     // Executando o comando e obtendo o ID inserido
                     object result = insertSummonCommand.ExecuteScalar();
 
-                    // Verifique se a consulta retornou um valor antes de tentar convertê-lo para long
+                    // Verifique se a consulta retornou um valor antes de tentar convertï¿½-lo para long
                     if (result != null && result != DBNull.Value)
                     {
                         summonId = Convert.ToInt64(result);
-                        // Faça o que precisa ser feito com o summonId aqui
+                        // Faï¿½a o que precisa ser feito com o summonId aqui
                     }
                     else
                     {
-                        // Lidar com um cenário onde não foi possível obter o ID inserido
+                        // Lidar com um cenï¿½rio onde nï¿½o foi possï¿½vel obter o ID inserido
                     }
 
 
@@ -1645,7 +1647,7 @@ namespace DataImporterTool
                 }
                 connection.Close();
 
-                // Operações de inserção concluídas, pode fazer commit da transação se necessário
+                // Operaï¿½ï¿½es de inserï¿½ï¿½o concluï¿½das, pode fazer commit da transaï¿½ï¿½o se necessï¿½rio
             }
         }
         public static string CleanString(string input)
