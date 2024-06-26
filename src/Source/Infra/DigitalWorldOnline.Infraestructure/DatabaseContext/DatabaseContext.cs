@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DigitalWorldOnline.Commons.Utils;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace DigitalWorldOnline.Infraestructure
@@ -21,8 +22,10 @@ namespace DigitalWorldOnline.Infraestructure
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-
-                optionsBuilder.UseSqlServer("Server=SEU SQL;Database=NOME DB;User Id=sa;Password=SENHA SQL;TrustServerCertificate=True");
+            var configurationDatabaseKey = _configuration[Constants.Configuration.DatabaseKey];
+            //Set a system environment variable with key DMO_ConnectionStrings:Digimon
+            var systemEnvironmentKey = Environment.GetEnvironmentVariable($"{Constants.Configuration.EnvironmentPrefix}{Constants.Configuration.DatabaseKey}", EnvironmentVariableTarget.Machine);
+            optionsBuilder.UseSqlServer(systemEnvironmentKey ?? configurationDatabaseKey);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

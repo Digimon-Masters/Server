@@ -17,6 +17,7 @@ using Serilog;
 using System.Text;
 using DigitalWorldOnline.Account.Models.Configuration;
 using DigitalWorldOnline.Application.Admin.Commands;
+using Microsoft.Extensions.Options;
 
 namespace DigitalWorldOnline.Account
 {
@@ -32,10 +33,10 @@ namespace DigitalWorldOnline.Account
 
         private const int HandshakeDegree = 32321;
 
-        public AuthenticationPacketProcessor(IMapper mapper, ILogger logger, ISender sender, IConfiguration configuration, AuthenticationServerConfigurationModel authenticationServerConfiguration)
+        public AuthenticationPacketProcessor(IMapper mapper, ILogger logger, ISender sender, IConfiguration configuration, IOptions<AuthenticationServerConfigurationModel> authenticationServerConfiguration)
         {
             _configuration = configuration;
-            _authenticationServerConfiguration = authenticationServerConfiguration;
+            _authenticationServerConfiguration = authenticationServerConfiguration.Value;
             _mapper = mapper;
             _sender = sender;
             _logger = logger;

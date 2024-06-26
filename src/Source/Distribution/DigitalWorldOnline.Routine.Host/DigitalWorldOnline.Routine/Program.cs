@@ -19,6 +19,7 @@ using Microsoft.Extensions.Hosting;
 using Serilog;
 using System.Globalization;
 using System.Reflection;
+using DigitalWorldOnline.Commons.Utils;
 
 namespace DigitalWorldOnline.Routine
 {
@@ -81,8 +82,9 @@ namespace DigitalWorldOnline.Routine
                 })
                 .ConfigureHostConfiguration(hostConfig =>
                 {
-                    hostConfig.SetBasePath(Directory.GetCurrentDirectory());
-                    hostConfig.AddEnvironmentVariables("DSO_");
+                    hostConfig.SetBasePath(Directory.GetCurrentDirectory())
+                              .AddEnvironmentVariables(Constants.Configuration.EnvironmentPrefix)
+                              .AddUserSecrets<Program>();
                 })
                 .Build();
         }
