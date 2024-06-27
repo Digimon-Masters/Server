@@ -38,6 +38,7 @@ namespace DigitalWorldOnline.Game
 
         private static void UnhandledExceptionHandler(object sender, UnhandledExceptionEventArgs e)
         {
+            Console.WriteLine(((Exception)e.ExceptionObject).InnerException);
             if (e.IsTerminating)
                 Console.WriteLine("Terminating by unhandled exception...");
             else

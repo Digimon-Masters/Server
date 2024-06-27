@@ -20,6 +20,7 @@ using Serilog;
 using System.Globalization;
 using System.Reflection;
 using DigitalWorldOnline.Commons.Utils;
+using DigitalWorldOnline.Infraestructure.Repositories.Shop;
 
 namespace DigitalWorldOnline.Routine
 {
@@ -32,6 +33,7 @@ namespace DigitalWorldOnline.Routine
 
         private static void UnhandledExceptionHandler(object sender, UnhandledExceptionEventArgs e)
         {
+            Console.WriteLine(((Exception)e.ExceptionObject).InnerException);
             if (e.IsTerminating)
                 Console.WriteLine("Terminating by unhandled exception...");
             else
@@ -63,6 +65,7 @@ namespace DigitalWorldOnline.Routine
                     services.AddScoped<ICharacterCommandsRepository, CharacterCommandsRepository>();
                     services.AddScoped<IConfigQueriesRepository, ConfigQueriesRepository>();
                     services.AddScoped<IConfigCommandsRepository, ConfigCommandsRepository>();
+                    services.AddScoped<ICashShopRepository, CashShopRepository>();
                     services.AddAutoMapper(typeof(AccountProfile));
                     services.AddAutoMapper(typeof(AssetsProfile));
                     services.AddAutoMapper(typeof(CharacterProfile));
