@@ -66,7 +66,6 @@ public class CashShopImporter
             command.Parameters.AddWithValue("purchaseCashType", cashShopItem.PurchaseCashType);
             command.Parameters.AddWithValue("sellingPrice", cashShopItem.SellingPrice);
             command.Parameters.AddWithValue("itemsJson", JsonSerializer.Serialize(cashShopItem.Items));
-            command.Notification = new SqlNotificationRequest();
             command.ExecuteNonQuery();
             foreach (var item in cashShopItem.Items.DistinctBy(x => x.ItemId))
             {
